@@ -1,0 +1,9 @@
+﻿01_raw/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+pipeline.log
+.history/
+
+03_database/*.db

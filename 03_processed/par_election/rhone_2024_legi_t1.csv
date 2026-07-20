@@ -1,0 +1,1779 @@
+﻿id_election;annee;type_election;tour;code_commune;libelle_commune;nom;nuance;parti_politique;famille_politique;voix;ratio_voix_inscrits;ratio_voix_exprimes
+2024_legi_t1;2024;legi;1;69001;Affoux;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;16;5.06;6.99
+2024_legi_t1;2024;legi;1;69001;Affoux;FOURBOUL;REC;Reconquete;Extreme droite;3;0.95;1.31
+2024_legi_t1;2024;legi;1;69001;Affoux;GERY;RN;Rassemblement National;Extreme droite;106;33.54;46.29
+2024_legi_t1;2024;legi;1;69001;Affoux;REYMBAUT;UG;Union de la gauche;Gauche;28;8.86;12.23
+2024_legi_t1;2024;legi;1;69001;Affoux;SERRE;LR;Les Republicains;Droite;73;23.1;31.88
+2024_legi_t1;2024;legi;1;69001;Affoux;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.95;1.31
+2024_legi_t1;2024;legi;1;69002;Aigueperse;D'AUTRYVE;REG;Regionaliste;Divers;1;0.47;0.66
+2024_legi_t1;2024;legi;1;69002;Aigueperse;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.93;1.32
+2024_legi_t1;2024;legi;1;69002;Aigueperse;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;16;7.44;10.53
+2024_legi_t1;2024;legi;1;69002;Aigueperse;LOUIS;UXD;Union de l extreme droite;Extreme droite;59;27.44;38.82
+2024_legi_t1;2024;legi;1;69002;Aigueperse;PORTIER;LR;Les Republicains;Droite;55;25.58;36.18
+2024_legi_t1;2024;legi;1;69002;Aigueperse;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;19;8.84;12.5
+2024_legi_t1;2024;legi;1;69003;Albigny-Sur-Saône;BAZIN;REC;Reconquete;Extreme droite;19;0.96;1.37
+2024_legi_t1;2024;legi;1;69003;Albigny-Sur-Saône;BITOUM;RN;Rassemblement National;Extreme droite;398;20.17;28.65
+2024_legi_t1;2024;legi;1;69003;Albigny-Sur-Saône;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;387;19.61;27.86
+2024_legi_t1;2024;legi;1;69003;Albigny-Sur-Saône;JOINT;LR;Les Republicains;Droite;149;7.55;10.73
+2024_legi_t1;2024;legi;1;69003;Albigny-Sur-Saône;MATTEUCCI;UG;Union de la gauche;Gauche;432;21.9;31.1
+2024_legi_t1;2024;legi;1;69003;Albigny-Sur-Saône;RIVIERE;EXG;Extreme gauche;Extreme gauche;4;0.2;0.29
+2024_legi_t1;2024;legi;1;69004;Alix;D'AUTRYVE;REG;Regionaliste;Divers;3;0.61;0.79
+2024_legi_t1;2024;legi;1;69004;Alix;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.41;0.53
+2024_legi_t1;2024;legi;1;69004;Alix;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;49;10.04;12.96
+2024_legi_t1;2024;legi;1;69004;Alix;LOUIS;UXD;Union de l extreme droite;Extreme droite;133;27.25;35.19
+2024_legi_t1;2024;legi;1;69004;Alix;PORTIER;LR;Les Republicains;Droite;125;25.61;33.07
+2024_legi_t1;2024;legi;1;69004;Alix;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;66;13.52;17.46
+2024_legi_t1;2024;legi;1;69005;Ambérieux;D'AUTRYVE;REG;Regionaliste;Divers;1;0.24;0.32
+2024_legi_t1;2024;legi;1;69005;Ambérieux;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69005;Ambérieux;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;40;9.69;12.7
+2024_legi_t1;2024;legi;1;69005;Ambérieux;LOUIS;UXD;Union de l extreme droite;Extreme droite;160;38.74;50.79
+2024_legi_t1;2024;legi;1;69005;Ambérieux;PORTIER;LR;Les Republicains;Droite;70;16.95;22.22
+2024_legi_t1;2024;legi;1;69005;Ambérieux;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;44;10.65;13.97
+2024_legi_t1;2024;legi;1;69006;Amplepuis;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;283;7.95;11.71
+2024_legi_t1;2024;legi;1;69006;Amplepuis;FOURBOUL;REC;Reconquete;Extreme droite;21;0.59;0.87
+2024_legi_t1;2024;legi;1;69006;Amplepuis;GERY;RN;Rassemblement National;Extreme droite;931;26.16;38.52
+2024_legi_t1;2024;legi;1;69006;Amplepuis;REYMBAUT;UG;Union de la gauche;Gauche;537;15.09;22.22
+2024_legi_t1;2024;legi;1;69006;Amplepuis;SERRE;LR;Les Republicains;Droite;619;17.39;25.61
+2024_legi_t1;2024;legi;1;69006;Amplepuis;TEYSSIER;EXG;Extreme gauche;Extreme gauche;26;0.73;1.08
+2024_legi_t1;2024;legi;1;69007;Ampuis;BROWNING;EXG;Extreme gauche;Extreme gauche;20;0.93;1.27
+2024_legi_t1;2024;legi;1;69007;Ampuis;FERRO;LR;Les Republicains;Droite;123;5.69;7.8
+2024_legi_t1;2024;legi;1;69007;Ampuis;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;455;21.05;28.87
+2024_legi_t1;2024;legi;1;69007;Ampuis;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;744;34.41;47.21
+2024_legi_t1;2024;legi;1;69007;Ampuis;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;36;1.67;2.28
+2024_legi_t1;2024;legi;1;69007;Ampuis;YOUSFI;UG;Union de la gauche;Gauche;198;9.16;12.56
+2024_legi_t1;2024;legi;1;69008;Ancy;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;54;10.33;13.33
+2024_legi_t1;2024;legi;1;69008;Ancy;FOURBOUL;REC;Reconquete;Extreme droite;5;0.96;1.23
+2024_legi_t1;2024;legi;1;69008;Ancy;GERY;RN;Rassemblement National;Extreme droite;147;28.11;36.3
+2024_legi_t1;2024;legi;1;69008;Ancy;REYMBAUT;UG;Union de la gauche;Gauche;85;16.25;20.99
+2024_legi_t1;2024;legi;1;69008;Ancy;SERRE;LR;Les Republicains;Droite;109;20.84;26.91
+2024_legi_t1;2024;legi;1;69008;Ancy;TEYSSIER;EXG;Extreme gauche;Extreme gauche;5;0.96;1.23
+2024_legi_t1;2024;legi;1;69009;Anse;D'AUTRYVE;REG;Regionaliste;Divers;34;0.64;0.92
+2024_legi_t1;2024;legi;1;69009;Anse;HELLY;EXG;Extreme gauche;Extreme gauche;20;0.38;0.54
+2024_legi_t1;2024;legi;1;69009;Anse;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;583;10.96;15.72
+2024_legi_t1;2024;legi;1;69009;Anse;LOUIS;UXD;Union de l extreme droite;Extreme droite;1166;21.91;31.44
+2024_legi_t1;2024;legi;1;69009;Anse;PORTIER;LR;Les Republicains;Droite;844;15.86;22.76
+2024_legi_t1;2024;legi;1;69009;Anse;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;1062;19.96;28.63
+2024_legi_t1;2024;legi;1;69010;L'Arbresle;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;503;11.71;16.85
+2024_legi_t1;2024;legi;1;69010;L'Arbresle;FOURBOUL;REC;Reconquete;Extreme droite;26;0.61;0.87
+2024_legi_t1;2024;legi;1;69010;L'Arbresle;GERY;RN;Rassemblement National;Extreme droite;852;19.84;28.54
+2024_legi_t1;2024;legi;1;69010;L'Arbresle;REYMBAUT;UG;Union de la gauche;Gauche;1041;24.24;34.87
+2024_legi_t1;2024;legi;1;69010;L'Arbresle;SERRE;LR;Les Republicains;Droite;531;12.36;17.79
+2024_legi_t1;2024;legi;1;69010;L'Arbresle;TEYSSIER;EXG;Extreme gauche;Extreme gauche;32;0.75;1.07
+2024_legi_t1;2024;legi;1;69012;Les Ardillats;D'AUTRYVE;REG;Regionaliste;Divers;1;0.21;0.28
+2024_legi_t1;2024;legi;1;69012;Les Ardillats;HELLY;EXG;Extreme gauche;Extreme gauche;1;0.21;0.28
+2024_legi_t1;2024;legi;1;69012;Les Ardillats;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;30;6.34;8.33
+2024_legi_t1;2024;legi;1;69012;Les Ardillats;LOUIS;UXD;Union de l extreme droite;Extreme droite;124;26.22;34.44
+2024_legi_t1;2024;legi;1;69012;Les Ardillats;PORTIER;LR;Les Republicains;Droite;139;29.39;38.61
+2024_legi_t1;2024;legi;1;69012;Les Ardillats;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;65;13.74;18.06
+2024_legi_t1;2024;legi;1;69013;Arnas;D'AUTRYVE;REG;Regionaliste;Divers;11;0.39;0.53
+2024_legi_t1;2024;legi;1;69013;Arnas;HELLY;EXG;Extreme gauche;Extreme gauche;12;0.42;0.58
+2024_legi_t1;2024;legi;1;69013;Arnas;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;315;11.03;15.12
+2024_legi_t1;2024;legi;1;69013;Arnas;LOUIS;UXD;Union de l extreme droite;Extreme droite;806;28.22;38.69
+2024_legi_t1;2024;legi;1;69013;Arnas;PORTIER;LR;Les Republicains;Droite;479;16.77;23.0
+2024_legi_t1;2024;legi;1;69013;Arnas;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;460;16.11;22.08
+2024_legi_t1;2024;legi;1;69014;Aveize;BERENYI GELEY;REC;Reconquete;Extreme droite;2;0.25;0.34
+2024_legi_t1;2024;legi;1;69014;Aveize;BOMPARD;EXG;Extreme gauche;Extreme gauche;3;0.38;0.5
+2024_legi_t1;2024;legi;1;69014;Aveize;CRUZ;LR;Les Republicains;Droite;75;9.41;12.61
+2024_legi_t1;2024;legi;1;69014;Aveize;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;170;21.33;28.57
+2024_legi_t1;2024;legi;1;69014;Aveize;HORNUS;DVD;Divers droite;Droite;8;1.0;1.34
+2024_legi_t1;2024;legi;1;69014;Aveize;PATOUT;RN;Rassemblement National;Extreme droite;199;24.97;33.45
+2024_legi_t1;2024;legi;1;69014;Aveize;PERRIN;UG;Union de la gauche;Gauche;138;17.31;23.19
+2024_legi_t1;2024;legi;1;69016;Azolette;D'AUTRYVE;REG;Regionaliste;Divers;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69016;Azolette;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69016;Azolette;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;6;4.72;6.98
+2024_legi_t1;2024;legi;1;69016;Azolette;LOUIS;UXD;Union de l extreme droite;Extreme droite;28;22.05;32.56
+2024_legi_t1;2024;legi;1;69016;Azolette;PORTIER;LR;Les Republicains;Droite;45;35.43;52.33
+2024_legi_t1;2024;legi;1;69016;Azolette;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;7;5.51;8.14
+2024_legi_t1;2024;legi;1;69017;Bagnols;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;96;16.7;22.59
+2024_legi_t1;2024;legi;1;69017;Bagnols;FOURBOUL;REC;Reconquete;Extreme droite;5;0.87;1.18
+2024_legi_t1;2024;legi;1;69017;Bagnols;GERY;RN;Rassemblement National;Extreme droite;158;27.48;37.18
+2024_legi_t1;2024;legi;1;69017;Bagnols;REYMBAUT;UG;Union de la gauche;Gauche;85;14.78;20.0
+2024_legi_t1;2024;legi;1;69017;Bagnols;SERRE;LR;Les Republicains;Droite;76;13.22;17.88
+2024_legi_t1;2024;legi;1;69017;Bagnols;TEYSSIER;EXG;Extreme gauche;Extreme gauche;5;0.87;1.18
+2024_legi_t1;2024;legi;1;69018;Beaujeu;D'AUTRYVE;REG;Regionaliste;Divers;13;1.02;1.43
+2024_legi_t1;2024;legi;1;69018;Beaujeu;HELLY;EXG;Extreme gauche;Extreme gauche;7;0.55;0.77
+2024_legi_t1;2024;legi;1;69018;Beaujeu;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;124;9.71;13.69
+2024_legi_t1;2024;legi;1;69018;Beaujeu;LOUIS;UXD;Union de l extreme droite;Extreme droite;350;27.41;38.63
+2024_legi_t1;2024;legi;1;69018;Beaujeu;PORTIER;LR;Les Republicains;Droite;262;20.52;28.92
+2024_legi_t1;2024;legi;1;69018;Beaujeu;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;150;11.75;16.56
+2024_legi_t1;2024;legi;1;69019;Belleville;D'AUTRYVE;REG;Regionaliste;Divers;82;0.92;1.44
+2024_legi_t1;2024;legi;1;69019;Belleville-En-Beaujolais;D'AUTRYVE;REG;Regionaliste;Divers;82;0.92;1.44
+2024_legi_t1;2024;legi;1;69019;Belleville;HELLY;EXG;Extreme gauche;Extreme gauche;58;0.65;1.02
+2024_legi_t1;2024;legi;1;69019;Belleville-En-Beaujolais;HELLY;EXG;Extreme gauche;Extreme gauche;58;0.65;1.02
+2024_legi_t1;2024;legi;1;69019;Belleville;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;775;8.69;13.62
+2024_legi_t1;2024;legi;1;69019;Belleville-En-Beaujolais;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;775;8.69;13.62
+2024_legi_t1;2024;legi;1;69019;Belleville;LOUIS;UXD;Union de l extreme droite;Extreme droite;2317;25.98;40.71
+2024_legi_t1;2024;legi;1;69019;Belleville-En-Beaujolais;LOUIS;UXD;Union de l extreme droite;Extreme droite;2317;25.98;40.71
+2024_legi_t1;2024;legi;1;69019;Belleville;PORTIER;LR;Les Republicains;Droite;1070;12.0;18.8
+2024_legi_t1;2024;legi;1;69019;Belleville-En-Beaujolais;PORTIER;LR;Les Republicains;Droite;1070;12.0;18.8
+2024_legi_t1;2024;legi;1;69019;Belleville;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;1389;15.58;24.41
+2024_legi_t1;2024;legi;1;69019;Belleville-En-Beaujolais;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;1389;15.58;24.41
+2024_legi_t1;2024;legi;1;69020;Belmont-D'Azergues;D'AUTRYVE;REG;Regionaliste;Divers;3;0.59;0.73
+2024_legi_t1;2024;legi;1;69020;Belmont-D'Azergues;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.39;0.49
+2024_legi_t1;2024;legi;1;69020;Belmont-D'Azergues;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;80;15.69;19.46
+2024_legi_t1;2024;legi;1;69020;Belmont-D'Azergues;LOUIS;UXD;Union de l extreme droite;Extreme droite;134;26.27;32.6
+2024_legi_t1;2024;legi;1;69020;Belmont-D'Azergues;PORTIER;LR;Les Republicains;Droite;64;12.55;15.57
+2024_legi_t1;2024;legi;1;69020;Belmont-D'Azergues;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;128;25.1;31.14
+2024_legi_t1;2024;legi;1;69021;Bessenay;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;215;12.8;16.67
+2024_legi_t1;2024;legi;1;69021;Bessenay;FOURBOUL;REC;Reconquete;Extreme droite;5;0.3;0.39
+2024_legi_t1;2024;legi;1;69021;Bessenay;GERY;RN;Rassemblement National;Extreme droite;393;23.39;30.47
+2024_legi_t1;2024;legi;1;69021;Bessenay;REYMBAUT;UG;Union de la gauche;Gauche;390;23.21;30.23
+2024_legi_t1;2024;legi;1;69021;Bessenay;SERRE;LR;Les Republicains;Droite;268;15.95;20.78
+2024_legi_t1;2024;legi;1;69021;Bessenay;TEYSSIER;EXG;Extreme gauche;Extreme gauche;19;1.13;1.47
+2024_legi_t1;2024;legi;1;69022;Bibost;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;31;7.73;9.87
+2024_legi_t1;2024;legi;1;69022;Bibost;FOURBOUL;REC;Reconquete;Extreme droite;3;0.75;0.96
+2024_legi_t1;2024;legi;1;69022;Bibost;GERY;RN;Rassemblement National;Extreme droite;126;31.42;40.13
+2024_legi_t1;2024;legi;1;69022;Bibost;REYMBAUT;UG;Union de la gauche;Gauche;74;18.45;23.57
+2024_legi_t1;2024;legi;1;69022;Bibost;SERRE;LR;Les Republicains;Droite;78;19.45;24.84
+2024_legi_t1;2024;legi;1;69022;Bibost;TEYSSIER;EXG;Extreme gauche;Extreme gauche;2;0.5;0.64
+2024_legi_t1;2024;legi;1;69023;Blacé;D'AUTRYVE;REG;Regionaliste;Divers;10;0.8;1.04
+2024_legi_t1;2024;legi;1;69023;Blacé;HELLY;EXG;Extreme gauche;Extreme gauche;4;0.32;0.41
+2024_legi_t1;2024;legi;1;69023;Blacé;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;143;11.45;14.82
+2024_legi_t1;2024;legi;1;69023;Blacé;LOUIS;UXD;Union de l extreme droite;Extreme droite;390;31.22;40.41
+2024_legi_t1;2024;legi;1;69023;Blacé;PORTIER;LR;Les Republicains;Droite;261;20.9;27.05
+2024_legi_t1;2024;legi;1;69023;Blacé;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;157;12.57;16.27
+2024_legi_t1;2024;legi;1;69024;Le Bois-D'Oingt;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;550;16.54;22.25
+2024_legi_t1;2024;legi;1;69024;Val D'Oingt;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;550;16.54;22.25
+2024_legi_t1;2024;legi;1;69024;Le Bois-D'Oingt;FOURBOUL;REC;Reconquete;Extreme droite;19;0.57;0.77
+2024_legi_t1;2024;legi;1;69024;Val D'Oingt;FOURBOUL;REC;Reconquete;Extreme droite;19;0.57;0.77
+2024_legi_t1;2024;legi;1;69024;Le Bois-D'Oingt;GERY;RN;Rassemblement National;Extreme droite;792;23.81;32.04
+2024_legi_t1;2024;legi;1;69024;Val D'Oingt;GERY;RN;Rassemblement National;Extreme droite;792;23.81;32.04
+2024_legi_t1;2024;legi;1;69024;Le Bois-D'Oingt;REYMBAUT;UG;Union de la gauche;Gauche;662;19.9;26.78
+2024_legi_t1;2024;legi;1;69024;Val D'Oingt;REYMBAUT;UG;Union de la gauche;Gauche;662;19.9;26.78
+2024_legi_t1;2024;legi;1;69024;Le Bois-D'Oingt;SERRE;LR;Les Republicains;Droite;425;12.78;17.19
+2024_legi_t1;2024;legi;1;69024;Val D'Oingt;SERRE;LR;Les Republicains;Droite;425;12.78;17.19
+2024_legi_t1;2024;legi;1;69024;Le Bois-D'Oingt;TEYSSIER;EXG;Extreme gauche;Extreme gauche;24;0.72;0.97
+2024_legi_t1;2024;legi;1;69024;Val D'Oingt;TEYSSIER;EXG;Extreme gauche;Extreme gauche;24;0.72;0.97
+2024_legi_t1;2024;legi;1;69026;Le Breuil;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;43;11.11;15.3
+2024_legi_t1;2024;legi;1;69026;Le Breuil;FOURBOUL;REC;Reconquete;Extreme droite;5;1.29;1.78
+2024_legi_t1;2024;legi;1;69026;Le Breuil;GERY;RN;Rassemblement National;Extreme droite;110;28.42;39.15
+2024_legi_t1;2024;legi;1;69026;Le Breuil;REYMBAUT;UG;Union de la gauche;Gauche;51;13.18;18.15
+2024_legi_t1;2024;legi;1;69026;Le Breuil;SERRE;LR;Les Republicains;Droite;71;18.35;25.27
+2024_legi_t1;2024;legi;1;69026;Le Breuil;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.26;0.36
+2024_legi_t1;2024;legi;1;69027;Brignais;BERENYI GELEY;REC;Reconquete;Extreme droite;80;0.86;1.24
+2024_legi_t1;2024;legi;1;69027;Brignais;BOMPARD;EXG;Extreme gauche;Extreme gauche;72;0.77;1.11
+2024_legi_t1;2024;legi;1;69027;Brignais;CRUZ;LR;Les Republicains;Droite;498;5.34;7.7
+2024_legi_t1;2024;legi;1;69027;Brignais;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;1993;21.36;30.83
+2024_legi_t1;2024;legi;1;69027;Brignais;HORNUS;DVD;Divers droite;Droite;130;1.39;2.01
+2024_legi_t1;2024;legi;1;69027;Brignais;PATOUT;RN;Rassemblement National;Extreme droite;1810;19.4;28.0
+2024_legi_t1;2024;legi;1;69027;Brignais;PERRIN;UG;Union de la gauche;Gauche;1882;20.17;29.11
+2024_legi_t1;2024;legi;1;69028;Brindas;BERENYI GELEY;REC;Reconquete;Extreme droite;38;0.77;1.02
+2024_legi_t1;2024;legi;1;69028;Brindas;BOMPARD;EXG;Extreme gauche;Extreme gauche;21;0.43;0.56
+2024_legi_t1;2024;legi;1;69028;Brindas;CRUZ;LR;Les Republicains;Droite;324;6.59;8.67
+2024_legi_t1;2024;legi;1;69028;Brindas;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;1264;25.72;33.82
+2024_legi_t1;2024;legi;1;69028;Brindas;HORNUS;DVD;Divers droite;Droite;74;1.51;1.98
+2024_legi_t1;2024;legi;1;69028;Brindas;PATOUT;RN;Rassemblement National;Extreme droite;1170;23.8;31.31
+2024_legi_t1;2024;legi;1;69028;Brindas;PERRIN;UG;Union de la gauche;Gauche;846;17.21;22.64
+2024_legi_t1;2024;legi;1;69029;Bron;BENON;REC;Reconquete;Extreme droite;186;0.77;1.21
+2024_legi_t1;2024;legi;1;69029;Bron;FONTAINE;LR;Les Republicains;Droite;655;2.72;4.25
+2024_legi_t1;2024;legi;1;69029;Bron;LAHMAR;UG;Union de la gauche;Gauche;6615;27.5;42.9
+2024_legi_t1;2024;legi;1;69029;Bron;PIGNAL;RN;Rassemblement National;Extreme droite;3336;13.87;21.64
+2024_legi_t1;2024;legi;1;69029;Bron;SPREUX;EXG;Extreme gauche;Extreme gauche;179;0.74;1.16
+2024_legi_t1;2024;legi;1;69029;Bron;VINCENDET;ENS;Ensemble (Renaissance / LREM);Centre;4448;18.49;28.85
+2024_legi_t1;2024;legi;1;69030;Brullioles;BERENYI GELEY;REC;Reconquete;Extreme droite;5;0.75;1.08
+2024_legi_t1;2024;legi;1;69030;Brullioles;BOMPARD;EXG;Extreme gauche;Extreme gauche;7;1.05;1.52
+2024_legi_t1;2024;legi;1;69030;Brullioles;CRUZ;LR;Les Republicains;Droite;54;8.11;11.69
+2024_legi_t1;2024;legi;1;69030;Brullioles;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;100;15.02;21.65
+2024_legi_t1;2024;legi;1;69030;Brullioles;HORNUS;DVD;Divers droite;Droite;7;1.05;1.52
+2024_legi_t1;2024;legi;1;69030;Brullioles;PATOUT;RN;Rassemblement National;Extreme droite;183;27.48;39.61
+2024_legi_t1;2024;legi;1;69030;Brullioles;PERRIN;UG;Union de la gauche;Gauche;106;15.92;22.94
+2024_legi_t1;2024;legi;1;69031;Brussieu;BERENYI GELEY;REC;Reconquete;Extreme droite;7;0.73;1.0
+2024_legi_t1;2024;legi;1;69031;Brussieu;BOMPARD;EXG;Extreme gauche;Extreme gauche;4;0.42;0.57
+2024_legi_t1;2024;legi;1;69031;Brussieu;CRUZ;LR;Les Republicains;Droite;55;5.77;7.87
+2024_legi_t1;2024;legi;1;69031;Brussieu;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;192;20.13;27.47
+2024_legi_t1;2024;legi;1;69031;Brussieu;HORNUS;DVD;Divers droite;Droite;13;1.36;1.86
+2024_legi_t1;2024;legi;1;69031;Brussieu;PATOUT;RN;Rassemblement National;Extreme droite;274;28.72;39.2
+2024_legi_t1;2024;legi;1;69031;Brussieu;PERRIN;UG;Union de la gauche;Gauche;154;16.14;22.03
+2024_legi_t1;2024;legi;1;69032;Bully;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;237;14.65;19.7
+2024_legi_t1;2024;legi;1;69032;Bully;FOURBOUL;REC;Reconquete;Extreme droite;19;1.17;1.58
+2024_legi_t1;2024;legi;1;69032;Bully;GERY;RN;Rassemblement National;Extreme droite;443;27.38;36.82
+2024_legi_t1;2024;legi;1;69032;Bully;REYMBAUT;UG;Union de la gauche;Gauche;261;16.13;21.7
+2024_legi_t1;2024;legi;1;69032;Bully;SERRE;LR;Les Republicains;Droite;233;14.4;19.37
+2024_legi_t1;2024;legi;1;69032;Bully;TEYSSIER;EXG;Extreme gauche;Extreme gauche;10;0.62;0.83
+2024_legi_t1;2024;legi;1;69033;Cailloux-Sur-Fontaines;BAZIN;REC;Reconquete;Extreme droite;26;1.2;1.52
+2024_legi_t1;2024;legi;1;69033;Cailloux-Sur-Fontaines;BITOUM;RN;Rassemblement National;Extreme droite;558;25.66;32.54
+2024_legi_t1;2024;legi;1;69033;Cailloux-Sur-Fontaines;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;585;26.9;34.11
+2024_legi_t1;2024;legi;1;69033;Cailloux-Sur-Fontaines;JOINT;LR;Les Republicains;Droite;217;9.98;12.65
+2024_legi_t1;2024;legi;1;69033;Cailloux-Sur-Fontaines;MATTEUCCI;UG;Union de la gauche;Gauche;319;14.67;18.6
+2024_legi_t1;2024;legi;1;69033;Cailloux-Sur-Fontaines;RIVIERE;EXG;Extreme gauche;Extreme gauche;10;0.46;0.58
+2024_legi_t1;2024;legi;1;69034;Caluire-Et-Cuire;BAZIN;REC;Reconquete;Extreme droite;272;0.89;1.25
+2024_legi_t1;2024;legi;1;69034;Caluire-Et-Cuire;BITOUM;RN;Rassemblement National;Extreme droite;4357;14.29;19.96
+2024_legi_t1;2024;legi;1;69034;Caluire-Et-Cuire;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;6144;20.15;28.15
+2024_legi_t1;2024;legi;1;69034;Caluire-Et-Cuire;JOINT;LR;Les Republicains;Droite;3698;12.13;16.94
+2024_legi_t1;2024;legi;1;69034;Caluire-Et-Cuire;MATTEUCCI;UG;Union de la gauche;Gauche;7216;23.67;33.06
+2024_legi_t1;2024;legi;1;69034;Caluire-Et-Cuire;RIVIERE;EXG;Extreme gauche;Extreme gauche;137;0.45;0.63
+2024_legi_t1;2024;legi;1;69035;Cenves;D'AUTRYVE;REG;Regionaliste;Divers;3;0.88;1.24
+2024_legi_t1;2024;legi;1;69035;Cenves;HELLY;EXG;Extreme gauche;Extreme gauche;1;0.29;0.41
+2024_legi_t1;2024;legi;1;69035;Cenves;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;20;5.88;8.26
+2024_legi_t1;2024;legi;1;69035;Cenves;LOUIS;UXD;Union de l extreme droite;Extreme droite;78;22.94;32.23
+2024_legi_t1;2024;legi;1;69035;Cenves;PORTIER;LR;Les Republicains;Droite;79;23.24;32.64
+2024_legi_t1;2024;legi;1;69035;Cenves;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;61;17.94;25.21
+2024_legi_t1;2024;legi;1;69036;Cercié;D'AUTRYVE;REG;Regionaliste;Divers;7;0.85;1.15
+2024_legi_t1;2024;legi;1;69036;Cercié;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.24;0.33
+2024_legi_t1;2024;legi;1;69036;Cercié;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;57;6.9;9.39
+2024_legi_t1;2024;legi;1;69036;Cercié;LOUIS;UXD;Union de l extreme droite;Extreme droite;245;29.66;40.36
+2024_legi_t1;2024;legi;1;69036;Cercié;PORTIER;LR;Les Republicains;Droite;198;23.97;32.62
+2024_legi_t1;2024;legi;1;69036;Cercié;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;98;11.86;16.14
+2024_legi_t1;2024;legi;1;69037;Chambost-Allières;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;62;10.51;14.62
+2024_legi_t1;2024;legi;1;69037;Chambost-Allières;FOURBOUL;REC;Reconquete;Extreme droite;2;0.34;0.47
+2024_legi_t1;2024;legi;1;69037;Chambost-Allières;GERY;RN;Rassemblement National;Extreme droite;177;30.0;41.75
+2024_legi_t1;2024;legi;1;69037;Chambost-Allières;REYMBAUT;UG;Union de la gauche;Gauche;78;13.22;18.4
+2024_legi_t1;2024;legi;1;69037;Chambost-Allières;SERRE;LR;Les Republicains;Droite;102;17.29;24.06
+2024_legi_t1;2024;legi;1;69037;Chambost-Allières;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.51;0.71
+2024_legi_t1;2024;legi;1;69038;Chambost-Longessaigne;BERENYI GELEY;REC;Reconquete;Extreme droite;3;0.45;0.6
+2024_legi_t1;2024;legi;1;69038;Chambost-Longessaigne;BOMPARD;EXG;Extreme gauche;Extreme gauche;6;0.9;1.21
+2024_legi_t1;2024;legi;1;69038;Chambost-Longessaigne;CRUZ;LR;Les Republicains;Droite;48;7.22;9.68
+2024_legi_t1;2024;legi;1;69038;Chambost-Longessaigne;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;91;13.68;18.35
+2024_legi_t1;2024;legi;1;69038;Chambost-Longessaigne;HORNUS;DVD;Divers droite;Droite;3;0.45;0.6
+2024_legi_t1;2024;legi;1;69038;Chambost-Longessaigne;PATOUT;RN;Rassemblement National;Extreme droite;194;29.17;39.11
+2024_legi_t1;2024;legi;1;69038;Chambost-Longessaigne;PERRIN;UG;Union de la gauche;Gauche;151;22.71;30.44
+2024_legi_t1;2024;legi;1;69039;Chamelet;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;70;12.89;18.32
+2024_legi_t1;2024;legi;1;69039;Chamelet;FOURBOUL;REC;Reconquete;Extreme droite;3;0.55;0.79
+2024_legi_t1;2024;legi;1;69039;Chamelet;GERY;RN;Rassemblement National;Extreme droite;143;26.34;37.43
+2024_legi_t1;2024;legi;1;69039;Chamelet;REYMBAUT;UG;Union de la gauche;Gauche;104;19.15;27.23
+2024_legi_t1;2024;legi;1;69039;Chamelet;SERRE;LR;Les Republicains;Droite;59;10.87;15.45
+2024_legi_t1;2024;legi;1;69039;Chamelet;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.55;0.79
+2024_legi_t1;2024;legi;1;69040;Champagne-Au-Mont-D'Or;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;807;19.22;26.44
+2024_legi_t1;2024;legi;1;69040;Champagne-Au-Mont-D'Or;FOURBOUL;REC;Reconquete;Extreme droite;52;1.24;1.7
+2024_legi_t1;2024;legi;1;69040;Champagne-Au-Mont-D'Or;GERY;RN;Rassemblement National;Extreme droite;852;20.29;27.92
+2024_legi_t1;2024;legi;1;69040;Champagne-Au-Mont-D'Or;REYMBAUT;UG;Union de la gauche;Gauche;801;19.08;26.25
+2024_legi_t1;2024;legi;1;69040;Champagne-Au-Mont-D'Or;SERRE;LR;Les Republicains;Droite;517;12.31;16.94
+2024_legi_t1;2024;legi;1;69040;Champagne-Au-Mont-D'Or;TEYSSIER;EXG;Extreme gauche;Extreme gauche;23;0.55;0.75
+2024_legi_t1;2024;legi;1;69042;La Chapelle-Sur-Coise;BERENYI GELEY;REC;Reconquete;Extreme droite;4;0.91;1.14
+2024_legi_t1;2024;legi;1;69042;La Chapelle-Sur-Coise;BOMPARD;EXG;Extreme gauche;Extreme gauche;7;1.59;2.0
+2024_legi_t1;2024;legi;1;69042;La Chapelle-Sur-Coise;CRUZ;LR;Les Republicains;Droite;48;10.91;13.71
+2024_legi_t1;2024;legi;1;69042;La Chapelle-Sur-Coise;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;94;21.36;26.86
+2024_legi_t1;2024;legi;1;69042;La Chapelle-Sur-Coise;HORNUS;DVD;Divers droite;Droite;2;0.45;0.57
+2024_legi_t1;2024;legi;1;69042;La Chapelle-Sur-Coise;PATOUT;RN;Rassemblement National;Extreme droite;127;28.86;36.29
+2024_legi_t1;2024;legi;1;69042;La Chapelle-Sur-Coise;PERRIN;UG;Union de la gauche;Gauche;68;15.45;19.43
+2024_legi_t1;2024;legi;1;69043;Chaponost;BERENYI GELEY;REC;Reconquete;Extreme droite;60;0.88;1.15
+2024_legi_t1;2024;legi;1;69043;Chaponost;BOMPARD;EXG;Extreme gauche;Extreme gauche;35;0.52;0.67
+2024_legi_t1;2024;legi;1;69043;Chaponost;CRUZ;LR;Les Republicains;Droite;411;6.05;7.85
+2024_legi_t1;2024;legi;1;69043;Chaponost;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;2004;29.51;38.29
+2024_legi_t1;2024;legi;1;69043;Chaponost;HORNUS;DVD;Divers droite;Droite;83;1.22;1.59
+2024_legi_t1;2024;legi;1;69043;Chaponost;PATOUT;RN;Rassemblement National;Extreme droite;1375;20.24;26.27
+2024_legi_t1;2024;legi;1;69043;Chaponost;PERRIN;UG;Union de la gauche;Gauche;1266;18.64;24.19
+2024_legi_t1;2024;legi;1;69044;Charbonnières-Les-Bains;BERENYI GELEY;REC;Reconquete;Extreme droite;71;1.63;2.06
+2024_legi_t1;2024;legi;1;69044;Charbonnières-Les-Bains;BOMPARD;EXG;Extreme gauche;Extreme gauche;16;0.37;0.46
+2024_legi_t1;2024;legi;1;69044;Charbonnières-Les-Bains;CRUZ;LR;Les Republicains;Droite;368;8.44;10.68
+2024_legi_t1;2024;legi;1;69044;Charbonnières-Les-Bains;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;1558;35.74;45.21
+2024_legi_t1;2024;legi;1;69044;Charbonnières-Les-Bains;HORNUS;DVD;Divers droite;Droite;62;1.42;1.8
+2024_legi_t1;2024;legi;1;69044;Charbonnières-Les-Bains;PATOUT;RN;Rassemblement National;Extreme droite;880;20.19;25.54
+2024_legi_t1;2024;legi;1;69044;Charbonnières-Les-Bains;PERRIN;UG;Union de la gauche;Gauche;491;11.26;14.25
+2024_legi_t1;2024;legi;1;69045;Charentay;D'AUTRYVE;REG;Regionaliste;Divers;6;0.66;0.85
+2024_legi_t1;2024;legi;1;69045;Charentay;HELLY;EXG;Extreme gauche;Extreme gauche;4;0.44;0.57
+2024_legi_t1;2024;legi;1;69045;Charentay;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;94;10.34;13.35
+2024_legi_t1;2024;legi;1;69045;Charentay;LOUIS;UXD;Union de l extreme droite;Extreme droite;297;32.67;42.19
+2024_legi_t1;2024;legi;1;69045;Charentay;PORTIER;LR;Les Republicains;Droite;173;19.03;24.57
+2024_legi_t1;2024;legi;1;69045;Charentay;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;130;14.3;18.47
+2024_legi_t1;2024;legi;1;69046;Charly;CHARMOT;LR;Les Republicains;Droite;414;10.52;13.61
+2024_legi_t1;2024;legi;1;69046;Charly;FAURITE;EXG;Extreme gauche;Extreme gauche;16;0.41;0.53
+2024_legi_t1;2024;legi;1;69046;Charly;GAILLOT DURAND;UG;Union de la gauche;Gauche;621;15.78;20.42
+2024_legi_t1;2024;legi;1;69046;Charly;GALLICE;REC;Reconquete;Extreme droite;36;0.91;1.18
+2024_legi_t1;2024;legi;1;69046;Charly;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;1128;28.66;37.09
+2024_legi_t1;2024;legi;1;69046;Charly;LUISIER;RN;Rassemblement National;Extreme droite;826;20.99;27.16
+2024_legi_t1;2024;legi;1;69047;Charnay;D'AUTRYVE;REG;Regionaliste;Divers;4;0.55;0.71
+2024_legi_t1;2024;legi;1;69047;Charnay;HELLY;EXG;Extreme gauche;Extreme gauche;1;0.14;0.18
+2024_legi_t1;2024;legi;1;69047;Charnay;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;124;17.15;22.06
+2024_legi_t1;2024;legi;1;69047;Charnay;LOUIS;UXD;Union de l extreme droite;Extreme droite;148;20.47;26.33
+2024_legi_t1;2024;legi;1;69047;Charnay;PORTIER;LR;Les Republicains;Droite;156;21.58;27.76
+2024_legi_t1;2024;legi;1;69047;Charnay;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;129;17.84;22.95
+2024_legi_t1;2024;legi;1;69049;Chasselay;BAZIN;REC;Reconquete;Extreme droite;44;1.81;2.41
+2024_legi_t1;2024;legi;1;69049;Chasselay;BITOUM;RN;Rassemblement National;Extreme droite;540;22.24;29.56
+2024_legi_t1;2024;legi;1;69049;Chasselay;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;622;25.62;34.04
+2024_legi_t1;2024;legi;1;69049;Chasselay;JOINT;LR;Les Republicains;Droite;252;10.38;13.79
+2024_legi_t1;2024;legi;1;69049;Chasselay;MATTEUCCI;UG;Union de la gauche;Gauche;358;14.74;19.59
+2024_legi_t1;2024;legi;1;69049;Chasselay;RIVIERE;EXG;Extreme gauche;Extreme gauche;11;0.45;0.6
+2024_legi_t1;2024;legi;1;69050;Châtillon;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;288;16.64;22.05
+2024_legi_t1;2024;legi;1;69050;Châtillon;FOURBOUL;REC;Reconquete;Extreme droite;13;0.75;1.0
+2024_legi_t1;2024;legi;1;69050;Châtillon;GERY;RN;Rassemblement National;Extreme droite;409;23.63;31.32
+2024_legi_t1;2024;legi;1;69050;Châtillon;REYMBAUT;UG;Union de la gauche;Gauche;375;21.66;28.71
+2024_legi_t1;2024;legi;1;69050;Châtillon;SERRE;LR;Les Republicains;Droite;210;12.13;16.08
+2024_legi_t1;2024;legi;1;69050;Châtillon;TEYSSIER;EXG;Extreme gauche;Extreme gauche;11;0.64;0.84
+2024_legi_t1;2024;legi;1;69051;Chaussan;BROWNING;EXG;Extreme gauche;Extreme gauche;6;0.69;0.88
+2024_legi_t1;2024;legi;1;69051;Chaussan;FERRO;LR;Les Republicains;Droite;108;12.37;15.88
+2024_legi_t1;2024;legi;1;69051;Chaussan;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;184;21.08;27.06
+2024_legi_t1;2024;legi;1;69051;Chaussan;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;218;24.97;32.06
+2024_legi_t1;2024;legi;1;69051;Chaussan;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;18;2.06;2.65
+2024_legi_t1;2024;legi;1;69051;Chaussan;YOUSFI;UG;Union de la gauche;Gauche;146;16.72;21.47
+2024_legi_t1;2024;legi;1;69052;Chazay-D'Azergues;D'AUTRYVE;REG;Regionaliste;Divers;11;0.31;0.41
+2024_legi_t1;2024;legi;1;69052;Chazay-D'Azergues;HELLY;EXG;Extreme gauche;Extreme gauche;3;0.08;0.11
+2024_legi_t1;2024;legi;1;69052;Chazay-D'Azergues;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;488;13.75;18.11
+2024_legi_t1;2024;legi;1;69052;Chazay-D'Azergues;LOUIS;UXD;Union de l extreme droite;Extreme droite;759;21.38;28.17
+2024_legi_t1;2024;legi;1;69052;Chazay-D'Azergues;PORTIER;LR;Les Republicains;Droite;840;23.66;31.18
+2024_legi_t1;2024;legi;1;69052;Chazay-D'Azergues;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;593;16.7;22.01
+2024_legi_t1;2024;legi;1;69053;Chénas;D'AUTRYVE;REG;Regionaliste;Divers;2;0.45;0.64
+2024_legi_t1;2024;legi;1;69053;Chénas;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.45;0.64
+2024_legi_t1;2024;legi;1;69053;Chénas;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;44;9.82;14.1
+2024_legi_t1;2024;legi;1;69053;Chénas;LOUIS;UXD;Union de l extreme droite;Extreme droite;108;24.11;34.62
+2024_legi_t1;2024;legi;1;69053;Chénas;PORTIER;LR;Les Republicains;Droite;101;22.54;32.37
+2024_legi_t1;2024;legi;1;69053;Chénas;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;55;12.28;17.63
+2024_legi_t1;2024;legi;1;69054;Chénelette;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;22;7.41;9.91
+2024_legi_t1;2024;legi;1;69054;Chénelette;FOURBOUL;REC;Reconquete;Extreme droite;1;0.34;0.45
+2024_legi_t1;2024;legi;1;69054;Chénelette;GERY;RN;Rassemblement National;Extreme droite;101;34.01;45.5
+2024_legi_t1;2024;legi;1;69054;Chénelette;REYMBAUT;UG;Union de la gauche;Gauche;31;10.44;13.96
+2024_legi_t1;2024;legi;1;69054;Chénelette;SERRE;LR;Les Republicains;Droite;66;22.22;29.73
+2024_legi_t1;2024;legi;1;69054;Chénelette;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.34;0.45
+2024_legi_t1;2024;legi;1;69055;Les Chères;BAZIN;REC;Reconquete;Extreme droite;19;1.71;2.35
+2024_legi_t1;2024;legi;1;69055;Les Chères;BITOUM;RN;Rassemblement National;Extreme droite;329;29.53;40.67
+2024_legi_t1;2024;legi;1;69055;Les Chères;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;211;18.94;26.08
+2024_legi_t1;2024;legi;1;69055;Les Chères;JOINT;LR;Les Republicains;Droite;88;7.9;10.88
+2024_legi_t1;2024;legi;1;69055;Les Chères;MATTEUCCI;UG;Union de la gauche;Gauche;157;14.09;19.41
+2024_legi_t1;2024;legi;1;69055;Les Chères;RIVIERE;EXG;Extreme gauche;Extreme gauche;5;0.45;0.62
+2024_legi_t1;2024;legi;1;69056;Chessy-Les-Mines;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;221;15.37;20.31
+2024_legi_t1;2024;legi;1;69056;Chessy;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;221;15.37;20.31
+2024_legi_t1;2024;legi;1;69056;Chessy-Les-Mines;FOURBOUL;REC;Reconquete;Extreme droite;11;0.76;1.01
+2024_legi_t1;2024;legi;1;69056;Chessy;FOURBOUL;REC;Reconquete;Extreme droite;11;0.76;1.01
+2024_legi_t1;2024;legi;1;69056;Chessy-Les-Mines;GERY;RN;Rassemblement National;Extreme droite;407;28.3;37.41
+2024_legi_t1;2024;legi;1;69056;Chessy;GERY;RN;Rassemblement National;Extreme droite;407;28.3;37.41
+2024_legi_t1;2024;legi;1;69056;Chessy-Les-Mines;REYMBAUT;UG;Union de la gauche;Gauche;266;18.5;24.45
+2024_legi_t1;2024;legi;1;69056;Chessy;REYMBAUT;UG;Union de la gauche;Gauche;266;18.5;24.45
+2024_legi_t1;2024;legi;1;69056;Chessy-Les-Mines;SERRE;LR;Les Republicains;Droite;178;12.38;16.36
+2024_legi_t1;2024;legi;1;69056;Chessy;SERRE;LR;Les Republicains;Droite;178;12.38;16.36
+2024_legi_t1;2024;legi;1;69056;Chessy-Les-Mines;TEYSSIER;EXG;Extreme gauche;Extreme gauche;5;0.35;0.46
+2024_legi_t1;2024;legi;1;69056;Chessy;TEYSSIER;EXG;Extreme gauche;Extreme gauche;5;0.35;0.46
+2024_legi_t1;2024;legi;1;69057;Chevinay;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;65;13.92;17.91
+2024_legi_t1;2024;legi;1;69057;Chevinay;FOURBOUL;REC;Reconquete;Extreme droite;5;1.07;1.38
+2024_legi_t1;2024;legi;1;69057;Chevinay;GERY;RN;Rassemblement National;Extreme droite;110;23.55;30.3
+2024_legi_t1;2024;legi;1;69057;Chevinay;REYMBAUT;UG;Union de la gauche;Gauche;123;26.34;33.88
+2024_legi_t1;2024;legi;1;69057;Chevinay;SERRE;LR;Les Republicains;Droite;59;12.63;16.25
+2024_legi_t1;2024;legi;1;69057;Chevinay;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.21;0.28
+2024_legi_t1;2024;legi;1;69058;Chiroubles;D'AUTRYVE;REG;Regionaliste;Divers;3;0.88;1.18
+2024_legi_t1;2024;legi;1;69058;Chiroubles;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69058;Chiroubles;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;28;8.24;11.02
+2024_legi_t1;2024;legi;1;69058;Chiroubles;LOUIS;UXD;Union de l extreme droite;Extreme droite;83;24.41;32.68
+2024_legi_t1;2024;legi;1;69058;Chiroubles;PORTIER;LR;Les Republicains;Droite;72;21.18;28.35
+2024_legi_t1;2024;legi;1;69058;Chiroubles;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;68;20.0;26.77
+2024_legi_t1;2024;legi;1;69059;Civrieux-D'Azergues;BAZIN;REC;Reconquete;Extreme droite;16;1.33;1.78
+2024_legi_t1;2024;legi;1;69059;Civrieux-D'Azergues;BITOUM;RN;Rassemblement National;Extreme droite;286;23.81;31.81
+2024_legi_t1;2024;legi;1;69059;Civrieux-D'Azergues;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;317;26.39;35.26
+2024_legi_t1;2024;legi;1;69059;Civrieux-D'Azergues;JOINT;LR;Les Republicains;Droite;89;7.41;9.9
+2024_legi_t1;2024;legi;1;69059;Civrieux-D'Azergues;MATTEUCCI;UG;Union de la gauche;Gauche;187;15.57;20.8
+2024_legi_t1;2024;legi;1;69059;Civrieux-D'Azergues;RIVIERE;EXG;Extreme gauche;Extreme gauche;4;0.33;0.44
+2024_legi_t1;2024;legi;1;69060;Claveisolles;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;126;27.45;36.31
+2024_legi_t1;2024;legi;1;69060;Claveisolles;FOURBOUL;REC;Reconquete;Extreme droite;2;0.44;0.58
+2024_legi_t1;2024;legi;1;69060;Claveisolles;GERY;RN;Rassemblement National;Extreme droite;127;27.67;36.6
+2024_legi_t1;2024;legi;1;69060;Claveisolles;REYMBAUT;UG;Union de la gauche;Gauche;40;8.71;11.53
+2024_legi_t1;2024;legi;1;69060;Claveisolles;SERRE;LR;Les Republicains;Droite;46;10.02;13.26
+2024_legi_t1;2024;legi;1;69060;Claveisolles;TEYSSIER;EXG;Extreme gauche;Extreme gauche;6;1.31;1.73
+2024_legi_t1;2024;legi;1;69061;Cogny;D'AUTRYVE;REG;Regionaliste;Divers;8;0.83;1.09
+2024_legi_t1;2024;legi;1;69061;Cogny;HELLY;EXG;Extreme gauche;Extreme gauche;6;0.62;0.82
+2024_legi_t1;2024;legi;1;69061;Cogny;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;118;12.23;16.03
+2024_legi_t1;2024;legi;1;69061;Cogny;LOUIS;UXD;Union de l extreme droite;Extreme droite;270;27.98;36.68
+2024_legi_t1;2024;legi;1;69061;Cogny;PORTIER;LR;Les Republicains;Droite;171;17.72;23.23
+2024_legi_t1;2024;legi;1;69061;Cogny;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;163;16.89;22.15
+2024_legi_t1;2024;legi;1;69062;Coise;BERENYI GELEY;REC;Reconquete;Extreme droite;2;0.3;0.4
+2024_legi_t1;2024;legi;1;69062;Coise;BOMPARD;EXG;Extreme gauche;Extreme gauche;2;0.3;0.4
+2024_legi_t1;2024;legi;1;69062;Coise;CRUZ;LR;Les Republicains;Droite;87;13.24;17.26
+2024_legi_t1;2024;legi;1;69062;Coise;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;146;22.22;28.97
+2024_legi_t1;2024;legi;1;69062;Coise;HORNUS;DVD;Divers droite;Droite;2;0.3;0.4
+2024_legi_t1;2024;legi;1;69062;Coise;PATOUT;RN;Rassemblement National;Extreme droite;168;25.57;33.33
+2024_legi_t1;2024;legi;1;69062;Coise;PERRIN;UG;Union de la gauche;Gauche;97;14.76;19.25
+2024_legi_t1;2024;legi;1;69063;Collonges-Au-Mont-D'Or;BAZIN;REC;Reconquete;Extreme droite;54;1.53;2.0
+2024_legi_t1;2024;legi;1;69063;Collonges-Au-Mont-D'Or;BITOUM;RN;Rassemblement National;Extreme droite;711;20.1;26.3
+2024_legi_t1;2024;legi;1;69063;Collonges-Au-Mont-D'Or;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;1031;29.14;38.14
+2024_legi_t1;2024;legi;1;69063;Collonges-Au-Mont-D'Or;JOINT;LR;Les Republicains;Droite;334;9.44;12.36
+2024_legi_t1;2024;legi;1;69063;Collonges-Au-Mont-D'Or;MATTEUCCI;UG;Union de la gauche;Gauche;560;15.83;20.72
+2024_legi_t1;2024;legi;1;69063;Collonges-Au-Mont-D'Or;RIVIERE;EXG;Extreme gauche;Extreme gauche;13;0.37;0.48
+2024_legi_t1;2024;legi;1;69064;Condrieu;BROWNING;EXG;Extreme gauche;Extreme gauche;23;0.81;1.16
+2024_legi_t1;2024;legi;1;69064;Condrieu;FERRO;LR;Les Republicains;Droite;193;6.76;9.73
+2024_legi_t1;2024;legi;1;69064;Condrieu;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;527;18.46;26.56
+2024_legi_t1;2024;legi;1;69064;Condrieu;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;623;21.82;31.4
+2024_legi_t1;2024;legi;1;69064;Condrieu;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;65;2.28;3.28
+2024_legi_t1;2024;legi;1;69064;Condrieu;YOUSFI;UG;Union de la gauche;Gauche;553;19.37;27.87
+2024_legi_t1;2024;legi;1;69065;Corcelles-En-Beaujolais;D'AUTRYVE;REG;Regionaliste;Divers;7;0.98;1.43
+2024_legi_t1;2024;legi;1;69065;Corcelles-En-Beaujolais;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.28;0.41
+2024_legi_t1;2024;legi;1;69065;Corcelles-En-Beaujolais;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;60;8.39;12.3
+2024_legi_t1;2024;legi;1;69065;Corcelles-En-Beaujolais;LOUIS;UXD;Union de l extreme droite;Extreme droite;220;30.77;45.08
+2024_legi_t1;2024;legi;1;69065;Corcelles-En-Beaujolais;PORTIER;LR;Les Republicains;Droite;127;17.76;26.02
+2024_legi_t1;2024;legi;1;69065;Corcelles-En-Beaujolais;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;72;10.07;14.75
+2024_legi_t1;2024;legi;1;69066;Cours-La-Ville;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;189;6.0;9.02
+2024_legi_t1;2024;legi;1;69066;Cours;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;189;6.0;9.02
+2024_legi_t1;2024;legi;1;69066;Cours-La-Ville;FOURBOUL;REC;Reconquete;Extreme droite;19;0.6;0.91
+2024_legi_t1;2024;legi;1;69066;Cours;FOURBOUL;REC;Reconquete;Extreme droite;19;0.6;0.91
+2024_legi_t1;2024;legi;1;69066;Cours-La-Ville;GERY;RN;Rassemblement National;Extreme droite;969;30.77;46.23
+2024_legi_t1;2024;legi;1;69066;Cours;GERY;RN;Rassemblement National;Extreme droite;969;30.77;46.23
+2024_legi_t1;2024;legi;1;69066;Cours-La-Ville;REYMBAUT;UG;Union de la gauche;Gauche;276;8.76;13.17
+2024_legi_t1;2024;legi;1;69066;Cours;REYMBAUT;UG;Union de la gauche;Gauche;276;8.76;13.17
+2024_legi_t1;2024;legi;1;69066;Cours-La-Ville;SERRE;LR;Les Republicains;Droite;624;19.82;29.77
+2024_legi_t1;2024;legi;1;69066;Cours;SERRE;LR;Les Republicains;Droite;624;19.82;29.77
+2024_legi_t1;2024;legi;1;69066;Cours-La-Ville;TEYSSIER;EXG;Extreme gauche;Extreme gauche;19;0.6;0.91
+2024_legi_t1;2024;legi;1;69066;Cours;TEYSSIER;EXG;Extreme gauche;Extreme gauche;19;0.6;0.91
+2024_legi_t1;2024;legi;1;69067;Courzieu;BERENYI GELEY;REC;Reconquete;Extreme droite;6;0.66;0.99
+2024_legi_t1;2024;legi;1;69067;Courzieu;BOMPARD;EXG;Extreme gauche;Extreme gauche;3;0.33;0.5
+2024_legi_t1;2024;legi;1;69067;Courzieu;CRUZ;LR;Les Republicains;Droite;45;4.92;7.44
+2024_legi_t1;2024;legi;1;69067;Courzieu;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;176;19.23;29.09
+2024_legi_t1;2024;legi;1;69067;Courzieu;HORNUS;DVD;Divers droite;Droite;9;0.98;1.49
+2024_legi_t1;2024;legi;1;69067;Courzieu;PATOUT;RN;Rassemblement National;Extreme droite;227;24.81;37.52
+2024_legi_t1;2024;legi;1;69067;Courzieu;PERRIN;UG;Union de la gauche;Gauche;139;15.19;22.98
+2024_legi_t1;2024;legi;1;69068;Couzon-Au-Mont-D'Or;BAZIN;REC;Reconquete;Extreme droite;18;0.95;1.29
+2024_legi_t1;2024;legi;1;69068;Couzon-Au-Mont-D'Or;BITOUM;RN;Rassemblement National;Extreme droite;319;16.88;22.95
+2024_legi_t1;2024;legi;1;69068;Couzon-Au-Mont-D'Or;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;411;21.75;29.57
+2024_legi_t1;2024;legi;1;69068;Couzon-Au-Mont-D'Or;JOINT;LR;Les Republicains;Droite;133;7.04;9.57
+2024_legi_t1;2024;legi;1;69068;Couzon-Au-Mont-D'Or;MATTEUCCI;UG;Union de la gauche;Gauche;492;26.03;35.4
+2024_legi_t1;2024;legi;1;69068;Couzon-Au-Mont-D'Or;RIVIERE;EXG;Extreme gauche;Extreme gauche;17;0.9;1.22
+2024_legi_t1;2024;legi;1;69069;Craponne;BERENYI GELEY;REC;Reconquete;Extreme droite;78;0.98;1.31
+2024_legi_t1;2024;legi;1;69069;Craponne;BOMPARD;EXG;Extreme gauche;Extreme gauche;39;0.49;0.65
+2024_legi_t1;2024;legi;1;69069;Craponne;CRUZ;LR;Les Republicains;Droite;413;5.18;6.93
+2024_legi_t1;2024;legi;1;69069;Craponne;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;2101;26.37;35.26
+2024_legi_t1;2024;legi;1;69069;Craponne;HORNUS;DVD;Divers droite;Droite;78;0.98;1.31
+2024_legi_t1;2024;legi;1;69069;Craponne;PATOUT;RN;Rassemblement National;Extreme droite;1790;22.46;30.04
+2024_legi_t1;2024;legi;1;69069;Craponne;PERRIN;UG;Union de la gauche;Gauche;1459;18.31;24.49
+2024_legi_t1;2024;legi;1;69070;Cublize;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;76;8.06;11.38
+2024_legi_t1;2024;legi;1;69070;Cublize;FOURBOUL;REC;Reconquete;Extreme droite;7;0.74;1.05
+2024_legi_t1;2024;legi;1;69070;Cublize;GERY;RN;Rassemblement National;Extreme droite;293;31.07;43.86
+2024_legi_t1;2024;legi;1;69070;Cublize;REYMBAUT;UG;Union de la gauche;Gauche;142;15.06;21.26
+2024_legi_t1;2024;legi;1;69070;Cublize;SERRE;LR;Les Republicains;Droite;147;15.59;22.01
+2024_legi_t1;2024;legi;1;69070;Cublize;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.32;0.45
+2024_legi_t1;2024;legi;1;69071;Curis-Au-Mont-D'Or;BAZIN;REC;Reconquete;Extreme droite;8;0.87;1.09
+2024_legi_t1;2024;legi;1;69071;Curis-Au-Mont-D'Or;BITOUM;RN;Rassemblement National;Extreme droite;161;17.56;21.85
+2024_legi_t1;2024;legi;1;69071;Curis-Au-Mont-D'Or;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;271;29.55;36.77
+2024_legi_t1;2024;legi;1;69071;Curis-Au-Mont-D'Or;JOINT;LR;Les Republicains;Droite;69;7.52;9.36
+2024_legi_t1;2024;legi;1;69071;Curis-Au-Mont-D'Or;MATTEUCCI;UG;Union de la gauche;Gauche;219;23.88;29.72
+2024_legi_t1;2024;legi;1;69071;Curis-Au-Mont-D'Or;RIVIERE;EXG;Extreme gauche;Extreme gauche;9;0.98;1.22
+2024_legi_t1;2024;legi;1;69072;Dardilly;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;1845;26.44;35.28
+2024_legi_t1;2024;legi;1;69072;Dardilly;FOURBOUL;REC;Reconquete;Extreme droite;100;1.43;1.91
+2024_legi_t1;2024;legi;1;69072;Dardilly;GERY;RN;Rassemblement National;Extreme droite;1438;20.61;27.5
+2024_legi_t1;2024;legi;1;69072;Dardilly;REYMBAUT;UG;Union de la gauche;Gauche;952;13.64;18.21
+2024_legi_t1;2024;legi;1;69072;Dardilly;SERRE;LR;Les Republicains;Droite;870;12.47;16.64
+2024_legi_t1;2024;legi;1;69072;Dardilly;TEYSSIER;EXG;Extreme gauche;Extreme gauche;24;0.34;0.46
+2024_legi_t1;2024;legi;1;69074;Denicé;D'AUTRYVE;REG;Regionaliste;Divers;7;0.6;0.76
+2024_legi_t1;2024;legi;1;69074;Denicé;HELLY;EXG;Extreme gauche;Extreme gauche;5;0.43;0.54
+2024_legi_t1;2024;legi;1;69074;Denicé;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;183;15.71;19.83
+2024_legi_t1;2024;legi;1;69074;Denicé;LOUIS;UXD;Union de l extreme droite;Extreme droite;327;28.07;35.43
+2024_legi_t1;2024;legi;1;69074;Denicé;PORTIER;LR;Les Republicains;Droite;233;20.0;25.24
+2024_legi_t1;2024;legi;1;69074;Denicé;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;168;14.42;18.2
+2024_legi_t1;2024;legi;1;69075;Dième;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;10;8.06;10.42
+2024_legi_t1;2024;legi;1;69075;Dième;FOURBOUL;REC;Reconquete;Extreme droite;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69075;Dième;GERY;RN;Rassemblement National;Extreme droite;52;41.94;54.17
+2024_legi_t1;2024;legi;1;69075;Dième;REYMBAUT;UG;Union de la gauche;Gauche;12;9.68;12.5
+2024_legi_t1;2024;legi;1;69075;Dième;SERRE;LR;Les Republicains;Droite;22;17.74;22.92
+2024_legi_t1;2024;legi;1;69075;Dième;TEYSSIER;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69076;Dommartin;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;495;21.69;27.09
+2024_legi_t1;2024;legi;1;69076;Dommartin;FOURBOUL;REC;Reconquete;Extreme droite;40;1.75;2.19
+2024_legi_t1;2024;legi;1;69076;Dommartin;GERY;RN;Rassemblement National;Extreme droite;634;27.78;34.7
+2024_legi_t1;2024;legi;1;69076;Dommartin;REYMBAUT;UG;Union de la gauche;Gauche;268;11.74;14.67
+2024_legi_t1;2024;legi;1;69076;Dommartin;SERRE;LR;Les Republicains;Droite;382;16.74;20.91
+2024_legi_t1;2024;legi;1;69076;Dommartin;TEYSSIER;EXG;Extreme gauche;Extreme gauche;8;0.35;0.44
+2024_legi_t1;2024;legi;1;69077;Dracé;D'AUTRYVE;REG;Regionaliste;Divers;4;0.47;0.68
+2024_legi_t1;2024;legi;1;69077;Dracé;HELLY;EXG;Extreme gauche;Extreme gauche;9;1.05;1.53
+2024_legi_t1;2024;legi;1;69077;Dracé;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;45;5.27;7.65
+2024_legi_t1;2024;legi;1;69077;Dracé;LOUIS;UXD;Union de l extreme droite;Extreme droite;311;36.42;52.89
+2024_legi_t1;2024;legi;1;69077;Dracé;PORTIER;LR;Les Republicains;Droite;142;16.63;24.15
+2024_legi_t1;2024;legi;1;69077;Dracé;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;77;9.02;13.1
+2024_legi_t1;2024;legi;1;69078;Duerne;BERENYI GELEY;REC;Reconquete;Extreme droite;2;0.33;0.43
+2024_legi_t1;2024;legi;1;69078;Duerne;BOMPARD;EXG;Extreme gauche;Extreme gauche;1;0.17;0.21
+2024_legi_t1;2024;legi;1;69078;Duerne;CRUZ;LR;Les Republicains;Droite;48;7.95;10.28
+2024_legi_t1;2024;legi;1;69078;Duerne;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;136;22.52;29.12
+2024_legi_t1;2024;legi;1;69078;Duerne;HORNUS;DVD;Divers droite;Droite;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69078;Duerne;PATOUT;RN;Rassemblement National;Extreme droite;178;29.47;38.12
+2024_legi_t1;2024;legi;1;69078;Duerne;PERRIN;UG;Union de la gauche;Gauche;102;16.89;21.84
+2024_legi_t1;2024;legi;1;69080;Echalas;BROWNING;EXG;Extreme gauche;Extreme gauche;14;1.0;1.28
+2024_legi_t1;2024;legi;1;69080;Echalas;FERRO;LR;Les Republicains;Droite;75;5.36;6.86
+2024_legi_t1;2024;legi;1;69080;Echalas;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;275;19.64;25.16
+2024_legi_t1;2024;legi;1;69080;Echalas;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;524;37.43;47.94
+2024_legi_t1;2024;legi;1;69080;Echalas;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;41;2.93;3.75
+2024_legi_t1;2024;legi;1;69080;Echalas;YOUSFI;UG;Union de la gauche;Gauche;164;11.71;15.0
+2024_legi_t1;2024;legi;1;69081;Ecully;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;2496;20.92;28.52
+2024_legi_t1;2024;legi;1;69081;Ecully;FOURBOUL;REC;Reconquete;Extreme droite;163;1.37;1.86
+2024_legi_t1;2024;legi;1;69081;Ecully;GERY;RN;Rassemblement National;Extreme droite;2193;18.38;25.05
+2024_legi_t1;2024;legi;1;69081;Ecully;REYMBAUT;UG;Union de la gauche;Gauche;1744;14.62;19.92
+2024_legi_t1;2024;legi;1;69081;Ecully;SERRE;LR;Les Republicains;Droite;2101;17.61;24.0
+2024_legi_t1;2024;legi;1;69081;Ecully;TEYSSIER;EXG;Extreme gauche;Extreme gauche;56;0.47;0.64
+2024_legi_t1;2024;legi;1;69082;Emeringes;D'AUTRYVE;REG;Regionaliste;Divers;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69082;Emeringes;HELLY;EXG;Extreme gauche;Extreme gauche;1;0.5;0.62
+2024_legi_t1;2024;legi;1;69082;Emeringes;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;20;9.95;12.35
+2024_legi_t1;2024;legi;1;69082;Emeringes;LOUIS;UXD;Union de l extreme droite;Extreme droite;63;31.34;38.89
+2024_legi_t1;2024;legi;1;69082;Emeringes;PORTIER;LR;Les Republicains;Droite;61;30.35;37.65
+2024_legi_t1;2024;legi;1;69082;Emeringes;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;17;8.46;10.49
+2024_legi_t1;2024;legi;1;69083;Eveux;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;166;19.74;23.78
+2024_legi_t1;2024;legi;1;69083;Eveux;FOURBOUL;REC;Reconquete;Extreme droite;6;0.71;0.86
+2024_legi_t1;2024;legi;1;69083;Eveux;GERY;RN;Rassemblement National;Extreme droite;197;23.42;28.22
+2024_legi_t1;2024;legi;1;69083;Eveux;REYMBAUT;UG;Union de la gauche;Gauche;180;21.4;25.79
+2024_legi_t1;2024;legi;1;69083;Eveux;SERRE;LR;Les Republicains;Droite;142;16.88;20.34
+2024_legi_t1;2024;legi;1;69083;Eveux;TEYSSIER;EXG;Extreme gauche;Extreme gauche;7;0.83;1.0
+2024_legi_t1;2024;legi;1;69084;Fleurie;D'AUTRYVE;REG;Regionaliste;Divers;8;0.82;1.13
+2024_legi_t1;2024;legi;1;69084;Fleurie;HELLY;EXG;Extreme gauche;Extreme gauche;10;1.03;1.41
+2024_legi_t1;2024;legi;1;69084;Fleurie;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;88;9.03;12.39
+2024_legi_t1;2024;legi;1;69084;Fleurie;LOUIS;UXD;Union de l extreme droite;Extreme droite;271;27.82;38.17
+2024_legi_t1;2024;legi;1;69084;Fleurie;PORTIER;LR;Les Republicains;Droite;241;24.74;33.94
+2024_legi_t1;2024;legi;1;69084;Fleurie;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;92;9.45;12.96
+2024_legi_t1;2024;legi;1;69085;Fleurieu-Sur-Saône;BAZIN;REC;Reconquete;Extreme droite;13;1.17;1.47
+2024_legi_t1;2024;legi;1;69085;Fleurieu-Sur-Saône;BITOUM;RN;Rassemblement National;Extreme droite;245;22.07;27.68
+2024_legi_t1;2024;legi;1;69085;Fleurieu-Sur-Saône;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;309;27.84;34.92
+2024_legi_t1;2024;legi;1;69085;Fleurieu-Sur-Saône;JOINT;LR;Les Republicains;Droite;110;9.91;12.43
+2024_legi_t1;2024;legi;1;69085;Fleurieu-Sur-Saône;MATTEUCCI;UG;Union de la gauche;Gauche;202;18.2;22.82
+2024_legi_t1;2024;legi;1;69085;Fleurieu-Sur-Saône;RIVIERE;EXG;Extreme gauche;Extreme gauche;6;0.54;0.68
+2024_legi_t1;2024;legi;1;69086;Fleurieux-Sur-L'Arbresle;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;420;21.19;26.97
+2024_legi_t1;2024;legi;1;69086;Fleurieux-Sur-L'Arbresle;FOURBOUL;REC;Reconquete;Extreme droite;15;0.76;0.96
+2024_legi_t1;2024;legi;1;69086;Fleurieux-Sur-L'Arbresle;GERY;RN;Rassemblement National;Extreme droite;461;23.26;29.61
+2024_legi_t1;2024;legi;1;69086;Fleurieux-Sur-L'Arbresle;REYMBAUT;UG;Union de la gauche;Gauche;370;18.67;23.76
+2024_legi_t1;2024;legi;1;69086;Fleurieux-Sur-L'Arbresle;SERRE;LR;Les Republicains;Droite;281;14.18;18.05
+2024_legi_t1;2024;legi;1;69086;Fleurieux-Sur-L'Arbresle;TEYSSIER;EXG;Extreme gauche;Extreme gauche;10;0.5;0.64
+2024_legi_t1;2024;legi;1;69087;Fontaines-Saint-Martin;BAZIN;REC;Reconquete;Extreme droite;24;1.07;1.36
+2024_legi_t1;2024;legi;1;69087;Fontaines-Saint-Martin;BITOUM;RN;Rassemblement National;Extreme droite;384;17.2;21.77
+2024_legi_t1;2024;legi;1;69087;Fontaines-Saint-Martin;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;702;31.44;39.8
+2024_legi_t1;2024;legi;1;69087;Fontaines-Saint-Martin;JOINT;LR;Les Republicains;Droite;208;9.31;11.79
+2024_legi_t1;2024;legi;1;69087;Fontaines-Saint-Martin;MATTEUCCI;UG;Union de la gauche;Gauche;440;19.7;24.94
+2024_legi_t1;2024;legi;1;69087;Fontaines-Saint-Martin;RIVIERE;EXG;Extreme gauche;Extreme gauche;6;0.27;0.34
+2024_legi_t1;2024;legi;1;69088;Fontaines-Sur-Saône;BAZIN;REC;Reconquete;Extreme droite;67;1.32;1.97
+2024_legi_t1;2024;legi;1;69088;Fontaines-Sur-Saône;BITOUM;RN;Rassemblement National;Extreme droite;996;19.6;29.28
+2024_legi_t1;2024;legi;1;69088;Fontaines-Sur-Saône;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;998;19.64;29.34
+2024_legi_t1;2024;legi;1;69088;Fontaines-Sur-Saône;JOINT;LR;Les Republicains;Droite;291;5.73;8.55
+2024_legi_t1;2024;legi;1;69088;Fontaines-Sur-Saône;MATTEUCCI;UG;Union de la gauche;Gauche;1025;20.17;30.13
+2024_legi_t1;2024;legi;1;69088;Fontaines-Sur-Saône;RIVIERE;EXG;Extreme gauche;Extreme gauche;25;0.49;0.73
+2024_legi_t1;2024;legi;1;69089;Francheville;CHARMOT;LR;Les Republicains;Droite;904;8.86;11.8
+2024_legi_t1;2024;legi;1;69089;Francheville;FAURITE;EXG;Extreme gauche;Extreme gauche;55;0.54;0.72
+2024_legi_t1;2024;legi;1;69089;Francheville;GAILLOT DURAND;UG;Union de la gauche;Gauche;2226;21.82;29.06
+2024_legi_t1;2024;legi;1;69089;Francheville;GALLICE;REC;Reconquete;Extreme droite;84;0.82;1.1
+2024_legi_t1;2024;legi;1;69089;Francheville;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;2495;24.46;32.57
+2024_legi_t1;2024;legi;1;69089;Francheville;LUISIER;RN;Rassemblement National;Extreme droite;1897;18.6;24.76
+2024_legi_t1;2024;legi;1;69090;Frontenas;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;132;18.7;26.09
+2024_legi_t1;2024;legi;1;69090;Frontenas;FOURBOUL;REC;Reconquete;Extreme droite;1;0.14;0.2
+2024_legi_t1;2024;legi;1;69090;Frontenas;GERY;RN;Rassemblement National;Extreme droite;184;26.06;36.36
+2024_legi_t1;2024;legi;1;69090;Frontenas;REYMBAUT;UG;Union de la gauche;Gauche;112;15.86;22.13
+2024_legi_t1;2024;legi;1;69090;Frontenas;SERRE;LR;Les Republicains;Droite;73;10.34;14.43
+2024_legi_t1;2024;legi;1;69090;Frontenas;TEYSSIER;EXG;Extreme gauche;Extreme gauche;4;0.57;0.79
+2024_legi_t1;2024;legi;1;69091;Givors;BROWNING;EXG;Extreme gauche;Extreme gauche;117;1.01;1.84
+2024_legi_t1;2024;legi;1;69091;Givors;FERRO;LR;Les Republicains;Droite;282;2.43;4.44
+2024_legi_t1;2024;legi;1;69091;Givors;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;900;7.77;14.18
+2024_legi_t1;2024;legi;1;69091;Givors;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;1837;15.86;28.93
+2024_legi_t1;2024;legi;1;69091;Givors;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;164;1.42;2.58
+2024_legi_t1;2024;legi;1;69091;Givors;YOUSFI;UG;Union de la gauche;Gauche;3049;26.32;48.02
+2024_legi_t1;2024;legi;1;69092;Gleizé;D'AUTRYVE;REG;Regionaliste;Divers;37;0.63;0.97
+2024_legi_t1;2024;legi;1;69092;Gleizé;HELLY;EXG;Extreme gauche;Extreme gauche;35;0.59;0.91
+2024_legi_t1;2024;legi;1;69092;Gleizé;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;528;8.94;13.77
+2024_legi_t1;2024;legi;1;69092;Gleizé;LOUIS;UXD;Union de l extreme droite;Extreme droite;1310;22.17;34.17
+2024_legi_t1;2024;legi;1;69092;Gleizé;PORTIER;LR;Les Republicains;Droite;933;15.79;24.33
+2024_legi_t1;2024;legi;1;69092;Gleizé;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;991;16.77;25.85
+2024_legi_t1;2024;legi;1;69093;Grandris;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;119;14.39;21.56
+2024_legi_t1;2024;legi;1;69093;Grandris;FOURBOUL;REC;Reconquete;Extreme droite;4;0.48;0.72
+2024_legi_t1;2024;legi;1;69093;Grandris;GERY;RN;Rassemblement National;Extreme droite;182;22.01;32.97
+2024_legi_t1;2024;legi;1;69093;Grandris;REYMBAUT;UG;Union de la gauche;Gauche;148;17.9;26.81
+2024_legi_t1;2024;legi;1;69093;Grandris;SERRE;LR;Les Republicains;Droite;91;11.0;16.49
+2024_legi_t1;2024;legi;1;69093;Grandris;TEYSSIER;EXG;Extreme gauche;Extreme gauche;8;0.97;1.45
+2024_legi_t1;2024;legi;1;69094;Grézieu-La-Varenne;BERENYI GELEY;REC;Reconquete;Extreme droite;44;0.97;1.32
+2024_legi_t1;2024;legi;1;69094;Grézieu-La-Varenne;BOMPARD;EXG;Extreme gauche;Extreme gauche;23;0.51;0.69
+2024_legi_t1;2024;legi;1;69094;Grézieu-La-Varenne;CRUZ;LR;Les Republicains;Droite;235;5.18;7.05
+2024_legi_t1;2024;legi;1;69094;Grézieu-La-Varenne;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;1078;23.75;32.35
+2024_legi_t1;2024;legi;1;69094;Grézieu-La-Varenne;HORNUS;DVD;Divers droite;Droite;60;1.32;1.8
+2024_legi_t1;2024;legi;1;69094;Grézieu-La-Varenne;PATOUT;RN;Rassemblement National;Extreme droite;1121;24.7;33.64
+2024_legi_t1;2024;legi;1;69094;Grézieu-La-Varenne;PERRIN;UG;Union de la gauche;Gauche;771;16.99;23.14
+2024_legi_t1;2024;legi;1;69095;Grézieu-Le-Marché;BERENYI GELEY;REC;Reconquete;Extreme droite;1;0.15;0.2
+2024_legi_t1;2024;legi;1;69095;Grézieu-Le-Marché;BOMPARD;EXG;Extreme gauche;Extreme gauche;5;0.76;1.02
+2024_legi_t1;2024;legi;1;69095;Grézieu-Le-Marché;CRUZ;LR;Les Republicains;Droite;69;10.49;14.14
+2024_legi_t1;2024;legi;1;69095;Grézieu-Le-Marché;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;154;23.4;31.56
+2024_legi_t1;2024;legi;1;69095;Grézieu-Le-Marché;HORNUS;DVD;Divers droite;Droite;3;0.46;0.61
+2024_legi_t1;2024;legi;1;69095;Grézieu-Le-Marché;PATOUT;RN;Rassemblement National;Extreme droite;167;25.38;34.22
+2024_legi_t1;2024;legi;1;69095;Grézieu-Le-Marché;PERRIN;UG;Union de la gauche;Gauche;89;13.53;18.24
+2024_legi_t1;2024;legi;1;69096;Grigny;BROWNING;EXG;Extreme gauche;Extreme gauche;42;0.71;1.13
+2024_legi_t1;2024;legi;1;69096;Grigny;FERRO;LR;Les Republicains;Droite;245;4.12;6.58
+2024_legi_t1;2024;legi;1;69096;Grigny;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;659;11.08;17.71
+2024_legi_t1;2024;legi;1;69096;Grigny;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;1212;20.37;32.56
+2024_legi_t1;2024;legi;1;69096;Grigny;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;98;1.65;2.63
+2024_legi_t1;2024;legi;1;69096;Grigny;YOUSFI;UG;Union de la gauche;Gauche;1466;24.64;39.39
+2024_legi_t1;2024;legi;1;69097;Les Haies;BROWNING;EXG;Extreme gauche;Extreme gauche;6;0.91;1.24
+2024_legi_t1;2024;legi;1;69097;Les Haies;FERRO;LR;Les Republicains;Droite;23;3.48;4.77
+2024_legi_t1;2024;legi;1;69097;Les Haies;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;125;18.91;25.93
+2024_legi_t1;2024;legi;1;69097;Les Haies;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;227;34.34;47.1
+2024_legi_t1;2024;legi;1;69097;Les Haies;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;8;1.21;1.66
+2024_legi_t1;2024;legi;1;69097;Les Haies;YOUSFI;UG;Union de la gauche;Gauche;93;14.07;19.29
+2024_legi_t1;2024;legi;1;69098;Les Halles;BERENYI GELEY;REC;Reconquete;Extreme droite;1;0.29;0.45
+2024_legi_t1;2024;legi;1;69098;Les Halles;BOMPARD;EXG;Extreme gauche;Extreme gauche;3;0.88;1.36
+2024_legi_t1;2024;legi;1;69098;Les Halles;CRUZ;LR;Les Republicains;Droite;30;8.77;13.57
+2024_legi_t1;2024;legi;1;69098;Les Halles;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;39;11.4;17.65
+2024_legi_t1;2024;legi;1;69098;Les Halles;HORNUS;DVD;Divers droite;Droite;2;0.58;0.9
+2024_legi_t1;2024;legi;1;69098;Les Halles;PATOUT;RN;Rassemblement National;Extreme droite;114;33.33;51.58
+2024_legi_t1;2024;legi;1;69098;Les Halles;PERRIN;UG;Union de la gauche;Gauche;32;9.36;14.48
+2024_legi_t1;2024;legi;1;69099;Haute-Rivoire;BERENYI GELEY;REC;Reconquete;Extreme droite;5;0.49;0.69
+2024_legi_t1;2024;legi;1;69099;Haute-Rivoire;BOMPARD;EXG;Extreme gauche;Extreme gauche;11;1.08;1.52
+2024_legi_t1;2024;legi;1;69099;Haute-Rivoire;CRUZ;LR;Les Republicains;Droite;78;7.67;10.8
+2024_legi_t1;2024;legi;1;69099;Haute-Rivoire;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;184;18.09;25.48
+2024_legi_t1;2024;legi;1;69099;Haute-Rivoire;HORNUS;DVD;Divers droite;Droite;5;0.49;0.69
+2024_legi_t1;2024;legi;1;69099;Haute-Rivoire;PATOUT;RN;Rassemblement National;Extreme droite;326;32.06;45.15
+2024_legi_t1;2024;legi;1;69099;Haute-Rivoire;PERRIN;UG;Union de la gauche;Gauche;113;11.11;15.65
+2024_legi_t1;2024;legi;1;69100;Irigny;CHARMOT;LR;Les Republicains;Droite;417;6.48;8.89
+2024_legi_t1;2024;legi;1;69100;Irigny;FAURITE;EXG;Extreme gauche;Extreme gauche;64;0.99;1.36
+2024_legi_t1;2024;legi;1;69100;Irigny;GAILLOT DURAND;UG;Union de la gauche;Gauche;1339;20.81;28.53
+2024_legi_t1;2024;legi;1;69100;Irigny;GALLICE;REC;Reconquete;Extreme droite;65;1.01;1.39
+2024_legi_t1;2024;legi;1;69100;Irigny;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;1226;19.06;26.12
+2024_legi_t1;2024;legi;1;69100;Irigny;LUISIER;RN;Rassemblement National;Extreme droite;1582;24.59;33.71
+2024_legi_t1;2024;legi;1;69102;Joux;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;42;7.39;10.71
+2024_legi_t1;2024;legi;1;69102;Joux;FOURBOUL;REC;Reconquete;Extreme droite;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69102;Joux;GERY;RN;Rassemblement National;Extreme droite;160;28.17;40.82
+2024_legi_t1;2024;legi;1;69102;Joux;REYMBAUT;UG;Union de la gauche;Gauche;94;16.55;23.98
+2024_legi_t1;2024;legi;1;69102;Joux;SERRE;LR;Les Republicains;Droite;94;16.55;23.98
+2024_legi_t1;2024;legi;1;69102;Joux;TEYSSIER;EXG;Extreme gauche;Extreme gauche;2;0.35;0.51
+2024_legi_t1;2024;legi;1;69103;Juliénas;D'AUTRYVE;REG;Regionaliste;Divers;5;0.71;0.9
+2024_legi_t1;2024;legi;1;69103;Juliénas;HELLY;EXG;Extreme gauche;Extreme gauche;5;0.71;0.9
+2024_legi_t1;2024;legi;1;69103;Juliénas;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;88;12.46;15.88
+2024_legi_t1;2024;legi;1;69103;Juliénas;LOUIS;UXD;Union de l extreme droite;Extreme droite;195;27.62;35.2
+2024_legi_t1;2024;legi;1;69103;Juliénas;PORTIER;LR;Les Republicains;Droite;164;23.23;29.6
+2024_legi_t1;2024;legi;1;69103;Juliénas;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;97;13.74;17.51
+2024_legi_t1;2024;legi;1;69104;Jullié;D'AUTRYVE;REG;Regionaliste;Divers;6;1.87;2.42
+2024_legi_t1;2024;legi;1;69104;Jullié;HELLY;EXG;Extreme gauche;Extreme gauche;3;0.93;1.21
+2024_legi_t1;2024;legi;1;69104;Jullié;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;40;12.46;16.13
+2024_legi_t1;2024;legi;1;69104;Jullié;LOUIS;UXD;Union de l extreme droite;Extreme droite;92;28.66;37.1
+2024_legi_t1;2024;legi;1;69104;Jullié;PORTIER;LR;Les Republicains;Droite;61;19.0;24.6
+2024_legi_t1;2024;legi;1;69104;Jullié;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;46;14.33;18.55
+2024_legi_t1;2024;legi;1;69105;Lacenas;D'AUTRYVE;REG;Regionaliste;Divers;10;1.21;1.57
+2024_legi_t1;2024;legi;1;69105;Lacenas;HELLY;EXG;Extreme gauche;Extreme gauche;1;0.12;0.16
+2024_legi_t1;2024;legi;1;69105;Lacenas;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;109;13.15;17.08
+2024_legi_t1;2024;legi;1;69105;Lacenas;LOUIS;UXD;Union de l extreme droite;Extreme droite;172;20.75;26.96
+2024_legi_t1;2024;legi;1;69105;Lacenas;PORTIER;LR;Les Republicains;Droite;220;26.54;34.48
+2024_legi_t1;2024;legi;1;69105;Lacenas;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;126;15.2;19.75
+2024_legi_t1;2024;legi;1;69106;Lachassagne;D'AUTRYVE;REG;Regionaliste;Divers;8;0.83;1.02
+2024_legi_t1;2024;legi;1;69106;Lachassagne;HELLY;EXG;Extreme gauche;Extreme gauche;6;0.62;0.77
+2024_legi_t1;2024;legi;1;69106;Lachassagne;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;146;15.19;18.62
+2024_legi_t1;2024;legi;1;69106;Lachassagne;LOUIS;UXD;Union de l extreme droite;Extreme droite;266;27.68;33.93
+2024_legi_t1;2024;legi;1;69106;Lachassagne;PORTIER;LR;Les Republicains;Droite;188;19.56;23.98
+2024_legi_t1;2024;legi;1;69106;Lachassagne;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;170;17.69;21.68
+2024_legi_t1;2024;legi;1;69107;Lamure-Sur-Azergues;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;125;17.03;24.04
+2024_legi_t1;2024;legi;1;69107;Lamure-Sur-Azergues;FOURBOUL;REC;Reconquete;Extreme droite;4;0.54;0.77
+2024_legi_t1;2024;legi;1;69107;Lamure-Sur-Azergues;GERY;RN;Rassemblement National;Extreme droite;195;26.57;37.5
+2024_legi_t1;2024;legi;1;69107;Lamure-Sur-Azergues;REYMBAUT;UG;Union de la gauche;Gauche;90;12.26;17.31
+2024_legi_t1;2024;legi;1;69107;Lamure-Sur-Azergues;SERRE;LR;Les Republicains;Droite;102;13.9;19.62
+2024_legi_t1;2024;legi;1;69107;Lamure-Sur-Azergues;TEYSSIER;EXG;Extreme gauche;Extreme gauche;4;0.54;0.77
+2024_legi_t1;2024;legi;1;69108;Lancié;D'AUTRYVE;REG;Regionaliste;Divers;1;0.13;0.17
+2024_legi_t1;2024;legi;1;69108;Lancié;HELLY;EXG;Extreme gauche;Extreme gauche;8;1.05;1.38
+2024_legi_t1;2024;legi;1;69108;Lancié;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;65;8.56;11.21
+2024_legi_t1;2024;legi;1;69108;Lancié;LOUIS;UXD;Union de l extreme droite;Extreme droite;241;31.75;41.55
+2024_legi_t1;2024;legi;1;69108;Lancié;PORTIER;LR;Les Republicains;Droite;125;16.47;21.55
+2024_legi_t1;2024;legi;1;69108;Lancié;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;140;18.45;24.14
+2024_legi_t1;2024;legi;1;69109;Lantignié;D'AUTRYVE;REG;Regionaliste;Divers;3;0.43;0.59
+2024_legi_t1;2024;legi;1;69109;Lantignié;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.29;0.39
+2024_legi_t1;2024;legi;1;69109;Lantignié;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;74;10.56;14.57
+2024_legi_t1;2024;legi;1;69109;Lantignié;LOUIS;UXD;Union de l extreme droite;Extreme droite;194;27.67;38.19
+2024_legi_t1;2024;legi;1;69109;Lantignié;PORTIER;LR;Les Republicains;Droite;160;22.82;31.5
+2024_legi_t1;2024;legi;1;69109;Lantignié;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;75;10.7;14.76
+2024_legi_t1;2024;legi;1;69110;Larajasse;BERENYI GELEY;REC;Reconquete;Extreme droite;6;0.41;0.57
+2024_legi_t1;2024;legi;1;69110;Larajasse;BOMPARD;EXG;Extreme gauche;Extreme gauche;5;0.34;0.48
+2024_legi_t1;2024;legi;1;69110;Larajasse;CRUZ;LR;Les Republicains;Droite;161;11.03;15.32
+2024_legi_t1;2024;legi;1;69110;Larajasse;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;269;18.44;25.59
+2024_legi_t1;2024;legi;1;69110;Larajasse;HORNUS;DVD;Divers droite;Droite;13;0.89;1.24
+2024_legi_t1;2024;legi;1;69110;Larajasse;PATOUT;RN;Rassemblement National;Extreme droite;403;27.62;38.34
+2024_legi_t1;2024;legi;1;69110;Larajasse;PERRIN;UG;Union de la gauche;Gauche;194;13.3;18.46
+2024_legi_t1;2024;legi;1;69111;Légny;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;80;15.97;21.28
+2024_legi_t1;2024;legi;1;69111;Légny;FOURBOUL;REC;Reconquete;Extreme droite;1;0.2;0.27
+2024_legi_t1;2024;legi;1;69111;Légny;GERY;RN;Rassemblement National;Extreme droite;125;24.95;33.24
+2024_legi_t1;2024;legi;1;69111;Légny;REYMBAUT;UG;Union de la gauche;Gauche;95;18.96;25.27
+2024_legi_t1;2024;legi;1;69111;Légny;SERRE;LR;Les Republicains;Droite;74;14.77;19.68
+2024_legi_t1;2024;legi;1;69111;Légny;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.2;0.27
+2024_legi_t1;2024;legi;1;69112;Lentilly;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;1000;19.79;25.69
+2024_legi_t1;2024;legi;1;69112;Lentilly;FOURBOUL;REC;Reconquete;Extreme droite;30;0.59;0.77
+2024_legi_t1;2024;legi;1;69112;Lentilly;GERY;RN;Rassemblement National;Extreme droite;1189;23.53;30.54
+2024_legi_t1;2024;legi;1;69112;Lentilly;REYMBAUT;UG;Union de la gauche;Gauche;952;18.84;24.45
+2024_legi_t1;2024;legi;1;69112;Lentilly;SERRE;LR;Les Republicains;Droite;686;13.57;17.62
+2024_legi_t1;2024;legi;1;69112;Lentilly;TEYSSIER;EXG;Extreme gauche;Extreme gauche;36;0.71;0.92
+2024_legi_t1;2024;legi;1;69113;Létra;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;112;18.09;23.98
+2024_legi_t1;2024;legi;1;69113;Létra;FOURBOUL;REC;Reconquete;Extreme droite;2;0.32;0.43
+2024_legi_t1;2024;legi;1;69113;Létra;GERY;RN;Rassemblement National;Extreme droite;139;22.46;29.76
+2024_legi_t1;2024;legi;1;69113;Létra;REYMBAUT;UG;Union de la gauche;Gauche;118;19.06;25.27
+2024_legi_t1;2024;legi;1;69113;Létra;SERRE;LR;Les Republicains;Droite;95;15.35;20.34
+2024_legi_t1;2024;legi;1;69113;Létra;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.16;0.21
+2024_legi_t1;2024;legi;1;69115;Limas;D'AUTRYVE;REG;Regionaliste;Divers;20;0.58;0.81
+2024_legi_t1;2024;legi;1;69115;Limas;HELLY;EXG;Extreme gauche;Extreme gauche;8;0.23;0.32
+2024_legi_t1;2024;legi;1;69115;Limas;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;368;10.7;14.85
+2024_legi_t1;2024;legi;1;69115;Limas;LOUIS;UXD;Union de l extreme droite;Extreme droite;787;22.88;31.76
+2024_legi_t1;2024;legi;1;69115;Limas;PORTIER;LR;Les Republicains;Droite;646;18.78;26.07
+2024_legi_t1;2024;legi;1;69115;Limas;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;649;18.87;26.19
+2024_legi_t1;2024;legi;1;69116;Limonest;BAZIN;REC;Reconquete;Extreme droite;41;1.44;1.88
+2024_legi_t1;2024;legi;1;69116;Limonest;BITOUM;RN;Rassemblement National;Extreme droite;741;26.04;33.94
+2024_legi_t1;2024;legi;1;69116;Limonest;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;776;27.27;35.55
+2024_legi_t1;2024;legi;1;69116;Limonest;JOINT;LR;Les Republicains;Droite;310;10.89;14.2
+2024_legi_t1;2024;legi;1;69116;Limonest;MATTEUCCI;UG;Union de la gauche;Gauche;306;10.75;14.02
+2024_legi_t1;2024;legi;1;69116;Limonest;RIVIERE;EXG;Extreme gauche;Extreme gauche;9;0.32;0.41
+2024_legi_t1;2024;legi;1;69117;Lissieu;BAZIN;REC;Reconquete;Extreme droite;36;1.39;1.84
+2024_legi_t1;2024;legi;1;69117;Lissieu;BITOUM;RN;Rassemblement National;Extreme droite;598;23.15;30.57
+2024_legi_t1;2024;legi;1;69117;Lissieu;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;730;28.26;37.32
+2024_legi_t1;2024;legi;1;69117;Lissieu;JOINT;LR;Les Republicains;Droite;248;9.6;12.68
+2024_legi_t1;2024;legi;1;69117;Lissieu;MATTEUCCI;UG;Union de la gauche;Gauche;328;12.7;16.77
+2024_legi_t1;2024;legi;1;69117;Lissieu;RIVIERE;EXG;Extreme gauche;Extreme gauche;16;0.62;0.82
+2024_legi_t1;2024;legi;1;69118;Loire-Sur-Rhône;BROWNING;EXG;Extreme gauche;Extreme gauche;10;0.5;0.7
+2024_legi_t1;2024;legi;1;69118;Loire-Sur-Rhône;FERRO;LR;Les Republicains;Droite;132;6.54;9.22
+2024_legi_t1;2024;legi;1;69118;Loire-Sur-Rhône;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;308;15.27;21.51
+2024_legi_t1;2024;legi;1;69118;Loire-Sur-Rhône;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;686;34.01;47.91
+2024_legi_t1;2024;legi;1;69118;Loire-Sur-Rhône;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;37;1.83;2.58
+2024_legi_t1;2024;legi;1;69118;Loire-Sur-Rhône;YOUSFI;UG;Union de la gauche;Gauche;259;12.84;18.09
+2024_legi_t1;2024;legi;1;69119;Longes;BROWNING;EXG;Extreme gauche;Extreme gauche;6;0.9;1.23
+2024_legi_t1;2024;legi;1;69119;Longes;FERRO;LR;Les Republicains;Droite;42;6.29;8.62
+2024_legi_t1;2024;legi;1;69119;Longes;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;126;18.86;25.87
+2024_legi_t1;2024;legi;1;69119;Longes;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;211;31.59;43.33
+2024_legi_t1;2024;legi;1;69119;Longes;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;15;2.25;3.08
+2024_legi_t1;2024;legi;1;69119;Longes;YOUSFI;UG;Union de la gauche;Gauche;87;13.02;17.86
+2024_legi_t1;2024;legi;1;69120;Longessaigne;BERENYI GELEY;REC;Reconquete;Extreme droite;1;0.23;0.31
+2024_legi_t1;2024;legi;1;69120;Longessaigne;BOMPARD;EXG;Extreme gauche;Extreme gauche;3;0.68;0.93
+2024_legi_t1;2024;legi;1;69120;Longessaigne;CRUZ;LR;Les Republicains;Droite;36;8.14;11.11
+2024_legi_t1;2024;legi;1;69120;Longessaigne;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;94;21.27;29.01
+2024_legi_t1;2024;legi;1;69120;Longessaigne;HORNUS;DVD;Divers droite;Droite;3;0.68;0.93
+2024_legi_t1;2024;legi;1;69120;Longessaigne;PATOUT;RN;Rassemblement National;Extreme droite;111;25.11;34.26
+2024_legi_t1;2024;legi;1;69120;Longessaigne;PERRIN;UG;Union de la gauche;Gauche;76;17.19;23.46
+2024_legi_t1;2024;legi;1;69121;Lozanne;D'AUTRYVE;REG;Regionaliste;Divers;17;0.77;1.05
+2024_legi_t1;2024;legi;1;69121;Lozanne;HELLY;EXG;Extreme gauche;Extreme gauche;9;0.41;0.56
+2024_legi_t1;2024;legi;1;69121;Lozanne;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;292;13.15;18.06
+2024_legi_t1;2024;legi;1;69121;Lozanne;LOUIS;UXD;Union de l extreme droite;Extreme droite;569;25.63;35.19
+2024_legi_t1;2024;legi;1;69121;Lozanne;PORTIER;LR;Les Republicains;Droite;351;15.81;21.71
+2024_legi_t1;2024;legi;1;69121;Lozanne;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;379;17.07;23.44
+2024_legi_t1;2024;legi;1;69122;Lucenay;D'AUTRYVE;REG;Regionaliste;Divers;3;0.19;0.24
+2024_legi_t1;2024;legi;1;69122;Lucenay;HELLY;EXG;Extreme gauche;Extreme gauche;4;0.25;0.32
+2024_legi_t1;2024;legi;1;69122;Lucenay;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;205;12.73;16.37
+2024_legi_t1;2024;legi;1;69122;Lucenay;LOUIS;UXD;Union de l extreme droite;Extreme droite;475;29.5;37.94
+2024_legi_t1;2024;legi;1;69122;Lucenay;PORTIER;LR;Les Republicains;Droite;360;22.36;28.75
+2024_legi_t1;2024;legi;1;69122;Lucenay;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;205;12.73;16.37
+2024_legi_t1;2024;legi;1;69123;Lyon;ALVES;REC;Reconquete;Extreme droite;413;0.14;0.18
+2024_legi_t1;2024;legi;1;69123;Lyon;BARRALLON;EXG;Extreme gauche;Extreme gauche;141;0.05;0.06
+2024_legi_t1;2024;legi;1;69123;Lyon;BELOUASSA-CHERIFI;UG;Union de la gauche;Gauche;22045;7.44;9.86
+2024_legi_t1;2024;legi;1;69123;Lyon;BILLARD;LR;Les Republicains;Droite;6268;2.12;2.8
+2024_legi_t1;2024;legi;1;69123;Lyon;BISLEAU;RN;Rassemblement National;Extreme droite;8228;2.78;3.68
+2024_legi_t1;2024;legi;1;69123;Lyon;BOURRET;UDI;Union des Democrates et Independants;Centre;501;0.17;0.22
+2024_legi_t1;2024;legi;1;69123;Lyon;BRIDAY;EXG;Extreme gauche;Extreme gauche;297;0.1;0.13
+2024_legi_t1;2024;legi;1;69123;Lyon;BRUGNERA;ENS;Ensemble (Renaissance / LREM);Centre;18744;6.33;8.39
+2024_legi_t1;2024;legi;1;69123;Lyon;BRUNO;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69123;Lyon;BUGNI;EXG;Extreme gauche;Extreme gauche;353;0.12;0.16
+2024_legi_t1;2024;legi;1;69123;Lyon;CHAUMONT;RN;Rassemblement National;Extreme droite;10818;3.65;4.84
+2024_legi_t1;2024;legi;1;69123;Lyon;CHINAL;DIV;Divers;Divers;71;0.02;0.03
+2024_legi_t1;2024;legi;1;69123;Lyon;COULAN;DIV;Divers;Divers;148;0.05;0.07
+2024_legi_t1;2024;legi;1;69123;Lyon;DE MONTILLE;LR;Les Republicains;Droite;4464;1.51;2.0
+2024_legi_t1;2024;legi;1;69123;Lyon;DUDUKDJIAN;EXG;Extreme gauche;Extreme gauche;260;0.09;0.12
+2024_legi_t1;2024;legi;1;69123;Lyon;ETENNE;REC;Reconquete;Extreme droite;456;0.15;0.2
+2024_legi_t1;2024;legi;1;69123;Lyon;EYMERIC;DIV;Divers;Divers;109;0.04;0.05
+2024_legi_t1;2024;legi;1;69123;Lyon;EYNAUD-LASSALLE;ENS;Ensemble (Renaissance / LREM);Centre;11557;3.9;5.17
+2024_legi_t1;2024;legi;1;69123;Lyon;GARIN;UG;Union de la gauche;Gauche;27736;9.36;12.41
+2024_legi_t1;2024;legi;1;69123;Lyon;GUILLOTEAU;LR;Les Republicains;Droite;4456;1.5;1.99
+2024_legi_t1;2024;legi;1;69123;Lyon;JEGO;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69123;Lyon;JOUTEUX;EXG;Extreme gauche;Extreme gauche;133;0.04;0.06
+2024_legi_t1;2024;legi;1;69123;Lyon;LAFOND;ECO;Europe Ecologie Les Verts;Ecologie;688;0.23;0.31
+2024_legi_t1;2024;legi;1;69123;Lyon;LAURENT;EXG;Extreme gauche;Extreme gauche;329;0.11;0.15
+2024_legi_t1;2024;legi;1;69123;Lyon;LOPOUCHANSKY;EXG;Extreme gauche;Extreme gauche;2;0.0;0.0
+2024_legi_t1;2024;legi;1;69123;Lyon;MAHMOUD-VINTAM;DIV;Divers;Divers;731;0.25;0.33
+2024_legi_t1;2024;legi;1;69123;Lyon;MORIN;RN;Rassemblement National;Extreme droite;7938;2.68;3.55
+2024_legi_t1;2024;legi;1;69123;Lyon;MOUTON;RN;Rassemblement National;Extreme droite;9361;3.16;4.19
+2024_legi_t1;2024;legi;1;69123;Lyon;QUEVY;ECO;Europe Ecologie Les Verts;Ecologie;502;0.17;0.22
+2024_legi_t1;2024;legi;1;69123;Lyon;RILLY;REC;Reconquete;Extreme droite;486;0.16;0.22
+2024_legi_t1;2024;legi;1;69123;Lyon;RUDIGOZ;ENS;Ensemble (Renaissance / LREM);Centre;15275;5.16;6.83
+2024_legi_t1;2024;legi;1;69123;Lyon;RUNEL;UG;Union de la gauche;Gauche;22959;7.75;10.27
+2024_legi_t1;2024;legi;1;69123;Lyon;SANSOZ;LR;Les Republicains;Droite;3005;1.01;1.34
+2024_legi_t1;2024;legi;1;69123;Lyon;TAVERNIER;UG;Union de la gauche;Gauche;28567;9.64;12.78
+2024_legi_t1;2024;legi;1;69123;Lyon;TERRENES;ENS;Ensemble (Renaissance / LREM);Centre;14455;4.88;6.47
+2024_legi_t1;2024;legi;1;69123;Lyon;THIRIAT;ECO;Europe Ecologie Les Verts;Ecologie;1165;0.39;0.52
+2024_legi_t1;2024;legi;1;69123;Lyon;TORRENT;REC;Reconquete;Extreme droite;655;0.22;0.29
+2024_legi_t1;2024;legi;1;69123;Lyon;TOUIHRI;DIV;Divers;Divers;63;0.02;0.03
+2024_legi_t1;2024;legi;1;69123;Lyon;VEL;DIV;Divers;Divers;143;0.05;0.06
+2024_legi_t1;2024;legi;1;69124;Marchampt;D'AUTRYVE;REG;Regionaliste;Divers;3;0.77;1.05
+2024_legi_t1;2024;legi;1;69124;Marchampt;HELLY;EXG;Extreme gauche;Extreme gauche;5;1.29;1.75
+2024_legi_t1;2024;legi;1;69124;Marchampt;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;37;9.51;12.98
+2024_legi_t1;2024;legi;1;69124;Marchampt;LOUIS;UXD;Union de l extreme droite;Extreme droite;92;23.65;32.28
+2024_legi_t1;2024;legi;1;69124;Marchampt;PORTIER;LR;Les Republicains;Droite;80;20.57;28.07
+2024_legi_t1;2024;legi;1;69124;Marchampt;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;68;17.48;23.86
+2024_legi_t1;2024;legi;1;69125;Marcilly-D'Azergues;BAZIN;REC;Reconquete;Extreme droite;16;2.01;2.53
+2024_legi_t1;2024;legi;1;69125;Marcilly-D'Azergues;BITOUM;RN;Rassemblement National;Extreme droite;211;26.47;33.33
+2024_legi_t1;2024;legi;1;69125;Marcilly-D'Azergues;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;208;26.1;32.86
+2024_legi_t1;2024;legi;1;69125;Marcilly-D'Azergues;JOINT;LR;Les Republicains;Droite;71;8.91;11.22
+2024_legi_t1;2024;legi;1;69125;Marcilly-D'Azergues;MATTEUCCI;UG;Union de la gauche;Gauche;125;15.68;19.75
+2024_legi_t1;2024;legi;1;69125;Marcilly-D'Azergues;RIVIERE;EXG;Extreme gauche;Extreme gauche;2;0.25;0.32
+2024_legi_t1;2024;legi;1;69126;Marcy;D'AUTRYVE;REG;Regionaliste;Divers;4;0.59;0.77
+2024_legi_t1;2024;legi;1;69126;Marcy;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69126;Marcy;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;110;16.34;21.15
+2024_legi_t1;2024;legi;1;69126;Marcy;LOUIS;UXD;Union de l extreme droite;Extreme droite;151;22.44;29.04
+2024_legi_t1;2024;legi;1;69126;Marcy;PORTIER;LR;Les Republicains;Droite;165;24.52;31.73
+2024_legi_t1;2024;legi;1;69126;Marcy;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;90;13.37;17.31
+2024_legi_t1;2024;legi;1;69127;Marcy-L'Etoile;BERENYI GELEY;REC;Reconquete;Extreme droite;20;0.8;1.04
+2024_legi_t1;2024;legi;1;69127;Marcy-L'Etoile;BOMPARD;EXG;Extreme gauche;Extreme gauche;14;0.56;0.73
+2024_legi_t1;2024;legi;1;69127;Marcy-L'Etoile;CRUZ;LR;Les Republicains;Droite;107;4.28;5.55
+2024_legi_t1;2024;legi;1;69127;Marcy-L'Etoile;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;694;27.77;36.0
+2024_legi_t1;2024;legi;1;69127;Marcy-L'Etoile;HORNUS;DVD;Divers droite;Droite;21;0.84;1.09
+2024_legi_t1;2024;legi;1;69127;Marcy-L'Etoile;PATOUT;RN;Rassemblement National;Extreme droite;534;21.37;27.7
+2024_legi_t1;2024;legi;1;69127;Marcy-L'Etoile;PERRIN;UG;Union de la gauche;Gauche;538;21.53;27.9
+2024_legi_t1;2024;legi;1;69130;Meaux-La-Montagne;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;29;14.57;21.32
+2024_legi_t1;2024;legi;1;69130;Meaux-La-Montagne;FOURBOUL;REC;Reconquete;Extreme droite;1;0.5;0.74
+2024_legi_t1;2024;legi;1;69130;Meaux-La-Montagne;GERY;RN;Rassemblement National;Extreme droite;55;27.64;40.44
+2024_legi_t1;2024;legi;1;69130;Meaux-La-Montagne;REYMBAUT;UG;Union de la gauche;Gauche;18;9.05;13.24
+2024_legi_t1;2024;legi;1;69130;Meaux-La-Montagne;SERRE;LR;Les Republicains;Droite;33;16.58;24.26
+2024_legi_t1;2024;legi;1;69130;Meaux-La-Montagne;TEYSSIER;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69131;Messimy;BERENYI GELEY;REC;Reconquete;Extreme droite;19;0.7;0.91
+2024_legi_t1;2024;legi;1;69131;Messimy;BOMPARD;EXG;Extreme gauche;Extreme gauche;19;0.7;0.91
+2024_legi_t1;2024;legi;1;69131;Messimy;CRUZ;LR;Les Republicains;Droite;201;7.37;9.64
+2024_legi_t1;2024;legi;1;69131;Messimy;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;555;20.34;26.61
+2024_legi_t1;2024;legi;1;69131;Messimy;HORNUS;DVD;Divers droite;Droite;30;1.1;1.44
+2024_legi_t1;2024;legi;1;69131;Messimy;PATOUT;RN;Rassemblement National;Extreme droite;831;30.45;39.84
+2024_legi_t1;2024;legi;1;69131;Messimy;PERRIN;UG;Union de la gauche;Gauche;431;15.79;20.66
+2024_legi_t1;2024;legi;1;69132;Meys;BERENYI GELEY;REC;Reconquete;Extreme droite;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69132;Meys;BOMPARD;EXG;Extreme gauche;Extreme gauche;5;0.81;1.13
+2024_legi_t1;2024;legi;1;69132;Meys;CRUZ;LR;Les Republicains;Droite;57;9.21;12.84
+2024_legi_t1;2024;legi;1;69132;Meys;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;94;15.19;21.17
+2024_legi_t1;2024;legi;1;69132;Meys;HORNUS;DVD;Divers droite;Droite;5;0.81;1.13
+2024_legi_t1;2024;legi;1;69132;Meys;PATOUT;RN;Rassemblement National;Extreme droite;207;33.44;46.62
+2024_legi_t1;2024;legi;1;69132;Meys;PERRIN;UG;Union de la gauche;Gauche;76;12.28;17.12
+2024_legi_t1;2024;legi;1;69133;Millery;BROWNING;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69133;Millery;FERRO;LR;Les Republicains;Droite;267;8.12;10.93
+2024_legi_t1;2024;legi;1;69133;Millery;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;938;28.51;38.4
+2024_legi_t1;2024;legi;1;69133;Millery;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;702;21.34;28.74
+2024_legi_t1;2024;legi;1;69133;Millery;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;83;2.52;3.4
+2024_legi_t1;2024;legi;1;69133;Millery;YOUSFI;UG;Union de la gauche;Gauche;453;13.77;18.54
+2024_legi_t1;2024;legi;1;69134;Moiré;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;41;19.81;25.62
+2024_legi_t1;2024;legi;1;69134;Moiré;FOURBOUL;REC;Reconquete;Extreme droite;6;2.9;3.75
+2024_legi_t1;2024;legi;1;69134;Moiré;GERY;RN;Rassemblement National;Extreme droite;45;21.74;28.12
+2024_legi_t1;2024;legi;1;69134;Moiré;REYMBAUT;UG;Union de la gauche;Gauche;31;14.98;19.38
+2024_legi_t1;2024;legi;1;69134;Moiré;SERRE;LR;Les Republicains;Droite;36;17.39;22.5
+2024_legi_t1;2024;legi;1;69134;Moiré;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.48;0.62
+2024_legi_t1;2024;legi;1;69135;Monsols;D'AUTRYVE;REG;Regionaliste;Divers;5;0.36;0.5
+2024_legi_t1;2024;legi;1;69135;Deux-Grosnes;D'AUTRYVE;REG;Regionaliste;Divers;5;0.36;0.5
+2024_legi_t1;2024;legi;1;69135;Monsols;HELLY;EXG;Extreme gauche;Extreme gauche;7;0.5;0.7
+2024_legi_t1;2024;legi;1;69135;Deux-Grosnes;HELLY;EXG;Extreme gauche;Extreme gauche;7;0.5;0.7
+2024_legi_t1;2024;legi;1;69135;Monsols;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;102;7.26;10.23
+2024_legi_t1;2024;legi;1;69135;Deux-Grosnes;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;102;7.26;10.23
+2024_legi_t1;2024;legi;1;69135;Monsols;LOUIS;UXD;Union de l extreme droite;Extreme droite;370;26.33;37.11
+2024_legi_t1;2024;legi;1;69135;Deux-Grosnes;LOUIS;UXD;Union de l extreme droite;Extreme droite;370;26.33;37.11
+2024_legi_t1;2024;legi;1;69135;Monsols;PORTIER;LR;Les Republicains;Droite;333;23.7;33.4
+2024_legi_t1;2024;legi;1;69135;Deux-Grosnes;PORTIER;LR;Les Republicains;Droite;333;23.7;33.4
+2024_legi_t1;2024;legi;1;69135;Monsols;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;180;12.81;18.05
+2024_legi_t1;2024;legi;1;69135;Deux-Grosnes;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;180;12.81;18.05
+2024_legi_t1;2024;legi;1;69136;Montagny;BROWNING;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69136;Montagny;FERRO;LR;Les Republicains;Droite;190;8.43;11.51
+2024_legi_t1;2024;legi;1;69136;Montagny;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;495;21.97;29.98
+2024_legi_t1;2024;legi;1;69136;Montagny;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;667;29.6;40.4
+2024_legi_t1;2024;legi;1;69136;Montagny;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;46;2.04;2.79
+2024_legi_t1;2024;legi;1;69136;Montagny;YOUSFI;UG;Union de la gauche;Gauche;253;11.23;15.32
+2024_legi_t1;2024;legi;1;69137;Montmelas-Saint-Sorlin;D'AUTRYVE;REG;Regionaliste;Divers;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69137;Montmelas-Saint-Sorlin;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69137;Montmelas-Saint-Sorlin;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;36;10.59;13.43
+2024_legi_t1;2024;legi;1;69137;Montmelas-Saint-Sorlin;LOUIS;UXD;Union de l extreme droite;Extreme droite;80;23.53;29.85
+2024_legi_t1;2024;legi;1;69137;Montmelas-Saint-Sorlin;PORTIER;LR;Les Republicains;Droite;69;20.29;25.75
+2024_legi_t1;2024;legi;1;69137;Montmelas-Saint-Sorlin;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;83;24.41;30.97
+2024_legi_t1;2024;legi;1;69138;Montromant;BERENYI GELEY;REC;Reconquete;Extreme droite;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69138;Montromant;BOMPARD;EXG;Extreme gauche;Extreme gauche;4;1.13;1.46
+2024_legi_t1;2024;legi;1;69138;Montromant;CRUZ;LR;Les Republicains;Droite;12;3.39;4.38
+2024_legi_t1;2024;legi;1;69138;Montromant;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;88;24.86;32.12
+2024_legi_t1;2024;legi;1;69138;Montromant;HORNUS;DVD;Divers droite;Droite;1;0.28;0.36
+2024_legi_t1;2024;legi;1;69138;Montromant;PATOUT;RN;Rassemblement National;Extreme droite;85;24.01;31.02
+2024_legi_t1;2024;legi;1;69138;Montromant;PERRIN;UG;Union de la gauche;Gauche;84;23.73;30.66
+2024_legi_t1;2024;legi;1;69139;Montrottier;BERENYI GELEY;REC;Reconquete;Extreme droite;11;1.01;1.35
+2024_legi_t1;2024;legi;1;69139;Montrottier;BOMPARD;EXG;Extreme gauche;Extreme gauche;10;0.92;1.23
+2024_legi_t1;2024;legi;1;69139;Montrottier;CRUZ;LR;Les Republicains;Droite;61;5.62;7.51
+2024_legi_t1;2024;legi;1;69139;Montrottier;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;204;18.8;25.12
+2024_legi_t1;2024;legi;1;69139;Montrottier;HORNUS;DVD;Divers droite;Droite;7;0.65;0.86
+2024_legi_t1;2024;legi;1;69139;Montrottier;PATOUT;RN;Rassemblement National;Extreme droite;331;30.51;40.76
+2024_legi_t1;2024;legi;1;69139;Montrottier;PERRIN;UG;Union de la gauche;Gauche;188;17.33;23.15
+2024_legi_t1;2024;legi;1;69140;Morancé;D'AUTRYVE;REG;Regionaliste;Divers;13;0.7;0.9
+2024_legi_t1;2024;legi;1;69140;Morancé;HELLY;EXG;Extreme gauche;Extreme gauche;7;0.38;0.48
+2024_legi_t1;2024;legi;1;69140;Morancé;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;326;17.58;22.5
+2024_legi_t1;2024;legi;1;69140;Morancé;LOUIS;UXD;Union de l extreme droite;Extreme droite;448;24.16;30.92
+2024_legi_t1;2024;legi;1;69140;Morancé;PORTIER;LR;Les Republicains;Droite;383;20.66;26.43
+2024_legi_t1;2024;legi;1;69140;Morancé;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;272;14.67;18.77
+2024_legi_t1;2024;legi;1;69141;Mornant;BROWNING;EXG;Extreme gauche;Extreme gauche;26;0.52;0.7
+2024_legi_t1;2024;legi;1;69141;Mornant;FERRO;LR;Les Republicains;Droite;818;16.48;21.98
+2024_legi_t1;2024;legi;1;69141;Mornant;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;911;18.36;24.48
+2024_legi_t1;2024;legi;1;69141;Mornant;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;1092;22.0;29.34
+2024_legi_t1;2024;legi;1;69141;Mornant;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;106;2.14;2.85
+2024_legi_t1;2024;legi;1;69141;Mornant;YOUSFI;UG;Union de la gauche;Gauche;769;15.49;20.66
+2024_legi_t1;2024;legi;1;69142;La Mulatière;CHARMOT;LR;Les Republicains;Droite;304;7.83;11.92
+2024_legi_t1;2024;legi;1;69142;La Mulatière;FAURITE;EXG;Extreme gauche;Extreme gauche;32;0.82;1.25
+2024_legi_t1;2024;legi;1;69142;La Mulatière;GAILLOT DURAND;UG;Union de la gauche;Gauche;833;21.46;32.67
+2024_legi_t1;2024;legi;1;69142;La Mulatière;GALLICE;REC;Reconquete;Extreme droite;40;1.03;1.57
+2024_legi_t1;2024;legi;1;69142;La Mulatière;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;667;17.19;26.16
+2024_legi_t1;2024;legi;1;69142;La Mulatière;LUISIER;RN;Rassemblement National;Extreme droite;674;17.37;26.43
+2024_legi_t1;2024;legi;1;69143;Neuville-Sur-Saône;BAZIN;REC;Reconquete;Extreme droite;53;1.06;1.56
+2024_legi_t1;2024;legi;1;69143;Neuville-Sur-Saône;BITOUM;RN;Rassemblement National;Extreme droite;861;17.22;25.31
+2024_legi_t1;2024;legi;1;69143;Neuville-Sur-Saône;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;898;17.96;26.4
+2024_legi_t1;2024;legi;1;69143;Neuville-Sur-Saône;JOINT;LR;Les Republicains;Droite;294;5.88;8.64
+2024_legi_t1;2024;legi;1;69143;Neuville-Sur-Saône;MATTEUCCI;UG;Union de la gauche;Gauche;1252;25.04;36.8
+2024_legi_t1;2024;legi;1;69143;Neuville-Sur-Saône;RIVIERE;EXG;Extreme gauche;Extreme gauche;44;0.88;1.29
+2024_legi_t1;2024;legi;1;69145;Odenas;D'AUTRYVE;REG;Regionaliste;Divers;5;0.81;1.08
+2024_legi_t1;2024;legi;1;69145;Odenas;HELLY;EXG;Extreme gauche;Extreme gauche;3;0.48;0.65
+2024_legi_t1;2024;legi;1;69145;Odenas;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;61;9.82;13.12
+2024_legi_t1;2024;legi;1;69145;Odenas;LOUIS;UXD;Union de l extreme droite;Extreme droite;157;25.28;33.76
+2024_legi_t1;2024;legi;1;69145;Odenas;PORTIER;LR;Les Republicains;Droite;146;23.51;31.4
+2024_legi_t1;2024;legi;1;69145;Odenas;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;93;14.98;20.0
+2024_legi_t1;2024;legi;1;69148;Orliénas;BROWNING;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69148;Orliénas;FERRO;LR;Les Republicains;Droite;152;7.33;9.57
+2024_legi_t1;2024;legi;1;69148;Orliénas;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;533;25.71;33.54
+2024_legi_t1;2024;legi;1;69148;Orliénas;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;515;24.84;32.41
+2024_legi_t1;2024;legi;1;69148;Orliénas;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;44;2.12;2.77
+2024_legi_t1;2024;legi;1;69148;Orliénas;YOUSFI;UG;Union de la gauche;Gauche;345;16.64;21.71
+2024_legi_t1;2024;legi;1;69149;Oullins;CHARMOT;LR;Les Republicains;Droite;1318;5.54;8.21
+2024_legi_t1;2024;legi;1;69149;Oullins-Pierre-Bénite;CHARMOT;LR;Les Republicains;Droite;1318;5.54;8.21
+2024_legi_t1;2024;legi;1;69149;Oullins;FAURITE;EXG;Extreme gauche;Extreme gauche;238;1.0;1.48
+2024_legi_t1;2024;legi;1;69149;Oullins-Pierre-Bénite;FAURITE;EXG;Extreme gauche;Extreme gauche;238;1.0;1.48
+2024_legi_t1;2024;legi;1;69149;Oullins;GAILLOT DURAND;UG;Union de la gauche;Gauche;6953;29.2;43.29
+2024_legi_t1;2024;legi;1;69149;Oullins-Pierre-Bénite;GAILLOT DURAND;UG;Union de la gauche;Gauche;6953;29.2;43.29
+2024_legi_t1;2024;legi;1;69149;Oullins;GALLICE;REC;Reconquete;Extreme droite;181;0.76;1.13
+2024_legi_t1;2024;legi;1;69149;Oullins-Pierre-Bénite;GALLICE;REC;Reconquete;Extreme droite;181;0.76;1.13
+2024_legi_t1;2024;legi;1;69149;Oullins;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;3426;14.39;21.33
+2024_legi_t1;2024;legi;1;69149;Oullins-Pierre-Bénite;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;3426;14.39;21.33
+2024_legi_t1;2024;legi;1;69149;Oullins;LUISIER;RN;Rassemblement National;Extreme droite;3947;16.58;24.57
+2024_legi_t1;2024;legi;1;69149;Oullins-Pierre-Bénite;LUISIER;RN;Rassemblement National;Extreme droite;3947;16.58;24.57
+2024_legi_t1;2024;legi;1;69151;Le Perréon;D'AUTRYVE;REG;Regionaliste;Divers;4;0.35;0.45
+2024_legi_t1;2024;legi;1;69151;Le Perréon;HELLY;EXG;Extreme gauche;Extreme gauche;7;0.61;0.79
+2024_legi_t1;2024;legi;1;69151;Le Perréon;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;104;9.06;11.76
+2024_legi_t1;2024;legi;1;69151;Le Perréon;LOUIS;UXD;Union de l extreme droite;Extreme droite;377;32.84;42.65
+2024_legi_t1;2024;legi;1;69151;Le Perréon;PORTIER;LR;Les Republicains;Droite;249;21.69;28.17
+2024_legi_t1;2024;legi;1;69151;Le Perréon;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;143;12.46;16.18
+2024_legi_t1;2024;legi;1;69153;Poleymieux-Au-Mont-D'Or;BAZIN;REC;Reconquete;Extreme droite;17;2.0;2.48
+2024_legi_t1;2024;legi;1;69153;Poleymieux-Au-Mont-D'Or;BITOUM;RN;Rassemblement National;Extreme droite;171;20.14;24.93
+2024_legi_t1;2024;legi;1;69153;Poleymieux-Au-Mont-D'Or;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;244;28.74;35.57
+2024_legi_t1;2024;legi;1;69153;Poleymieux-Au-Mont-D'Or;JOINT;LR;Les Republicains;Droite;93;10.95;13.56
+2024_legi_t1;2024;legi;1;69153;Poleymieux-Au-Mont-D'Or;MATTEUCCI;UG;Union de la gauche;Gauche;160;18.85;23.32
+2024_legi_t1;2024;legi;1;69153;Poleymieux-Au-Mont-D'Or;RIVIERE;EXG;Extreme gauche;Extreme gauche;1;0.12;0.15
+2024_legi_t1;2024;legi;1;69154;Pollionnay;BERENYI GELEY;REC;Reconquete;Extreme droite;14;0.76;0.98
+2024_legi_t1;2024;legi;1;69154;Pollionnay;BOMPARD;EXG;Extreme gauche;Extreme gauche;8;0.44;0.56
+2024_legi_t1;2024;legi;1;69154;Pollionnay;CRUZ;LR;Les Republicains;Droite;111;6.05;7.78
+2024_legi_t1;2024;legi;1;69154;Pollionnay;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;474;25.82;33.24
+2024_legi_t1;2024;legi;1;69154;Pollionnay;HORNUS;DVD;Divers droite;Droite;22;1.2;1.54
+2024_legi_t1;2024;legi;1;69154;Pollionnay;PATOUT;RN;Rassemblement National;Extreme droite;492;26.8;34.5
+2024_legi_t1;2024;legi;1;69154;Pollionnay;PERRIN;UG;Union de la gauche;Gauche;305;16.61;21.39
+2024_legi_t1;2024;legi;1;69155;Pomeys;BERENYI GELEY;REC;Reconquete;Extreme droite;4;0.43;0.58
+2024_legi_t1;2024;legi;1;69155;Pomeys;BOMPARD;EXG;Extreme gauche;Extreme gauche;4;0.43;0.58
+2024_legi_t1;2024;legi;1;69155;Pomeys;CRUZ;LR;Les Republicains;Droite;83;8.85;12.03
+2024_legi_t1;2024;legi;1;69155;Pomeys;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;245;26.12;35.51
+2024_legi_t1;2024;legi;1;69155;Pomeys;HORNUS;DVD;Divers droite;Droite;9;0.96;1.3
+2024_legi_t1;2024;legi;1;69155;Pomeys;PATOUT;RN;Rassemblement National;Extreme droite;214;22.81;31.01
+2024_legi_t1;2024;legi;1;69155;Pomeys;PERRIN;UG;Union de la gauche;Gauche;131;13.97;18.99
+2024_legi_t1;2024;legi;1;69156;Pommiers;D'AUTRYVE;REG;Regionaliste;Divers;9;0.44;0.55
+2024_legi_t1;2024;legi;1;69156;Pommiers;HELLY;EXG;Extreme gauche;Extreme gauche;5;0.24;0.31
+2024_legi_t1;2024;legi;1;69156;Pommiers;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;350;17.11;21.58
+2024_legi_t1;2024;legi;1;69156;Pommiers;LOUIS;UXD;Union de l extreme droite;Extreme droite;457;22.35;28.18
+2024_legi_t1;2024;legi;1;69156;Pommiers;PORTIER;LR;Les Republicains;Droite;487;23.81;30.02
+2024_legi_t1;2024;legi;1;69156;Pommiers;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;314;15.35;19.36
+2024_legi_t1;2024;legi;1;69157;Pontcharra-Sur-Turdine;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;510;12.72;17.4
+2024_legi_t1;2024;legi;1;69157;Vindry-Sur-Turdine;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;510;12.72;17.4
+2024_legi_t1;2024;legi;1;69157;Pontcharra-Sur-Turdine;FOURBOUL;REC;Reconquete;Extreme droite;15;0.37;0.51
+2024_legi_t1;2024;legi;1;69157;Vindry-Sur-Turdine;FOURBOUL;REC;Reconquete;Extreme droite;15;0.37;0.51
+2024_legi_t1;2024;legi;1;69157;Pontcharra-Sur-Turdine;GERY;RN;Rassemblement National;Extreme droite;1135;28.3;38.72
+2024_legi_t1;2024;legi;1;69157;Vindry-Sur-Turdine;GERY;RN;Rassemblement National;Extreme droite;1135;28.3;38.72
+2024_legi_t1;2024;legi;1;69157;Pontcharra-Sur-Turdine;REYMBAUT;UG;Union de la gauche;Gauche;539;13.44;18.39
+2024_legi_t1;2024;legi;1;69157;Vindry-Sur-Turdine;REYMBAUT;UG;Union de la gauche;Gauche;539;13.44;18.39
+2024_legi_t1;2024;legi;1;69157;Pontcharra-Sur-Turdine;SERRE;LR;Les Republicains;Droite;707;17.63;24.12
+2024_legi_t1;2024;legi;1;69157;Vindry-Sur-Turdine;SERRE;LR;Les Republicains;Droite;707;17.63;24.12
+2024_legi_t1;2024;legi;1;69157;Pontcharra-Sur-Turdine;TEYSSIER;EXG;Extreme gauche;Extreme gauche;25;0.62;0.85
+2024_legi_t1;2024;legi;1;69157;Vindry-Sur-Turdine;TEYSSIER;EXG;Extreme gauche;Extreme gauche;25;0.62;0.85
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;D'AUTRYVE;REG;Regionaliste;Divers;20;0.65;0.85
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;D'AUTRYVE;REG;Regionaliste;Divers;20;0.65;0.85
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;100;3.25;4.25
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;100;3.25;4.25
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;FOURBOUL;REC;Reconquete;Extreme droite;6;0.19;0.26
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;FOURBOUL;REC;Reconquete;Extreme droite;6;0.19;0.26
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;GERY;RN;Rassemblement National;Extreme droite;156;5.06;6.63
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;GERY;RN;Rassemblement National;Extreme droite;156;5.06;6.63
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;HELLY;EXG;Extreme gauche;Extreme gauche;5;0.16;0.21
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;HELLY;EXG;Extreme gauche;Extreme gauche;5;0.16;0.21
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;308;10.0;13.1
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;308;10.0;13.1
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;LOUIS;UXD;Union de l extreme droite;Extreme droite;740;24.02;31.46
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;LOUIS;UXD;Union de l extreme droite;Extreme droite;740;24.02;31.46
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;PORTIER;LR;Les Republicains;Droite;459;14.9;19.52
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;PORTIER;LR;Les Republicains;Droite;459;14.9;19.52
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;REYMBAUT;UG;Union de la gauche;Gauche;109;3.54;4.63
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;REYMBAUT;UG;Union de la gauche;Gauche;109;3.54;4.63
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;SERRE;LR;Les Republicains;Droite;67;2.17;2.85
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;SERRE;LR;Les Republicains;Droite;67;2.17;2.85
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;378;12.27;16.07
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;378;12.27;16.07
+2024_legi_t1;2024;legi;1;69159;Pouilly-Le-Monial;TEYSSIER;EXG;Extreme gauche;Extreme gauche;4;0.13;0.17
+2024_legi_t1;2024;legi;1;69159;Porte Des Pierres Dorées;TEYSSIER;EXG;Extreme gauche;Extreme gauche;4;0.13;0.17
+2024_legi_t1;2024;legi;1;69160;Poule-Les-Echarmeaux;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;96;11.05;16.27
+2024_legi_t1;2024;legi;1;69160;Poule-Les-Echarmeaux;FOURBOUL;REC;Reconquete;Extreme droite;6;0.69;1.02
+2024_legi_t1;2024;legi;1;69160;Poule-Les-Echarmeaux;GERY;RN;Rassemblement National;Extreme droite;237;27.27;40.17
+2024_legi_t1;2024;legi;1;69160;Poule-Les-Echarmeaux;REYMBAUT;UG;Union de la gauche;Gauche;101;11.62;17.12
+2024_legi_t1;2024;legi;1;69160;Poule-Les-Echarmeaux;SERRE;LR;Les Republicains;Droite;145;16.69;24.58
+2024_legi_t1;2024;legi;1;69160;Poule-Les-Echarmeaux;TEYSSIER;EXG;Extreme gauche;Extreme gauche;5;0.58;0.85
+2024_legi_t1;2024;legi;1;69161;Propières;D'AUTRYVE;REG;Regionaliste;Divers;2;0.5;0.71
+2024_legi_t1;2024;legi;1;69161;Propières;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69161;Propières;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;19;4.73;6.71
+2024_legi_t1;2024;legi;1;69161;Propières;LOUIS;UXD;Union de l extreme droite;Extreme droite;132;32.84;46.64
+2024_legi_t1;2024;legi;1;69161;Propières;PORTIER;LR;Les Republicains;Droite;86;21.39;30.39
+2024_legi_t1;2024;legi;1;69161;Propières;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;44;10.95;15.55
+2024_legi_t1;2024;legi;1;69162;Quincié-En-Beaujolais;D'AUTRYVE;REG;Regionaliste;Divers;9;0.88;1.17
+2024_legi_t1;2024;legi;1;69162;Quincié-En-Beaujolais;HELLY;EXG;Extreme gauche;Extreme gauche;7;0.69;0.91
+2024_legi_t1;2024;legi;1;69162;Quincié-En-Beaujolais;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;100;9.81;12.97
+2024_legi_t1;2024;legi;1;69162;Quincié-En-Beaujolais;LOUIS;UXD;Union de l extreme droite;Extreme droite;260;25.52;33.72
+2024_legi_t1;2024;legi;1;69162;Quincié-En-Beaujolais;PORTIER;LR;Les Republicains;Droite;271;26.59;35.15
+2024_legi_t1;2024;legi;1;69162;Quincié-En-Beaujolais;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;124;12.17;16.08
+2024_legi_t1;2024;legi;1;69163;Quincieux;BAZIN;REC;Reconquete;Extreme droite;25;0.95;1.29
+2024_legi_t1;2024;legi;1;69163;Quincieux;BITOUM;RN;Rassemblement National;Extreme droite;808;30.76;41.65
+2024_legi_t1;2024;legi;1;69163;Quincieux;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;470;17.89;24.23
+2024_legi_t1;2024;legi;1;69163;Quincieux;JOINT;LR;Les Republicains;Droite;158;6.01;8.14
+2024_legi_t1;2024;legi;1;69163;Quincieux;MATTEUCCI;UG;Union de la gauche;Gauche;468;17.81;24.12
+2024_legi_t1;2024;legi;1;69163;Quincieux;RIVIERE;EXG;Extreme gauche;Extreme gauche;11;0.42;0.57
+2024_legi_t1;2024;legi;1;69164;Ranchal;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;34;11.64;16.59
+2024_legi_t1;2024;legi;1;69164;Ranchal;FOURBOUL;REC;Reconquete;Extreme droite;2;0.68;0.98
+2024_legi_t1;2024;legi;1;69164;Ranchal;GERY;RN;Rassemblement National;Extreme droite;71;24.32;34.63
+2024_legi_t1;2024;legi;1;69164;Ranchal;REYMBAUT;UG;Union de la gauche;Gauche;48;16.44;23.41
+2024_legi_t1;2024;legi;1;69164;Ranchal;SERRE;LR;Les Republicains;Droite;47;16.1;22.93
+2024_legi_t1;2024;legi;1;69164;Ranchal;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;1.03;1.46
+2024_legi_t1;2024;legi;1;69165;Régnié-Durette;D'AUTRYVE;REG;Regionaliste;Divers;1;0.12;0.15
+2024_legi_t1;2024;legi;1;69165;Régnié-Durette;HELLY;EXG;Extreme gauche;Extreme gauche;7;0.83;1.05
+2024_legi_t1;2024;legi;1;69165;Régnié-Durette;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;105;12.38;15.74
+2024_legi_t1;2024;legi;1;69165;Régnié-Durette;LOUIS;UXD;Union de l extreme droite;Extreme droite;234;27.59;35.08
+2024_legi_t1;2024;legi;1;69165;Régnié-Durette;PORTIER;LR;Les Republicains;Droite;183;21.58;27.44
+2024_legi_t1;2024;legi;1;69165;Régnié-Durette;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;137;16.16;20.54
+2024_legi_t1;2024;legi;1;69166;Riverie;BROWNING;EXG;Extreme gauche;Extreme gauche;1;0.51;0.65
+2024_legi_t1;2024;legi;1;69166;Riverie;FERRO;LR;Les Republicains;Droite;16;8.08;10.32
+2024_legi_t1;2024;legi;1;69166;Riverie;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;43;21.72;27.74
+2024_legi_t1;2024;legi;1;69166;Riverie;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;39;19.7;25.16
+2024_legi_t1;2024;legi;1;69166;Riverie;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;8;4.04;5.16
+2024_legi_t1;2024;legi;1;69166;Riverie;YOUSFI;UG;Union de la gauche;Gauche;48;24.24;30.97
+2024_legi_t1;2024;legi;1;69167;Rivolet;D'AUTRYVE;REG;Regionaliste;Divers;1;0.23;0.28
+2024_legi_t1;2024;legi;1;69167;Rivolet;HELLY;EXG;Extreme gauche;Extreme gauche;4;0.91;1.13
+2024_legi_t1;2024;legi;1;69167;Rivolet;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;54;12.3;15.3
+2024_legi_t1;2024;legi;1;69167;Rivolet;LOUIS;UXD;Union de l extreme droite;Extreme droite;122;27.79;34.56
+2024_legi_t1;2024;legi;1;69167;Rivolet;PORTIER;LR;Les Republicains;Droite;86;19.59;24.36
+2024_legi_t1;2024;legi;1;69167;Rivolet;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;86;19.59;24.36
+2024_legi_t1;2024;legi;1;69168;Rochetaillée-Sur-Saône;BAZIN;REC;Reconquete;Extreme droite;12;1.18;1.51
+2024_legi_t1;2024;legi;1;69168;Rochetaillée-Sur-Saône;BITOUM;RN;Rassemblement National;Extreme droite;202;19.92;25.47
+2024_legi_t1;2024;legi;1;69168;Rochetaillée-Sur-Saône;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;284;28.01;35.81
+2024_legi_t1;2024;legi;1;69168;Rochetaillée-Sur-Saône;JOINT;LR;Les Republicains;Droite;75;7.4;9.46
+2024_legi_t1;2024;legi;1;69168;Rochetaillée-Sur-Saône;MATTEUCCI;UG;Union de la gauche;Gauche;213;21.01;26.86
+2024_legi_t1;2024;legi;1;69168;Rochetaillée-Sur-Saône;RIVIERE;EXG;Extreme gauche;Extreme gauche;7;0.69;0.88
+2024_legi_t1;2024;legi;1;69169;Ronno;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;49;8.93;11.67
+2024_legi_t1;2024;legi;1;69169;Ronno;FOURBOUL;REC;Reconquete;Extreme droite;6;1.09;1.43
+2024_legi_t1;2024;legi;1;69169;Ronno;GERY;RN;Rassemblement National;Extreme droite;194;35.34;46.19
+2024_legi_t1;2024;legi;1;69169;Ronno;REYMBAUT;UG;Union de la gauche;Gauche;59;10.75;14.05
+2024_legi_t1;2024;legi;1;69169;Ronno;SERRE;LR;Les Republicains;Droite;105;19.13;25.0
+2024_legi_t1;2024;legi;1;69169;Ronno;TEYSSIER;EXG;Extreme gauche;Extreme gauche;7;1.28;1.67
+2024_legi_t1;2024;legi;1;69170;Rontalon;BROWNING;EXG;Extreme gauche;Extreme gauche;5;0.55;0.74
+2024_legi_t1;2024;legi;1;69170;Rontalon;FERRO;LR;Les Republicains;Droite;111;12.14;16.42
+2024_legi_t1;2024;legi;1;69170;Rontalon;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;160;17.51;23.67
+2024_legi_t1;2024;legi;1;69170;Rontalon;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;228;24.95;33.73
+2024_legi_t1;2024;legi;1;69170;Rontalon;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;28;3.06;4.14
+2024_legi_t1;2024;legi;1;69170;Rontalon;YOUSFI;UG;Union de la gauche;Gauche;144;15.75;21.3
+2024_legi_t1;2024;legi;1;69171;Sain-Bel;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;194;11.05;16.45
+2024_legi_t1;2024;legi;1;69171;Sain-Bel;FOURBOUL;REC;Reconquete;Extreme droite;11;0.63;0.93
+2024_legi_t1;2024;legi;1;69171;Sain-Bel;GERY;RN;Rassemblement National;Extreme droite;398;22.67;33.76
+2024_legi_t1;2024;legi;1;69171;Sain-Bel;REYMBAUT;UG;Union de la gauche;Gauche;379;21.58;32.15
+2024_legi_t1;2024;legi;1;69171;Sain-Bel;SERRE;LR;Les Republicains;Droite;180;10.25;15.27
+2024_legi_t1;2024;legi;1;69171;Sain-Bel;TEYSSIER;EXG;Extreme gauche;Extreme gauche;17;0.97;1.44
+2024_legi_t1;2024;legi;1;69172;Salles-Arbuissonnas-En-Beaujolais;D'AUTRYVE;REG;Regionaliste;Divers;7;1.18;1.46
+2024_legi_t1;2024;legi;1;69172;Salles-Arbuissonnas-En-Beaujolais;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69172;Salles-Arbuissonnas-En-Beaujolais;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;59;9.92;12.27
+2024_legi_t1;2024;legi;1;69172;Salles-Arbuissonnas-En-Beaujolais;LOUIS;UXD;Union de l extreme droite;Extreme droite;171;28.74;35.55
+2024_legi_t1;2024;legi;1;69172;Salles-Arbuissonnas-En-Beaujolais;PORTIER;LR;Les Republicains;Droite;166;27.9;34.51
+2024_legi_t1;2024;legi;1;69172;Salles-Arbuissonnas-En-Beaujolais;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;78;13.11;16.22
+2024_legi_t1;2024;legi;1;69173;Sarcey;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;100;13.44;17.48
+2024_legi_t1;2024;legi;1;69173;Sarcey;FOURBOUL;REC;Reconquete;Extreme droite;6;0.81;1.05
+2024_legi_t1;2024;legi;1;69173;Sarcey;GERY;RN;Rassemblement National;Extreme droite;214;28.76;37.41
+2024_legi_t1;2024;legi;1;69173;Sarcey;REYMBAUT;UG;Union de la gauche;Gauche;101;13.58;17.66
+2024_legi_t1;2024;legi;1;69173;Sarcey;SERRE;LR;Les Republicains;Droite;148;19.89;25.87
+2024_legi_t1;2024;legi;1;69173;Sarcey;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.4;0.52
+2024_legi_t1;2024;legi;1;69174;Les Sauvages;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;53;11.09;14.48
+2024_legi_t1;2024;legi;1;69174;Les Sauvages;FOURBOUL;REC;Reconquete;Extreme droite;6;1.26;1.64
+2024_legi_t1;2024;legi;1;69174;Les Sauvages;GERY;RN;Rassemblement National;Extreme droite;147;30.75;40.16
+2024_legi_t1;2024;legi;1;69174;Les Sauvages;REYMBAUT;UG;Union de la gauche;Gauche;72;15.06;19.67
+2024_legi_t1;2024;legi;1;69174;Les Sauvages;SERRE;LR;Les Republicains;Droite;87;18.2;23.77
+2024_legi_t1;2024;legi;1;69174;Les Sauvages;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.21;0.27
+2024_legi_t1;2024;legi;1;69175;Savigny;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;215;13.54;17.61
+2024_legi_t1;2024;legi;1;69175;Savigny;FOURBOUL;REC;Reconquete;Extreme droite;14;0.88;1.15
+2024_legi_t1;2024;legi;1;69175;Savigny;GERY;RN;Rassemblement National;Extreme droite;486;30.6;39.8
+2024_legi_t1;2024;legi;1;69175;Savigny;REYMBAUT;UG;Union de la gauche;Gauche;252;15.87;20.64
+2024_legi_t1;2024;legi;1;69175;Savigny;SERRE;LR;Les Republicains;Droite;244;15.37;19.98
+2024_legi_t1;2024;legi;1;69175;Savigny;TEYSSIER;EXG;Extreme gauche;Extreme gauche;10;0.63;0.82
+2024_legi_t1;2024;legi;1;69176;Soucieu-En-Jarrest;BROWNING;EXG;Extreme gauche;Extreme gauche;20;0.57;0.79
+2024_legi_t1;2024;legi;1;69176;Soucieu-En-Jarrest;FERRO;LR;Les Republicains;Droite;233;6.63;9.19
+2024_legi_t1;2024;legi;1;69176;Soucieu-En-Jarrest;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;842;23.95;33.2
+2024_legi_t1;2024;legi;1;69176;Soucieu-En-Jarrest;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;876;24.91;34.54
+2024_legi_t1;2024;legi;1;69176;Soucieu-En-Jarrest;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;67;1.91;2.64
+2024_legi_t1;2024;legi;1;69176;Soucieu-En-Jarrest;YOUSFI;UG;Union de la gauche;Gauche;498;14.16;19.64
+2024_legi_t1;2024;legi;1;69177;Sourcieux-Les-Mines;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;288;17.79;23.23
+2024_legi_t1;2024;legi;1;69177;Sourcieux-Les-Mines;FOURBOUL;REC;Reconquete;Extreme droite;15;0.93;1.21
+2024_legi_t1;2024;legi;1;69177;Sourcieux-Les-Mines;GERY;RN;Rassemblement National;Extreme droite;409;25.26;32.98
+2024_legi_t1;2024;legi;1;69177;Sourcieux-Les-Mines;REYMBAUT;UG;Union de la gauche;Gauche;342;21.12;27.58
+2024_legi_t1;2024;legi;1;69177;Sourcieux-Les-Mines;SERRE;LR;Les Republicains;Droite;165;10.19;13.31
+2024_legi_t1;2024;legi;1;69177;Sourcieux-Les-Mines;TEYSSIER;EXG;Extreme gauche;Extreme gauche;21;1.3;1.69
+2024_legi_t1;2024;legi;1;69178;Souzy;BERENYI GELEY;REC;Reconquete;Extreme droite;1;0.19;0.26
+2024_legi_t1;2024;legi;1;69178;Souzy;BOMPARD;EXG;Extreme gauche;Extreme gauche;1;0.19;0.26
+2024_legi_t1;2024;legi;1;69178;Souzy;CRUZ;LR;Les Republicains;Droite;35;6.65;9.19
+2024_legi_t1;2024;legi;1;69178;Souzy;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;88;16.73;23.1
+2024_legi_t1;2024;legi;1;69178;Souzy;HORNUS;DVD;Divers droite;Droite;3;0.57;0.79
+2024_legi_t1;2024;legi;1;69178;Souzy;PATOUT;RN;Rassemblement National;Extreme droite;183;34.79;48.03
+2024_legi_t1;2024;legi;1;69178;Souzy;PERRIN;UG;Union de la gauche;Gauche;70;13.31;18.37
+2024_legi_t1;2024;legi;1;69179;Saint-Andéol-Le-Château;BROWNING;EXG;Extreme gauche;Extreme gauche;22;0.69;0.92
+2024_legi_t1;2024;legi;1;69179;Beauvallon;BROWNING;EXG;Extreme gauche;Extreme gauche;22;0.69;0.92
+2024_legi_t1;2024;legi;1;69179;Saint-Andéol-Le-Château;FERRO;LR;Les Republicains;Droite;269;8.47;11.28
+2024_legi_t1;2024;legi;1;69179;Beauvallon;FERRO;LR;Les Republicains;Droite;269;8.47;11.28
+2024_legi_t1;2024;legi;1;69179;Saint-Andéol-Le-Château;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;778;24.49;32.63
+2024_legi_t1;2024;legi;1;69179;Beauvallon;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;778;24.49;32.63
+2024_legi_t1;2024;legi;1;69179;Saint-Andéol-Le-Château;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;871;27.42;36.54
+2024_legi_t1;2024;legi;1;69179;Beauvallon;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;871;27.42;36.54
+2024_legi_t1;2024;legi;1;69179;Saint-Andéol-Le-Château;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;71;2.23;2.98
+2024_legi_t1;2024;legi;1;69179;Beauvallon;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;71;2.23;2.98
+2024_legi_t1;2024;legi;1;69179;Saint-Andéol-Le-Château;YOUSFI;UG;Union de la gauche;Gauche;373;11.74;15.65
+2024_legi_t1;2024;legi;1;69179;Beauvallon;YOUSFI;UG;Union de la gauche;Gauche;373;11.74;15.65
+2024_legi_t1;2024;legi;1;69180;Saint-André-La-Côte;BROWNING;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69180;Saint-André-La-Côte;FERRO;LR;Les Republicains;Droite;31;14.16;18.34
+2024_legi_t1;2024;legi;1;69180;Saint-André-La-Côte;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;35;15.98;20.71
+2024_legi_t1;2024;legi;1;69180;Saint-André-La-Côte;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;59;26.94;34.91
+2024_legi_t1;2024;legi;1;69180;Saint-André-La-Côte;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;10;4.57;5.92
+2024_legi_t1;2024;legi;1;69180;Saint-André-La-Côte;YOUSFI;UG;Union de la gauche;Gauche;34;15.53;20.12
+2024_legi_t1;2024;legi;1;69181;Saint-Appolinaire;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;19;12.1;15.57
+2024_legi_t1;2024;legi;1;69181;Saint-Appolinaire;FOURBOUL;REC;Reconquete;Extreme droite;1;0.64;0.82
+2024_legi_t1;2024;legi;1;69181;Saint-Appolinaire;GERY;RN;Rassemblement National;Extreme droite;49;31.21;40.16
+2024_legi_t1;2024;legi;1;69181;Saint-Appolinaire;REYMBAUT;UG;Union de la gauche;Gauche;32;20.38;26.23
+2024_legi_t1;2024;legi;1;69181;Saint-Appolinaire;SERRE;LR;Les Republicains;Droite;19;12.1;15.57
+2024_legi_t1;2024;legi;1;69181;Saint-Appolinaire;TEYSSIER;EXG;Extreme gauche;Extreme gauche;2;1.27;1.64
+2024_legi_t1;2024;legi;1;69182;Saint-Bonnet-Des-Bruyères;D'AUTRYVE;REG;Regionaliste;Divers;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69182;Saint-Bonnet-Des-Bruyères;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.61;0.85
+2024_legi_t1;2024;legi;1;69182;Saint-Bonnet-Des-Bruyères;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;11;3.37;4.68
+2024_legi_t1;2024;legi;1;69182;Saint-Bonnet-Des-Bruyères;LOUIS;UXD;Union de l extreme droite;Extreme droite;86;26.38;36.6
+2024_legi_t1;2024;legi;1;69182;Saint-Bonnet-Des-Bruyères;PORTIER;LR;Les Republicains;Droite;98;30.06;41.7
+2024_legi_t1;2024;legi;1;69182;Saint-Bonnet-Des-Bruyères;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;38;11.66;16.17
+2024_legi_t1;2024;legi;1;69183;Saint-Bonnet-Le-Troncy;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;26;10.61;14.94
+2024_legi_t1;2024;legi;1;69183;Saint-Bonnet-Le-Troncy;FOURBOUL;REC;Reconquete;Extreme droite;1;0.41;0.57
+2024_legi_t1;2024;legi;1;69183;Saint-Bonnet-Le-Troncy;GERY;RN;Rassemblement National;Extreme droite;70;28.57;40.23
+2024_legi_t1;2024;legi;1;69183;Saint-Bonnet-Le-Troncy;REYMBAUT;UG;Union de la gauche;Gauche;39;15.92;22.41
+2024_legi_t1;2024;legi;1;69183;Saint-Bonnet-Le-Troncy;SERRE;LR;Les Republicains;Droite;38;15.51;21.84
+2024_legi_t1;2024;legi;1;69183;Saint-Bonnet-Le-Troncy;TEYSSIER;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69184;Sainte-Catherine;BROWNING;EXG;Extreme gauche;Extreme gauche;8;1.14;1.63
+2024_legi_t1;2024;legi;1;69184;Sainte-Catherine;FERRO;LR;Les Republicains;Droite;64;9.09;13.06
+2024_legi_t1;2024;legi;1;69184;Sainte-Catherine;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;137;19.46;27.96
+2024_legi_t1;2024;legi;1;69184;Sainte-Catherine;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;182;25.85;37.14
+2024_legi_t1;2024;legi;1;69184;Sainte-Catherine;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;13;1.85;2.65
+2024_legi_t1;2024;legi;1;69184;Sainte-Catherine;YOUSFI;UG;Union de la gauche;Gauche;86;12.22;17.55
+2024_legi_t1;2024;legi;1;69186;Saint-Clément-De-Vers;D'AUTRYVE;REG;Regionaliste;Divers;1;0.52;0.69
+2024_legi_t1;2024;legi;1;69186;Saint-Clément-De-Vers;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69186;Saint-Clément-De-Vers;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;13;6.81;9.03
+2024_legi_t1;2024;legi;1;69186;Saint-Clément-De-Vers;LOUIS;UXD;Union de l extreme droite;Extreme droite;68;35.6;47.22
+2024_legi_t1;2024;legi;1;69186;Saint-Clément-De-Vers;PORTIER;LR;Les Republicains;Droite;50;26.18;34.72
+2024_legi_t1;2024;legi;1;69186;Saint-Clément-De-Vers;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;12;6.28;8.33
+2024_legi_t1;2024;legi;1;69187;Saint-Clément-Les-Places;BERENYI GELEY;REC;Reconquete;Extreme droite;1;0.2;0.27
+2024_legi_t1;2024;legi;1;69187;Saint-Clément-Les-Places;BOMPARD;EXG;Extreme gauche;Extreme gauche;3;0.61;0.8
+2024_legi_t1;2024;legi;1;69187;Saint-Clément-Les-Places;CRUZ;LR;Les Republicains;Droite;43;8.72;11.53
+2024_legi_t1;2024;legi;1;69187;Saint-Clément-Les-Places;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;90;18.26;24.13
+2024_legi_t1;2024;legi;1;69187;Saint-Clément-Les-Places;HORNUS;DVD;Divers droite;Droite;2;0.41;0.54
+2024_legi_t1;2024;legi;1;69187;Saint-Clément-Les-Places;PATOUT;RN;Rassemblement National;Extreme droite;138;27.99;37.0
+2024_legi_t1;2024;legi;1;69187;Saint-Clément-Les-Places;PERRIN;UG;Union de la gauche;Gauche;96;19.47;25.74
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sous-Valsonne;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;34;5.7;8.19
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sur-Valsonne;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;34;5.7;8.19
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sous-Valsonne;FOURBOUL;REC;Reconquete;Extreme droite;4;0.67;0.96
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sur-Valsonne;FOURBOUL;REC;Reconquete;Extreme droite;4;0.67;0.96
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sous-Valsonne;GERY;RN;Rassemblement National;Extreme droite;167;28.02;40.24
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sur-Valsonne;GERY;RN;Rassemblement National;Extreme droite;167;28.02;40.24
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sous-Valsonne;REYMBAUT;UG;Union de la gauche;Gauche;97;16.28;23.37
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sur-Valsonne;REYMBAUT;UG;Union de la gauche;Gauche;97;16.28;23.37
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sous-Valsonne;SERRE;LR;Les Republicains;Droite;109;18.29;26.27
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sur-Valsonne;SERRE;LR;Les Republicains;Droite;109;18.29;26.27
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sous-Valsonne;TEYSSIER;EXG;Extreme gauche;Extreme gauche;4;0.67;0.96
+2024_legi_t1;2024;legi;1;69188;Saint-Clément-Sur-Valsonne;TEYSSIER;EXG;Extreme gauche;Extreme gauche;4;0.67;0.96
+2024_legi_t1;2024;legi;1;69189;Sainte-Colombe;BROWNING;EXG;Extreme gauche;Extreme gauche;5;0.34;0.49
+2024_legi_t1;2024;legi;1;69189;Sainte-Colombe;FERRO;LR;Les Republicains;Droite;118;8.08;11.49
+2024_legi_t1;2024;legi;1;69189;Sainte-Colombe;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;293;20.05;28.53
+2024_legi_t1;2024;legi;1;69189;Sainte-Colombe;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;362;24.78;35.25
+2024_legi_t1;2024;legi;1;69189;Sainte-Colombe;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;42;2.87;4.09
+2024_legi_t1;2024;legi;1;69189;Sainte-Colombe;YOUSFI;UG;Union de la gauche;Gauche;207;14.17;20.16
+2024_legi_t1;2024;legi;1;69190;Sainte-Consorce;BERENYI GELEY;REC;Reconquete;Extreme droite;15;0.9;1.17
+2024_legi_t1;2024;legi;1;69190;Sainte-Consorce;BOMPARD;EXG;Extreme gauche;Extreme gauche;6;0.36;0.47
+2024_legi_t1;2024;legi;1;69190;Sainte-Consorce;CRUZ;LR;Les Republicains;Droite;125;7.51;9.76
+2024_legi_t1;2024;legi;1;69190;Sainte-Consorce;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;444;26.67;34.66
+2024_legi_t1;2024;legi;1;69190;Sainte-Consorce;HORNUS;DVD;Divers droite;Droite;23;1.38;1.8
+2024_legi_t1;2024;legi;1;69190;Sainte-Consorce;PATOUT;RN;Rassemblement National;Extreme droite;390;23.42;30.44
+2024_legi_t1;2024;legi;1;69190;Sainte-Consorce;PERRIN;UG;Union de la gauche;Gauche;278;16.7;21.7
+2024_legi_t1;2024;legi;1;69191;Saint-Cyr-Au-Mont-D'Or;BAZIN;REC;Reconquete;Extreme droite;68;1.31;1.71
+2024_legi_t1;2024;legi;1;69191;Saint-Cyr-Au-Mont-D'Or;BITOUM;RN;Rassemblement National;Extreme droite;919;17.77;23.12
+2024_legi_t1;2024;legi;1;69191;Saint-Cyr-Au-Mont-D'Or;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;1689;32.65;42.49
+2024_legi_t1;2024;legi;1;69191;Saint-Cyr-Au-Mont-D'Or;JOINT;LR;Les Republicains;Droite;631;12.2;15.87
+2024_legi_t1;2024;legi;1;69191;Saint-Cyr-Au-Mont-D'Or;MATTEUCCI;UG;Union de la gauche;Gauche;653;12.62;16.43
+2024_legi_t1;2024;legi;1;69191;Saint-Cyr-Au-Mont-D'Or;RIVIERE;EXG;Extreme gauche;Extreme gauche;15;0.29;0.38
+2024_legi_t1;2024;legi;1;69192;Saint-Cyr-Le-Chatoux;D'AUTRYVE;REG;Regionaliste;Divers;2;1.44;1.71
+2024_legi_t1;2024;legi;1;69192;Saint-Cyr-Le-Chatoux;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69192;Saint-Cyr-Le-Chatoux;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;23;16.55;19.66
+2024_legi_t1;2024;legi;1;69192;Saint-Cyr-Le-Chatoux;LOUIS;UXD;Union de l extreme droite;Extreme droite;46;33.09;39.32
+2024_legi_t1;2024;legi;1;69192;Saint-Cyr-Le-Chatoux;PORTIER;LR;Les Republicains;Droite;19;13.67;16.24
+2024_legi_t1;2024;legi;1;69192;Saint-Cyr-Le-Chatoux;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;27;19.42;23.08
+2024_legi_t1;2024;legi;1;69193;Saint-Cyr-Sur-Le-Rhône;BROWNING;EXG;Extreme gauche;Extreme gauche;4;0.37;0.48
+2024_legi_t1;2024;legi;1;69193;Saint-Cyr-Sur-Le-Rhône;FERRO;LR;Les Republicains;Droite;83;7.77;9.99
+2024_legi_t1;2024;legi;1;69193;Saint-Cyr-Sur-Le-Rhône;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;280;26.22;33.69
+2024_legi_t1;2024;legi;1;69193;Saint-Cyr-Sur-Le-Rhône;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;333;31.18;40.07
+2024_legi_t1;2024;legi;1;69193;Saint-Cyr-Sur-Le-Rhône;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;15;1.4;1.81
+2024_legi_t1;2024;legi;1;69193;Saint-Cyr-Sur-Le-Rhône;YOUSFI;UG;Union de la gauche;Gauche;116;10.86;13.96
+2024_legi_t1;2024;legi;1;69194;Saint-Didier-Au-Mont-D'Or;BAZIN;REC;Reconquete;Extreme droite;74;1.27;1.6
+2024_legi_t1;2024;legi;1;69194;Saint-Didier-Au-Mont-D'Or;BITOUM;RN;Rassemblement National;Extreme droite;1123;19.34;24.21
+2024_legi_t1;2024;legi;1;69194;Saint-Didier-Au-Mont-D'Or;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;1782;30.69;38.41
+2024_legi_t1;2024;legi;1;69194;Saint-Didier-Au-Mont-D'Or;JOINT;LR;Les Republicains;Droite;1008;17.36;21.73
+2024_legi_t1;2024;legi;1;69194;Saint-Didier-Au-Mont-D'Or;MATTEUCCI;UG;Union de la gauche;Gauche;644;11.09;13.88
+2024_legi_t1;2024;legi;1;69194;Saint-Didier-Au-Mont-D'Or;RIVIERE;EXG;Extreme gauche;Extreme gauche;8;0.14;0.17
+2024_legi_t1;2024;legi;1;69196;Saint-Didier-Sur-Beaujeu;D'AUTRYVE;REG;Regionaliste;Divers;3;0.61;0.84
+2024_legi_t1;2024;legi;1;69196;Saint-Didier-Sur-Beaujeu;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69196;Saint-Didier-Sur-Beaujeu;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;27;5.45;7.54
+2024_legi_t1;2024;legi;1;69196;Saint-Didier-Sur-Beaujeu;LOUIS;UXD;Union de l extreme droite;Extreme droite;149;30.1;41.62
+2024_legi_t1;2024;legi;1;69196;Saint-Didier-Sur-Beaujeu;PORTIER;LR;Les Republicains;Droite;111;22.42;31.01
+2024_legi_t1;2024;legi;1;69196;Saint-Didier-Sur-Beaujeu;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;68;13.74;18.99
+2024_legi_t1;2024;legi;1;69197;Saint-Etienne-Des-Oullières;D'AUTRYVE;REG;Regionaliste;Divers;11;0.62;0.87
+2024_legi_t1;2024;legi;1;69197;Saint-Etienne-Des-Oullières;HELLY;EXG;Extreme gauche;Extreme gauche;6;0.34;0.47
+2024_legi_t1;2024;legi;1;69197;Saint-Etienne-Des-Oullières;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;160;8.95;12.62
+2024_legi_t1;2024;legi;1;69197;Saint-Etienne-Des-Oullières;LOUIS;UXD;Union de l extreme droite;Extreme droite;551;30.82;43.45
+2024_legi_t1;2024;legi;1;69197;Saint-Etienne-Des-Oullières;PORTIER;LR;Les Republicains;Droite;317;17.73;25.0
+2024_legi_t1;2024;legi;1;69197;Saint-Etienne-Des-Oullières;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;223;12.47;17.59
+2024_legi_t1;2024;legi;1;69198;Saint-Etienne-La-Varenne;D'AUTRYVE;REG;Regionaliste;Divers;1;0.17;0.21
+2024_legi_t1;2024;legi;1;69198;Saint-Etienne-La-Varenne;HELLY;EXG;Extreme gauche;Extreme gauche;3;0.5;0.63
+2024_legi_t1;2024;legi;1;69198;Saint-Etienne-La-Varenne;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;53;8.75;11.11
+2024_legi_t1;2024;legi;1;69198;Saint-Etienne-La-Varenne;LOUIS;UXD;Union de l extreme droite;Extreme droite;198;32.67;41.51
+2024_legi_t1;2024;legi;1;69198;Saint-Etienne-La-Varenne;PORTIER;LR;Les Republicains;Droite;158;26.07;33.12
+2024_legi_t1;2024;legi;1;69198;Saint-Etienne-La-Varenne;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;64;10.56;13.42
+2024_legi_t1;2024;legi;1;69199;Saint-Fons;ALMERAS;ENS;Ensemble (Renaissance / LREM);Centre;438;5.42;10.09
+2024_legi_t1;2024;legi;1;69199;Saint-Fons;BOUMERTIT;UG;Union de la gauche;Gauche;2725;33.74;62.77
+2024_legi_t1;2024;legi;1;69199;Saint-Fons;MAZZONE;LR;Les Republicains;Droite;119;1.47;2.74
+2024_legi_t1;2024;legi;1;69199;Saint-Fons;MERMET;RN;Rassemblement National;Extreme droite;918;11.37;21.15
+2024_legi_t1;2024;legi;1;69199;Saint-Fons;MINOUX;EXG;Extreme gauche;Extreme gauche;101;1.25;2.33
+2024_legi_t1;2024;legi;1;69199;Saint-Fons;RIHA;REC;Reconquete;Extreme droite;40;0.5;0.92
+2024_legi_t1;2024;legi;1;69200;Saint-Forgeux;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;120;9.66;13.65
+2024_legi_t1;2024;legi;1;69200;Saint-Forgeux;FOURBOUL;REC;Reconquete;Extreme droite;8;0.64;0.91
+2024_legi_t1;2024;legi;1;69200;Saint-Forgeux;GERY;RN;Rassemblement National;Extreme droite;362;29.15;41.18
+2024_legi_t1;2024;legi;1;69200;Saint-Forgeux;REYMBAUT;UG;Union de la gauche;Gauche;124;9.98;14.11
+2024_legi_t1;2024;legi;1;69200;Saint-Forgeux;SERRE;LR;Les Republicains;Droite;259;20.85;29.47
+2024_legi_t1;2024;legi;1;69200;Saint-Forgeux;TEYSSIER;EXG;Extreme gauche;Extreme gauche;6;0.48;0.68
+2024_legi_t1;2024;legi;1;69201;Sainte-Foy-L'Argentière;BERENYI GELEY;REC;Reconquete;Extreme droite;2;0.23;0.36
+2024_legi_t1;2024;legi;1;69201;Sainte-Foy-L'Argentière;BOMPARD;EXG;Extreme gauche;Extreme gauche;6;0.68;1.08
+2024_legi_t1;2024;legi;1;69201;Sainte-Foy-L'Argentière;CRUZ;LR;Les Republicains;Droite;49;5.52;8.78
+2024_legi_t1;2024;legi;1;69201;Sainte-Foy-L'Argentière;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;160;18.04;28.67
+2024_legi_t1;2024;legi;1;69201;Sainte-Foy-L'Argentière;HORNUS;DVD;Divers droite;Droite;10;1.13;1.79
+2024_legi_t1;2024;legi;1;69201;Sainte-Foy-L'Argentière;PATOUT;RN;Rassemblement National;Extreme droite;247;27.85;44.27
+2024_legi_t1;2024;legi;1;69201;Sainte-Foy-L'Argentière;PERRIN;UG;Union de la gauche;Gauche;84;9.47;15.05
+2024_legi_t1;2024;legi;1;69202;Sainte-Foy-Lès-Lyon;CHARMOT;LR;Les Republicains;Droite;1971;12.44;16.29
+2024_legi_t1;2024;legi;1;69202;Sainte-Foy-Lès-Lyon;FAURITE;EXG;Extreme gauche;Extreme gauche;88;0.56;0.73
+2024_legi_t1;2024;legi;1;69202;Sainte-Foy-Lès-Lyon;GAILLOT DURAND;UG;Union de la gauche;Gauche;3031;19.13;25.05
+2024_legi_t1;2024;legi;1;69202;Sainte-Foy-Lès-Lyon;GALLICE;REC;Reconquete;Extreme droite;165;1.04;1.36
+2024_legi_t1;2024;legi;1;69202;Sainte-Foy-Lès-Lyon;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;4267;26.92;35.26
+2024_legi_t1;2024;legi;1;69202;Sainte-Foy-Lès-Lyon;LUISIER;RN;Rassemblement National;Extreme droite;2579;16.27;21.31
+2024_legi_t1;2024;legi;1;69203;Saint-Genis-L'Argentière;BERENYI GELEY;REC;Reconquete;Extreme droite;5;0.69;0.97
+2024_legi_t1;2024;legi;1;69203;Saint-Genis-L'Argentière;BOMPARD;EXG;Extreme gauche;Extreme gauche;9;1.24;1.74
+2024_legi_t1;2024;legi;1;69203;Saint-Genis-L'Argentière;CRUZ;LR;Les Republicains;Droite;28;3.85;5.43
+2024_legi_t1;2024;legi;1;69203;Saint-Genis-L'Argentière;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;125;17.19;24.22
+2024_legi_t1;2024;legi;1;69203;Saint-Genis-L'Argentière;HORNUS;DVD;Divers droite;Droite;7;0.96;1.36
+2024_legi_t1;2024;legi;1;69203;Saint-Genis-L'Argentière;PATOUT;RN;Rassemblement National;Extreme droite;223;30.67;43.22
+2024_legi_t1;2024;legi;1;69203;Saint-Genis-L'Argentière;PERRIN;UG;Union de la gauche;Gauche;119;16.37;23.06
+2024_legi_t1;2024;legi;1;69204;Saint-Genis-Laval;BERENYI GELEY;REC;Reconquete;Extreme droite;111;0.76;1.01
+2024_legi_t1;2024;legi;1;69204;Saint-Genis-Laval;BOMPARD;EXG;Extreme gauche;Extreme gauche;87;0.59;0.79
+2024_legi_t1;2024;legi;1;69204;Saint-Genis-Laval;CRUZ;LR;Les Republicains;Droite;670;4.56;6.1
+2024_legi_t1;2024;legi;1;69204;Saint-Genis-Laval;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;3712;25.26;33.8
+2024_legi_t1;2024;legi;1;69204;Saint-Genis-Laval;HORNUS;DVD;Divers droite;Droite;341;2.32;3.11
+2024_legi_t1;2024;legi;1;69204;Saint-Genis-Laval;PATOUT;RN;Rassemblement National;Extreme droite;2874;19.56;26.17
+2024_legi_t1;2024;legi;1;69204;Saint-Genis-Laval;PERRIN;UG;Union de la gauche;Gauche;3187;21.69;29.02
+2024_legi_t1;2024;legi;1;69205;Saint-Genis-Les-Ollières;BERENYI GELEY;REC;Reconquete;Extreme droite;33;0.85;1.09
+2024_legi_t1;2024;legi;1;69205;Saint-Genis-Les-Ollières;BOMPARD;EXG;Extreme gauche;Extreme gauche;8;0.21;0.27
+2024_legi_t1;2024;legi;1;69205;Saint-Genis-Les-Ollières;CRUZ;LR;Les Republicains;Droite;236;6.09;7.82
+2024_legi_t1;2024;legi;1;69205;Saint-Genis-Les-Ollières;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;1066;27.5;35.32
+2024_legi_t1;2024;legi;1;69205;Saint-Genis-Les-Ollières;HORNUS;DVD;Divers droite;Droite;59;1.52;1.95
+2024_legi_t1;2024;legi;1;69205;Saint-Genis-Les-Ollières;PATOUT;RN;Rassemblement National;Extreme droite;766;19.76;25.38
+2024_legi_t1;2024;legi;1;69205;Saint-Genis-Les-Ollières;PERRIN;UG;Union de la gauche;Gauche;850;21.92;28.16
+2024_legi_t1;2024;legi;1;69206;Saint-Georges-De-Reneins;D'AUTRYVE;REG;Regionaliste;Divers;22;0.63;0.91
+2024_legi_t1;2024;legi;1;69206;Saint-Georges-De-Reneins;HELLY;EXG;Extreme gauche;Extreme gauche;17;0.49;0.7
+2024_legi_t1;2024;legi;1;69206;Saint-Georges-De-Reneins;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;329;9.45;13.63
+2024_legi_t1;2024;legi;1;69206;Saint-Georges-De-Reneins;LOUIS;UXD;Union de l extreme droite;Extreme droite;1034;29.7;42.83
+2024_legi_t1;2024;legi;1;69206;Saint-Georges-De-Reneins;PORTIER;LR;Les Republicains;Droite;604;17.35;25.02
+2024_legi_t1;2024;legi;1;69206;Saint-Georges-De-Reneins;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;408;11.72;16.9
+2024_legi_t1;2024;legi;1;69207;Saint-Germain-Au-Mont-D'Or;BAZIN;REC;Reconquete;Extreme droite;17;0.77;1.1
+2024_legi_t1;2024;legi;1;69207;Saint-Germain-Au-Mont-D'Or;BITOUM;RN;Rassemblement National;Extreme droite;369;16.73;23.95
+2024_legi_t1;2024;legi;1;69207;Saint-Germain-Au-Mont-D'Or;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;470;21.31;30.5
+2024_legi_t1;2024;legi;1;69207;Saint-Germain-Au-Mont-D'Or;JOINT;LR;Les Republicains;Droite;96;4.35;6.23
+2024_legi_t1;2024;legi;1;69207;Saint-Germain-Au-Mont-D'Or;MATTEUCCI;UG;Union de la gauche;Gauche;572;25.93;37.12
+2024_legi_t1;2024;legi;1;69207;Saint-Germain-Au-Mont-D'Or;RIVIERE;EXG;Extreme gauche;Extreme gauche;17;0.77;1.1
+2024_legi_t1;2024;legi;1;69208;Saint-Germain-Nuelles;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;284;15.74;20.68
+2024_legi_t1;2024;legi;1;69208;Saint-Germain-Nuelles;FOURBOUL;REC;Reconquete;Extreme droite;22;1.22;1.6
+2024_legi_t1;2024;legi;1;69208;Saint-Germain-Nuelles;GERY;RN;Rassemblement National;Extreme droite;421;23.34;30.66
+2024_legi_t1;2024;legi;1;69208;Saint-Germain-Nuelles;REYMBAUT;UG;Union de la gauche;Gauche;371;20.57;27.02
+2024_legi_t1;2024;legi;1;69208;Saint-Germain-Nuelles;SERRE;LR;Les Republicains;Droite;267;14.8;19.45
+2024_legi_t1;2024;legi;1;69208;Saint-Germain-Nuelles;TEYSSIER;EXG;Extreme gauche;Extreme gauche;8;0.44;0.58
+2024_legi_t1;2024;legi;1;69209;Saint-Igny-De-Vers;D'AUTRYVE;REG;Regionaliste;Divers;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69209;Saint-Igny-De-Vers;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69209;Saint-Igny-De-Vers;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;19;3.87;5.51
+2024_legi_t1;2024;legi;1;69209;Saint-Igny-De-Vers;LOUIS;UXD;Union de l extreme droite;Extreme droite;156;31.77;45.22
+2024_legi_t1;2024;legi;1;69209;Saint-Igny-De-Vers;PORTIER;LR;Les Republicains;Droite;138;28.11;40.0
+2024_legi_t1;2024;legi;1;69209;Saint-Igny-De-Vers;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;32;6.52;9.28
+2024_legi_t1;2024;legi;1;69212;Saint-Jean-Des-Vignes;D'AUTRYVE;REG;Regionaliste;Divers;4;1.06;1.39
+2024_legi_t1;2024;legi;1;69212;Saint-Jean-Des-Vignes;HELLY;EXG;Extreme gauche;Extreme gauche;1;0.27;0.35
+2024_legi_t1;2024;legi;1;69212;Saint-Jean-Des-Vignes;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;47;12.47;16.32
+2024_legi_t1;2024;legi;1;69212;Saint-Jean-Des-Vignes;LOUIS;UXD;Union de l extreme droite;Extreme droite;94;24.93;32.64
+2024_legi_t1;2024;legi;1;69212;Saint-Jean-Des-Vignes;PORTIER;LR;Les Republicains;Droite;79;20.95;27.43
+2024_legi_t1;2024;legi;1;69212;Saint-Jean-Des-Vignes;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;63;16.71;21.88
+2024_legi_t1;2024;legi;1;69214;Saint-Jean-La-Bussière;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;92;10.21;13.86
+2024_legi_t1;2024;legi;1;69214;Saint-Jean-La-Bussière;FOURBOUL;REC;Reconquete;Extreme droite;1;0.11;0.15
+2024_legi_t1;2024;legi;1;69214;Saint-Jean-La-Bussière;GERY;RN;Rassemblement National;Extreme droite;291;32.3;43.83
+2024_legi_t1;2024;legi;1;69214;Saint-Jean-La-Bussière;REYMBAUT;UG;Union de la gauche;Gauche;113;12.54;17.02
+2024_legi_t1;2024;legi;1;69214;Saint-Jean-La-Bussière;SERRE;LR;Les Republicains;Droite;164;18.2;24.7
+2024_legi_t1;2024;legi;1;69214;Saint-Jean-La-Bussière;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.33;0.45
+2024_legi_t1;2024;legi;1;69215;Saint-Julien;D'AUTRYVE;REG;Regionaliste;Divers;6;0.83;1.04
+2024_legi_t1;2024;legi;1;69215;Saint-Julien;HELLY;EXG;Extreme gauche;Extreme gauche;3;0.42;0.52
+2024_legi_t1;2024;legi;1;69215;Saint-Julien;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;90;12.48;15.54
+2024_legi_t1;2024;legi;1;69215;Saint-Julien;LOUIS;UXD;Union de l extreme droite;Extreme droite;251;34.81;43.35
+2024_legi_t1;2024;legi;1;69215;Saint-Julien;PORTIER;LR;Les Republicains;Droite;144;19.97;24.87
+2024_legi_t1;2024;legi;1;69215;Saint-Julien;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;85;11.79;14.68
+2024_legi_t1;2024;legi;1;69216;Saint-Julien-Sur-Bibost;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;57;12.84;16.96
+2024_legi_t1;2024;legi;1;69216;Saint-Julien-Sur-Bibost;FOURBOUL;REC;Reconquete;Extreme droite;6;1.35;1.79
+2024_legi_t1;2024;legi;1;69216;Saint-Julien-Sur-Bibost;GERY;RN;Rassemblement National;Extreme droite;117;26.35;34.82
+2024_legi_t1;2024;legi;1;69216;Saint-Julien-Sur-Bibost;REYMBAUT;UG;Union de la gauche;Gauche;77;17.34;22.92
+2024_legi_t1;2024;legi;1;69216;Saint-Julien-Sur-Bibost;SERRE;LR;Les Republicains;Droite;76;17.12;22.62
+2024_legi_t1;2024;legi;1;69216;Saint-Julien-Sur-Bibost;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.68;0.89
+2024_legi_t1;2024;legi;1;69217;Saint-Just-D'Avray;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;84;13.91;18.71
+2024_legi_t1;2024;legi;1;69217;Saint-Just-D'Avray;FOURBOUL;REC;Reconquete;Extreme droite;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69217;Saint-Just-D'Avray;GERY;RN;Rassemblement National;Extreme droite;156;25.83;34.74
+2024_legi_t1;2024;legi;1;69217;Saint-Just-D'Avray;REYMBAUT;UG;Union de la gauche;Gauche;87;14.4;19.38
+2024_legi_t1;2024;legi;1;69217;Saint-Just-D'Avray;SERRE;LR;Les Republicains;Droite;119;19.7;26.5
+2024_legi_t1;2024;legi;1;69217;Saint-Just-D'Avray;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.5;0.67
+2024_legi_t1;2024;legi;1;69218;Saint-Lager;D'AUTRYVE;REG;Regionaliste;Divers;6;0.8;1.1
+2024_legi_t1;2024;legi;1;69218;Saint-Lager;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.27;0.37
+2024_legi_t1;2024;legi;1;69218;Saint-Lager;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;67;8.89;12.27
+2024_legi_t1;2024;legi;1;69218;Saint-Lager;LOUIS;UXD;Union de l extreme droite;Extreme droite;263;34.88;48.17
+2024_legi_t1;2024;legi;1;69218;Saint-Lager;PORTIER;LR;Les Republicains;Droite;139;18.44;25.46
+2024_legi_t1;2024;legi;1;69218;Saint-Lager;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;69;9.15;12.64
+2024_legi_t1;2024;legi;1;69219;Saint-Laurent-D'Agny;BROWNING;EXG;Extreme gauche;Extreme gauche;11;0.61;0.81
+2024_legi_t1;2024;legi;1;69219;Saint-Laurent-D'Agny;FERRO;LR;Les Republicains;Droite;175;9.67;12.87
+2024_legi_t1;2024;legi;1;69219;Saint-Laurent-D'Agny;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;433;23.94;31.84
+2024_legi_t1;2024;legi;1;69219;Saint-Laurent-D'Agny;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;402;22.22;29.56
+2024_legi_t1;2024;legi;1;69219;Saint-Laurent-D'Agny;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;44;2.43;3.24
+2024_legi_t1;2024;legi;1;69219;Saint-Laurent-D'Agny;YOUSFI;UG;Union de la gauche;Gauche;295;16.31;21.69
+2024_legi_t1;2024;legi;1;69220;Saint-Laurent-De-Chamousset;BERENYI GELEY;REC;Reconquete;Extreme droite;11;0.83;1.14
+2024_legi_t1;2024;legi;1;69220;Saint-Laurent-De-Chamousset;BOMPARD;EXG;Extreme gauche;Extreme gauche;8;0.6;0.83
+2024_legi_t1;2024;legi;1;69220;Saint-Laurent-De-Chamousset;CRUZ;LR;Les Republicains;Droite;205;15.47;21.16
+2024_legi_t1;2024;legi;1;69220;Saint-Laurent-De-Chamousset;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;244;18.42;25.18
+2024_legi_t1;2024;legi;1;69220;Saint-Laurent-De-Chamousset;HORNUS;DVD;Divers droite;Droite;4;0.3;0.41
+2024_legi_t1;2024;legi;1;69220;Saint-Laurent-De-Chamousset;PATOUT;RN;Rassemblement National;Extreme droite;344;25.96;35.5
+2024_legi_t1;2024;legi;1;69220;Saint-Laurent-De-Chamousset;PERRIN;UG;Union de la gauche;Gauche;153;11.55;15.79
+2024_legi_t1;2024;legi;1;69225;Saint-Marcel-L'Eclairé;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;40;8.66;11.66
+2024_legi_t1;2024;legi;1;69225;Saint-Marcel-L'Eclairé;FOURBOUL;REC;Reconquete;Extreme droite;2;0.43;0.58
+2024_legi_t1;2024;legi;1;69225;Saint-Marcel-L'Eclairé;GERY;RN;Rassemblement National;Extreme droite;145;31.39;42.27
+2024_legi_t1;2024;legi;1;69225;Saint-Marcel-L'Eclairé;REYMBAUT;UG;Union de la gauche;Gauche;76;16.45;22.16
+2024_legi_t1;2024;legi;1;69225;Saint-Marcel-L'Eclairé;SERRE;LR;Les Republicains;Droite;79;17.1;23.03
+2024_legi_t1;2024;legi;1;69225;Saint-Marcel-L'Eclairé;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.22;0.29
+2024_legi_t1;2024;legi;1;69227;Saint-Martin-En-Haut;BERENYI GELEY;REC;Reconquete;Extreme droite;15;0.47;0.63
+2024_legi_t1;2024;legi;1;69227;Saint-Martin-En-Haut;BOMPARD;EXG;Extreme gauche;Extreme gauche;20;0.63;0.84
+2024_legi_t1;2024;legi;1;69227;Saint-Martin-En-Haut;CRUZ;LR;Les Republicains;Droite;560;17.55;23.61
+2024_legi_t1;2024;legi;1;69227;Saint-Martin-En-Haut;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;581;18.21;24.49
+2024_legi_t1;2024;legi;1;69227;Saint-Martin-En-Haut;HORNUS;DVD;Divers droite;Droite;29;0.91;1.22
+2024_legi_t1;2024;legi;1;69227;Saint-Martin-En-Haut;PATOUT;RN;Rassemblement National;Extreme droite;692;21.69;29.17
+2024_legi_t1;2024;legi;1;69227;Saint-Martin-En-Haut;PERRIN;UG;Union de la gauche;Gauche;475;14.89;20.03
+2024_legi_t1;2024;legi;1;69228;Saint-Maurice-Sur-Dargoire;BROWNING;EXG;Extreme gauche;Extreme gauche;21;0.63;0.83
+2024_legi_t1;2024;legi;1;69228;Chabanière;BROWNING;EXG;Extreme gauche;Extreme gauche;21;0.63;0.83
+2024_legi_t1;2024;legi;1;69228;Saint-Maurice-Sur-Dargoire;FERRO;LR;Les Republicains;Droite;373;11.26;14.75
+2024_legi_t1;2024;legi;1;69228;Chabanière;FERRO;LR;Les Republicains;Droite;373;11.26;14.75
+2024_legi_t1;2024;legi;1;69228;Saint-Maurice-Sur-Dargoire;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;748;22.58;29.58
+2024_legi_t1;2024;legi;1;69228;Chabanière;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;748;22.58;29.58
+2024_legi_t1;2024;legi;1;69228;Saint-Maurice-Sur-Dargoire;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;857;25.88;33.89
+2024_legi_t1;2024;legi;1;69228;Chabanière;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;857;25.88;33.89
+2024_legi_t1;2024;legi;1;69228;Saint-Maurice-Sur-Dargoire;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;78;2.36;3.08
+2024_legi_t1;2024;legi;1;69228;Chabanière;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;78;2.36;3.08
+2024_legi_t1;2024;legi;1;69228;Saint-Maurice-Sur-Dargoire;YOUSFI;UG;Union de la gauche;Gauche;452;13.65;17.87
+2024_legi_t1;2024;legi;1;69228;Chabanière;YOUSFI;UG;Union de la gauche;Gauche;452;13.65;17.87
+2024_legi_t1;2024;legi;1;69229;Saint-Nizier-D'Azergues;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;63;11.37;16.41
+2024_legi_t1;2024;legi;1;69229;Saint-Nizier-D'Azergues;FOURBOUL;REC;Reconquete;Extreme droite;4;0.72;1.04
+2024_legi_t1;2024;legi;1;69229;Saint-Nizier-D'Azergues;GERY;RN;Rassemblement National;Extreme droite;155;27.98;40.36
+2024_legi_t1;2024;legi;1;69229;Saint-Nizier-D'Azergues;REYMBAUT;UG;Union de la gauche;Gauche;68;12.27;17.71
+2024_legi_t1;2024;legi;1;69229;Saint-Nizier-D'Azergues;SERRE;LR;Les Republicains;Droite;92;16.61;23.96
+2024_legi_t1;2024;legi;1;69229;Saint-Nizier-D'Azergues;TEYSSIER;EXG;Extreme gauche;Extreme gauche;2;0.36;0.52
+2024_legi_t1;2024;legi;1;69230;Sainte-Paule;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;47;16.49;21.96
+2024_legi_t1;2024;legi;1;69230;Sainte-Paule;FOURBOUL;REC;Reconquete;Extreme droite;3;1.05;1.4
+2024_legi_t1;2024;legi;1;69230;Sainte-Paule;GERY;RN;Rassemblement National;Extreme droite;66;23.16;30.84
+2024_legi_t1;2024;legi;1;69230;Sainte-Paule;REYMBAUT;UG;Union de la gauche;Gauche;36;12.63;16.82
+2024_legi_t1;2024;legi;1;69230;Sainte-Paule;SERRE;LR;Les Republicains;Droite;61;21.4;28.5
+2024_legi_t1;2024;legi;1;69230;Sainte-Paule;TEYSSIER;EXG;Extreme gauche;Extreme gauche;1;0.35;0.47
+2024_legi_t1;2024;legi;1;69231;Saint-Pierre-La-Palud;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;310;14.18;20.46
+2024_legi_t1;2024;legi;1;69231;Saint-Pierre-La-Palud;FOURBOUL;REC;Reconquete;Extreme droite;19;0.87;1.25
+2024_legi_t1;2024;legi;1;69231;Saint-Pierre-La-Palud;GERY;RN;Rassemblement National;Extreme droite;527;24.11;34.79
+2024_legi_t1;2024;legi;1;69231;Saint-Pierre-La-Palud;REYMBAUT;UG;Union de la gauche;Gauche;406;18.57;26.8
+2024_legi_t1;2024;legi;1;69231;Saint-Pierre-La-Palud;SERRE;LR;Les Republicains;Droite;234;10.7;15.45
+2024_legi_t1;2024;legi;1;69231;Saint-Pierre-La-Palud;TEYSSIER;EXG;Extreme gauche;Extreme gauche;19;0.87;1.25
+2024_legi_t1;2024;legi;1;69233;Saint-Romain-Au-Mont-D'Or;BAZIN;REC;Reconquete;Extreme droite;10;1.05;1.32
+2024_legi_t1;2024;legi;1;69233;Saint-Romain-Au-Mont-D'Or;BITOUM;RN;Rassemblement National;Extreme droite;184;19.37;24.24
+2024_legi_t1;2024;legi;1;69233;Saint-Romain-Au-Mont-D'Or;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;280;29.47;36.89
+2024_legi_t1;2024;legi;1;69233;Saint-Romain-Au-Mont-D'Or;JOINT;LR;Les Republicains;Droite;74;7.79;9.75
+2024_legi_t1;2024;legi;1;69233;Saint-Romain-Au-Mont-D'Or;MATTEUCCI;UG;Union de la gauche;Gauche;206;21.68;27.14
+2024_legi_t1;2024;legi;1;69233;Saint-Romain-Au-Mont-D'Or;RIVIERE;EXG;Extreme gauche;Extreme gauche;5;0.53;0.66
+2024_legi_t1;2024;legi;1;69234;Saint-Romain-De-Popey;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;166;12.43;16.42
+2024_legi_t1;2024;legi;1;69234;Saint-Romain-De-Popey;FOURBOUL;REC;Reconquete;Extreme droite;14;1.05;1.38
+2024_legi_t1;2024;legi;1;69234;Saint-Romain-De-Popey;GERY;RN;Rassemblement National;Extreme droite;350;26.2;34.62
+2024_legi_t1;2024;legi;1;69234;Saint-Romain-De-Popey;REYMBAUT;UG;Union de la gauche;Gauche;224;16.77;22.16
+2024_legi_t1;2024;legi;1;69234;Saint-Romain-De-Popey;SERRE;LR;Les Republicains;Droite;251;18.79;24.83
+2024_legi_t1;2024;legi;1;69234;Saint-Romain-De-Popey;TEYSSIER;EXG;Extreme gauche;Extreme gauche;6;0.45;0.59
+2024_legi_t1;2024;legi;1;69235;Saint-Romain-En-Gal;BROWNING;EXG;Extreme gauche;Extreme gauche;8;0.55;0.73
+2024_legi_t1;2024;legi;1;69235;Saint-Romain-En-Gal;FERRO;LR;Les Republicains;Droite;93;6.4;8.47
+2024_legi_t1;2024;legi;1;69235;Saint-Romain-En-Gal;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;274;18.87;24.95
+2024_legi_t1;2024;legi;1;69235;Saint-Romain-En-Gal;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;365;25.14;33.24
+2024_legi_t1;2024;legi;1;69235;Saint-Romain-En-Gal;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;45;3.1;4.1
+2024_legi_t1;2024;legi;1;69235;Saint-Romain-En-Gal;YOUSFI;UG;Union de la gauche;Gauche;313;21.56;28.51
+2024_legi_t1;2024;legi;1;69236;Saint-Romain-En-Gier;BROWNING;EXG;Extreme gauche;Extreme gauche;7;1.68;2.54
+2024_legi_t1;2024;legi;1;69236;Saint-Romain-En-Gier;FERRO;LR;Les Republicains;Droite;27;6.49;9.78
+2024_legi_t1;2024;legi;1;69236;Saint-Romain-En-Gier;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;60;14.42;21.74
+2024_legi_t1;2024;legi;1;69236;Saint-Romain-En-Gier;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;127;30.53;46.01
+2024_legi_t1;2024;legi;1;69236;Saint-Romain-En-Gier;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;9;2.16;3.26
+2024_legi_t1;2024;legi;1;69236;Saint-Romain-En-Gier;YOUSFI;UG;Union de la gauche;Gauche;46;11.06;16.67
+2024_legi_t1;2024;legi;1;69238;Saint-Symphorien-Sur-Coise;BERENYI GELEY;REC;Reconquete;Extreme droite;12;0.45;0.65
+2024_legi_t1;2024;legi;1;69238;Saint-Symphorien-Sur-Coise;BOMPARD;EXG;Extreme gauche;Extreme gauche;12;0.45;0.65
+2024_legi_t1;2024;legi;1;69238;Saint-Symphorien-Sur-Coise;CRUZ;LR;Les Republicains;Droite;217;8.12;11.82
+2024_legi_t1;2024;legi;1;69238;Saint-Symphorien-Sur-Coise;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;531;19.87;28.92
+2024_legi_t1;2024;legi;1;69238;Saint-Symphorien-Sur-Coise;HORNUS;DVD;Divers droite;Droite;14;0.52;0.76
+2024_legi_t1;2024;legi;1;69238;Saint-Symphorien-Sur-Coise;PATOUT;RN;Rassemblement National;Extreme droite;670;25.07;36.49
+2024_legi_t1;2024;legi;1;69238;Saint-Symphorien-Sur-Coise;PERRIN;UG;Union de la gauche;Gauche;380;14.22;20.7
+2024_legi_t1;2024;legi;1;69239;Saint-Vérand;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;112;11.19;15.22
+2024_legi_t1;2024;legi;1;69239;Saint-Vérand;FOURBOUL;REC;Reconquete;Extreme droite;4;0.4;0.54
+2024_legi_t1;2024;legi;1;69239;Saint-Vérand;GERY;RN;Rassemblement National;Extreme droite;303;30.27;41.17
+2024_legi_t1;2024;legi;1;69239;Saint-Vérand;REYMBAUT;UG;Union de la gauche;Gauche;147;14.69;19.97
+2024_legi_t1;2024;legi;1;69239;Saint-Vérand;SERRE;LR;Les Republicains;Droite;164;16.38;22.28
+2024_legi_t1;2024;legi;1;69239;Saint-Vérand;TEYSSIER;EXG;Extreme gauche;Extreme gauche;6;0.6;0.82
+2024_legi_t1;2024;legi;1;69240;Saint-Vincent-De-Reins;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;42;8.0;11.83
+2024_legi_t1;2024;legi;1;69240;Saint-Vincent-De-Reins;FOURBOUL;REC;Reconquete;Extreme droite;3;0.57;0.85
+2024_legi_t1;2024;legi;1;69240;Saint-Vincent-De-Reins;GERY;RN;Rassemblement National;Extreme droite;165;31.43;46.48
+2024_legi_t1;2024;legi;1;69240;Saint-Vincent-De-Reins;REYMBAUT;UG;Union de la gauche;Gauche;60;11.43;16.9
+2024_legi_t1;2024;legi;1;69240;Saint-Vincent-De-Reins;SERRE;LR;Les Republicains;Droite;85;16.19;23.94
+2024_legi_t1;2024;legi;1;69240;Saint-Vincent-De-Reins;TEYSSIER;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69241;Taluyers;BROWNING;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69241;Taluyers;FERRO;LR;Les Republicains;Droite;197;9.68;12.62
+2024_legi_t1;2024;legi;1;69241;Taluyers;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;483;23.73;30.94
+2024_legi_t1;2024;legi;1;69241;Taluyers;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;566;27.81;36.26
+2024_legi_t1;2024;legi;1;69241;Taluyers;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;56;2.75;3.59
+2024_legi_t1;2024;legi;1;69241;Taluyers;YOUSFI;UG;Union de la gauche;Gauche;259;12.73;16.59
+2024_legi_t1;2024;legi;1;69242;Taponas;D'AUTRYVE;REG;Regionaliste;Divers;7;0.91;1.33
+2024_legi_t1;2024;legi;1;69242;Taponas;HELLY;EXG;Extreme gauche;Extreme gauche;8;1.04;1.52
+2024_legi_t1;2024;legi;1;69242;Taponas;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;46;5.96;8.71
+2024_legi_t1;2024;legi;1;69242;Taponas;LOUIS;UXD;Union de l extreme droite;Extreme droite;263;34.07;49.81
+2024_legi_t1;2024;legi;1;69242;Taponas;PORTIER;LR;Les Republicains;Droite;104;13.47;19.7
+2024_legi_t1;2024;legi;1;69242;Taponas;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;100;12.95;18.94
+2024_legi_t1;2024;legi;1;69243;Tarare;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;492;7.31;11.78
+2024_legi_t1;2024;legi;1;69243;Tarare;FOURBOUL;REC;Reconquete;Extreme droite;30;0.45;0.72
+2024_legi_t1;2024;legi;1;69243;Tarare;GERY;RN;Rassemblement National;Extreme droite;1435;21.31;34.35
+2024_legi_t1;2024;legi;1;69243;Tarare;REYMBAUT;UG;Union de la gauche;Gauche;1253;18.61;30.0
+2024_legi_t1;2024;legi;1;69243;Tarare;SERRE;LR;Les Republicains;Droite;917;13.62;21.95
+2024_legi_t1;2024;legi;1;69243;Tarare;TEYSSIER;EXG;Extreme gauche;Extreme gauche;50;0.74;1.2
+2024_legi_t1;2024;legi;1;69244;Tassin-La-Demi-Lune;CHARMOT;LR;Les Republicains;Droite;2667;17.39;23.31
+2024_legi_t1;2024;legi;1;69244;Tassin-La-Demi-Lune;FAURITE;EXG;Extreme gauche;Extreme gauche;60;0.39;0.52
+2024_legi_t1;2024;legi;1;69244;Tassin-La-Demi-Lune;GAILLOT DURAND;UG;Union de la gauche;Gauche;2404;15.68;21.01
+2024_legi_t1;2024;legi;1;69244;Tassin-La-Demi-Lune;GALLICE;REC;Reconquete;Extreme droite;134;0.87;1.17
+2024_legi_t1;2024;legi;1;69244;Tassin-La-Demi-Lune;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;3386;22.08;29.6
+2024_legi_t1;2024;legi;1;69244;Tassin-La-Demi-Lune;LUISIER;RN;Rassemblement National;Extreme droite;2789;18.19;24.38
+2024_legi_t1;2024;legi;1;69245;Ternand;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;88;14.64;19.73
+2024_legi_t1;2024;legi;1;69245;Ternand;FOURBOUL;REC;Reconquete;Extreme droite;1;0.17;0.22
+2024_legi_t1;2024;legi;1;69245;Ternand;GERY;RN;Rassemblement National;Extreme droite;170;28.29;38.12
+2024_legi_t1;2024;legi;1;69245;Ternand;REYMBAUT;UG;Union de la gauche;Gauche;101;16.81;22.65
+2024_legi_t1;2024;legi;1;69245;Ternand;SERRE;LR;Les Republicains;Droite;79;13.14;17.71
+2024_legi_t1;2024;legi;1;69245;Ternand;TEYSSIER;EXG;Extreme gauche;Extreme gauche;7;1.16;1.57
+2024_legi_t1;2024;legi;1;69246;Theizé;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;147;14.77;18.77
+2024_legi_t1;2024;legi;1;69246;Theizé;FOURBOUL;REC;Reconquete;Extreme droite;7;0.7;0.89
+2024_legi_t1;2024;legi;1;69246;Theizé;GERY;RN;Rassemblement National;Extreme droite;204;20.5;26.05
+2024_legi_t1;2024;legi;1;69246;Theizé;REYMBAUT;UG;Union de la gauche;Gauche;227;22.81;28.99
+2024_legi_t1;2024;legi;1;69246;Theizé;SERRE;LR;Les Republicains;Droite;194;19.5;24.78
+2024_legi_t1;2024;legi;1;69246;Theizé;TEYSSIER;EXG;Extreme gauche;Extreme gauche;4;0.4;0.51
+2024_legi_t1;2024;legi;1;69248;Thizy-Les-Bourgs;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;373;9.28;13.98
+2024_legi_t1;2024;legi;1;69248;Thizy-Les-Bourgs;FOURBOUL;REC;Reconquete;Extreme droite;21;0.52;0.79
+2024_legi_t1;2024;legi;1;69248;Thizy-Les-Bourgs;GERY;RN;Rassemblement National;Extreme droite;1145;28.5;42.92
+2024_legi_t1;2024;legi;1;69248;Thizy-Les-Bourgs;REYMBAUT;UG;Union de la gauche;Gauche;574;14.29;21.51
+2024_legi_t1;2024;legi;1;69248;Thizy-Les-Bourgs;SERRE;LR;Les Republicains;Droite;529;13.17;19.83
+2024_legi_t1;2024;legi;1;69248;Thizy-Les-Bourgs;TEYSSIER;EXG;Extreme gauche;Extreme gauche;26;0.65;0.97
+2024_legi_t1;2024;legi;1;69249;Thurins;BERENYI GELEY;REC;Reconquete;Extreme droite;13;0.52;0.69
+2024_legi_t1;2024;legi;1;69249;Thurins;BOMPARD;EXG;Extreme gauche;Extreme gauche;15;0.6;0.8
+2024_legi_t1;2024;legi;1;69249;Thurins;CRUZ;LR;Les Republicains;Droite;166;6.6;8.81
+2024_legi_t1;2024;legi;1;69249;Thurins;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;531;21.11;28.17
+2024_legi_t1;2024;legi;1;69249;Thurins;HORNUS;DVD;Divers droite;Droite;20;0.8;1.06
+2024_legi_t1;2024;legi;1;69249;Thurins;PATOUT;RN;Rassemblement National;Extreme droite;753;29.94;39.95
+2024_legi_t1;2024;legi;1;69249;Thurins;PERRIN;UG;Union de la gauche;Gauche;387;15.39;20.53
+2024_legi_t1;2024;legi;1;69250;La Tour-De-Salvagny;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;892;25.86;32.16
+2024_legi_t1;2024;legi;1;69250;La Tour-De-Salvagny;FOURBOUL;REC;Reconquete;Extreme droite;25;0.72;0.9
+2024_legi_t1;2024;legi;1;69250;La Tour-De-Salvagny;GERY;RN;Rassemblement National;Extreme droite;756;21.91;27.25
+2024_legi_t1;2024;legi;1;69250;La Tour-De-Salvagny;REYMBAUT;UG;Union de la gauche;Gauche;515;14.93;18.57
+2024_legi_t1;2024;legi;1;69250;La Tour-De-Salvagny;SERRE;LR;Les Republicains;Droite;572;16.58;20.62
+2024_legi_t1;2024;legi;1;69250;La Tour-De-Salvagny;TEYSSIER;EXG;Extreme gauche;Extreme gauche;14;0.41;0.5
+2024_legi_t1;2024;legi;1;69252;Trèves;BROWNING;EXG;Extreme gauche;Extreme gauche;5;0.86;1.2
+2024_legi_t1;2024;legi;1;69252;Trèves;FERRO;LR;Les Republicains;Droite;27;4.63;6.51
+2024_legi_t1;2024;legi;1;69252;Trèves;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;121;20.75;29.16
+2024_legi_t1;2024;legi;1;69252;Trèves;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;182;31.22;43.86
+2024_legi_t1;2024;legi;1;69252;Trèves;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;9;1.54;2.17
+2024_legi_t1;2024;legi;1;69252;Trèves;YOUSFI;UG;Union de la gauche;Gauche;71;12.18;17.11
+2024_legi_t1;2024;legi;1;69253;Tupin-Et-Semons;BROWNING;EXG;Extreme gauche;Extreme gauche;7;1.32;1.86
+2024_legi_t1;2024;legi;1;69253;Tupin-Et-Semons;FERRO;LR;Les Republicains;Droite;54;10.15;14.36
+2024_legi_t1;2024;legi;1;69253;Tupin-Et-Semons;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;95;17.86;25.27
+2024_legi_t1;2024;legi;1;69253;Tupin-Et-Semons;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;155;29.14;41.22
+2024_legi_t1;2024;legi;1;69253;Tupin-Et-Semons;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;6;1.13;1.6
+2024_legi_t1;2024;legi;1;69253;Tupin-Et-Semons;YOUSFI;UG;Union de la gauche;Gauche;59;11.09;15.69
+2024_legi_t1;2024;legi;1;69254;Valsonne;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;48;7.28;10.17
+2024_legi_t1;2024;legi;1;69254;Valsonne;FOURBOUL;REC;Reconquete;Extreme droite;3;0.46;0.64
+2024_legi_t1;2024;legi;1;69254;Valsonne;GERY;RN;Rassemblement National;Extreme droite;212;32.17;44.92
+2024_legi_t1;2024;legi;1;69254;Valsonne;REYMBAUT;UG;Union de la gauche;Gauche;134;20.33;28.39
+2024_legi_t1;2024;legi;1;69254;Valsonne;SERRE;LR;Les Republicains;Droite;73;11.08;15.47
+2024_legi_t1;2024;legi;1;69254;Valsonne;TEYSSIER;EXG;Extreme gauche;Extreme gauche;2;0.3;0.42
+2024_legi_t1;2024;legi;1;69255;Vaugneray;BERENYI GELEY;REC;Reconquete;Extreme droite;49;1.05;1.42
+2024_legi_t1;2024;legi;1;69255;Vaugneray;BOMPARD;EXG;Extreme gauche;Extreme gauche;30;0.64;0.87
+2024_legi_t1;2024;legi;1;69255;Vaugneray;CRUZ;LR;Les Republicains;Droite;270;5.78;7.81
+2024_legi_t1;2024;legi;1;69255;Vaugneray;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;1143;24.47;33.06
+2024_legi_t1;2024;legi;1;69255;Vaugneray;HORNUS;DVD;Divers droite;Droite;64;1.37;1.85
+2024_legi_t1;2024;legi;1;69255;Vaugneray;PATOUT;RN;Rassemblement National;Extreme droite;1113;23.83;32.2
+2024_legi_t1;2024;legi;1;69255;Vaugneray;PERRIN;UG;Union de la gauche;Gauche;788;16.87;22.79
+2024_legi_t1;2024;legi;1;69256;Vaulx-En-Velin;BENON;REC;Reconquete;Extreme droite;109;0.43;0.86
+2024_legi_t1;2024;legi;1;69256;Vaulx-En-Velin;FONTAINE;LR;Les Republicains;Droite;331;1.32;2.61
+2024_legi_t1;2024;legi;1;69256;Vaulx-En-Velin;LAHMAR;UG;Union de la gauche;Gauche;8247;32.86;65.02
+2024_legi_t1;2024;legi;1;69256;Vaulx-En-Velin;PIGNAL;RN;Rassemblement National;Extreme droite;2256;8.99;17.79
+2024_legi_t1;2024;legi;1;69256;Vaulx-En-Velin;SPREUX;EXG;Extreme gauche;Extreme gauche;221;0.88;1.74
+2024_legi_t1;2024;legi;1;69256;Vaulx-En-Velin;VINCENDET;ENS;Ensemble (Renaissance / LREM);Centre;1520;6.06;11.98
+2024_legi_t1;2024;legi;1;69257;Vaux-En-Beaujolais;D'AUTRYVE;REG;Regionaliste;Divers;3;0.34;0.47
+2024_legi_t1;2024;legi;1;69257;Vaux-En-Beaujolais;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.22;0.31
+2024_legi_t1;2024;legi;1;69257;Vaux-En-Beaujolais;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;78;8.76;12.24
+2024_legi_t1;2024;legi;1;69257;Vaux-En-Beaujolais;LOUIS;UXD;Union de l extreme droite;Extreme droite;281;31.57;44.11
+2024_legi_t1;2024;legi;1;69257;Vaux-En-Beaujolais;PORTIER;LR;Les Republicains;Droite;131;14.72;20.57
+2024_legi_t1;2024;legi;1;69257;Vaux-En-Beaujolais;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;142;15.96;22.29
+2024_legi_t1;2024;legi;1;69258;Vauxrenard;D'AUTRYVE;REG;Regionaliste;Divers;2;0.73;0.93
+2024_legi_t1;2024;legi;1;69258;Vauxrenard;HELLY;EXG;Extreme gauche;Extreme gauche;2;0.73;0.93
+2024_legi_t1;2024;legi;1;69258;Vauxrenard;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;20;7.3;9.3
+2024_legi_t1;2024;legi;1;69258;Vauxrenard;LOUIS;UXD;Union de l extreme droite;Extreme droite;73;26.64;33.95
+2024_legi_t1;2024;legi;1;69258;Vauxrenard;PORTIER;LR;Les Republicains;Droite;77;28.1;35.81
+2024_legi_t1;2024;legi;1;69258;Vauxrenard;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;41;14.96;19.07
+2024_legi_t1;2024;legi;1;69259;Vénissieux;ALMERAS;ENS;Ensemble (Renaissance / LREM);Centre;2183;7.23;12.75
+2024_legi_t1;2024;legi;1;69259;Vénissieux;BOUMERTIT;UG;Union de la gauche;Gauche;10324;34.2;60.32
+2024_legi_t1;2024;legi;1;69259;Vénissieux;MAZZONE;LR;Les Republicains;Droite;518;1.72;3.03
+2024_legi_t1;2024;legi;1;69259;Vénissieux;MERMET;RN;Rassemblement National;Extreme droite;3574;11.84;20.88
+2024_legi_t1;2024;legi;1;69259;Vénissieux;MINOUX;EXG;Extreme gauche;Extreme gauche;360;1.19;2.1
+2024_legi_t1;2024;legi;1;69259;Vénissieux;RIHA;REC;Reconquete;Extreme droite;157;0.52;0.92
+2024_legi_t1;2024;legi;1;69260;Vernaison;CHARMOT;LR;Les Republicains;Droite;346;10.47;14.06
+2024_legi_t1;2024;legi;1;69260;Vernaison;FAURITE;EXG;Extreme gauche;Extreme gauche;23;0.7;0.93
+2024_legi_t1;2024;legi;1;69260;Vernaison;GAILLOT DURAND;UG;Union de la gauche;Gauche;632;19.12;25.68
+2024_legi_t1;2024;legi;1;69260;Vernaison;GALLICE;REC;Reconquete;Extreme droite;27;0.82;1.1
+2024_legi_t1;2024;legi;1;69260;Vernaison;ISAAC-SIBILLE;ENS;Ensemble (Renaissance / LREM);Centre;738;22.33;29.99
+2024_legi_t1;2024;legi;1;69260;Vernaison;LUISIER;RN;Rassemblement National;Extreme droite;695;21.03;28.24
+2024_legi_t1;2024;legi;1;69261;Vernay;D'AUTRYVE;REG;Regionaliste;Divers;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69261;Vernay;HELLY;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69261;Vernay;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;1;1.82;2.33
+2024_legi_t1;2024;legi;1;69261;Vernay;LOUIS;UXD;Union de l extreme droite;Extreme droite;9;16.36;20.93
+2024_legi_t1;2024;legi;1;69261;Vernay;PORTIER;LR;Les Republicains;Droite;28;50.91;65.12
+2024_legi_t1;2024;legi;1;69261;Vernay;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;5;9.09;11.63
+2024_legi_t1;2024;legi;1;69263;Villechenève;BERENYI GELEY;REC;Reconquete;Extreme droite;2;0.3;0.43
+2024_legi_t1;2024;legi;1;69263;Villechenève;BOMPARD;EXG;Extreme gauche;Extreme gauche;5;0.75;1.08
+2024_legi_t1;2024;legi;1;69263;Villechenève;CRUZ;LR;Les Republicains;Droite;65;9.73;14.07
+2024_legi_t1;2024;legi;1;69263;Villechenève;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;101;15.12;21.86
+2024_legi_t1;2024;legi;1;69263;Villechenève;HORNUS;DVD;Divers droite;Droite;9;1.35;1.95
+2024_legi_t1;2024;legi;1;69263;Villechenève;PATOUT;RN;Rassemblement National;Extreme droite;204;30.54;44.16
+2024_legi_t1;2024;legi;1;69263;Villechenève;PERRIN;UG;Union de la gauche;Gauche;76;11.38;16.45
+2024_legi_t1;2024;legi;1;69264;Villefranche-Sur-Saône;D'AUTRYVE;REG;Regionaliste;Divers;115;0.59;0.95
+2024_legi_t1;2024;legi;1;69264;Villefranche-Sur-Saône;HELLY;EXG;Extreme gauche;Extreme gauche;120;0.62;0.99
+2024_legi_t1;2024;legi;1;69264;Villefranche-Sur-Saône;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;1554;8.02;12.82
+2024_legi_t1;2024;legi;1;69264;Villefranche-Sur-Saône;LOUIS;UXD;Union de l extreme droite;Extreme droite;3481;17.97;28.73
+2024_legi_t1;2024;legi;1;69264;Villefranche-Sur-Saône;PORTIER;LR;Les Republicains;Droite;2612;13.48;21.56
+2024_legi_t1;2024;legi;1;69264;Villefranche-Sur-Saône;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;4235;21.86;34.95
+2024_legi_t1;2024;legi;1;69265;Ville-Sur-Jarnioux;DESPRAS;ENS;Ensemble (Renaissance / LREM);Centre;97;13.86;17.45
+2024_legi_t1;2024;legi;1;69265;Ville-Sur-Jarnioux;FOURBOUL;REC;Reconquete;Extreme droite;11;1.57;1.98
+2024_legi_t1;2024;legi;1;69265;Ville-Sur-Jarnioux;GERY;RN;Rassemblement National;Extreme droite;202;28.86;36.33
+2024_legi_t1;2024;legi;1;69265;Ville-Sur-Jarnioux;REYMBAUT;UG;Union de la gauche;Gauche;151;21.57;27.16
+2024_legi_t1;2024;legi;1;69265;Ville-Sur-Jarnioux;SERRE;LR;Les Republicains;Droite;92;13.14;16.55
+2024_legi_t1;2024;legi;1;69265;Ville-Sur-Jarnioux;TEYSSIER;EXG;Extreme gauche;Extreme gauche;3;0.43;0.54
+2024_legi_t1;2024;legi;1;69266;Villeurbanne;AGUS;RN;Rassemblement National;Extreme droite;11057;12.02;18.99
+2024_legi_t1;2024;legi;1;69266;Villeurbanne;AMARD;UG;Union de la gauche;Gauche;26876;29.21;46.16
+2024_legi_t1;2024;legi;1;69266;Villeurbanne;BASILIEN;ECO;Europe Ecologie Les Verts;Ecologie;714;0.78;1.23
+2024_legi_t1;2024;legi;1;69266;Villeurbanne;BOUHAMI;EXG;Extreme gauche;Extreme gauche;453;0.49;0.78
+2024_legi_t1;2024;legi;1;69266;Villeurbanne;BRET;DVG;Divers gauche;Gauche;11628;12.64;19.97
+2024_legi_t1;2024;legi;1;69266;Villeurbanne;FRAYSSE;LR;Les Republicains;Droite;7190;7.81;12.35
+2024_legi_t1;2024;legi;1;69266;Villeurbanne;LAWSON DOUTE;DIV;Divers;Divers;127;0.14;0.22
+2024_legi_t1;2024;legi;1;69266;Villeurbanne;MIZONY;EXG;Extreme gauche;Extreme gauche;183;0.2;0.31
+2024_legi_t1;2024;legi;1;69267;Villié-Morgon;D'AUTRYVE;REG;Regionaliste;Divers;8;0.45;0.61
+2024_legi_t1;2024;legi;1;69267;Villié-Morgon;HELLY;EXG;Extreme gauche;Extreme gauche;6;0.34;0.46
+2024_legi_t1;2024;legi;1;69267;Villié-Morgon;LAURENT;ENS;Ensemble (Renaissance / LREM);Centre;181;10.23;13.91
+2024_legi_t1;2024;legi;1;69267;Villié-Morgon;LOUIS;UXD;Union de l extreme droite;Extreme droite;524;29.62;40.28
+2024_legi_t1;2024;legi;1;69267;Villié-Morgon;PORTIER;LR;Les Republicains;Droite;366;20.69;28.13
+2024_legi_t1;2024;legi;1;69267;Villié-Morgon;SOUMIREU-LARTIGUE;UG;Union de la gauche;Gauche;216;12.21;16.6
+2024_legi_t1;2024;legi;1;69268;Vourles;BERENYI GELEY;REC;Reconquete;Extreme droite;30;1.07;1.38
+2024_legi_t1;2024;legi;1;69268;Vourles;BOMPARD;EXG;Extreme gauche;Extreme gauche;11;0.39;0.51
+2024_legi_t1;2024;legi;1;69268;Vourles;CRUZ;LR;Les Republicains;Droite;244;8.68;11.23
+2024_legi_t1;2024;legi;1;69268;Vourles;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;790;28.11;36.37
+2024_legi_t1;2024;legi;1;69268;Vourles;HORNUS;DVD;Divers droite;Droite;48;1.71;2.21
+2024_legi_t1;2024;legi;1;69268;Vourles;PATOUT;RN;Rassemblement National;Extreme droite;669;23.81;30.8
+2024_legi_t1;2024;legi;1;69268;Vourles;PERRIN;UG;Union de la gauche;Gauche;380;13.52;17.5
+2024_legi_t1;2024;legi;1;69269;Yzeron;BERENYI GELEY;REC;Reconquete;Extreme droite;4;0.54;0.71
+2024_legi_t1;2024;legi;1;69269;Yzeron;BOMPARD;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69269;Yzeron;CRUZ;LR;Les Republicains;Droite;61;8.21;10.82
+2024_legi_t1;2024;legi;1;69269;Yzeron;GASSILLOUD;ENS;Ensemble (Renaissance / LREM);Centre;161;21.67;28.55
+2024_legi_t1;2024;legi;1;69269;Yzeron;HORNUS;DVD;Divers droite;Droite;11;1.48;1.95
+2024_legi_t1;2024;legi;1;69269;Yzeron;PATOUT;RN;Rassemblement National;Extreme droite;165;22.21;29.26
+2024_legi_t1;2024;legi;1;69269;Yzeron;PERRIN;UG;Union de la gauche;Gauche;162;21.8;28.72
+2024_legi_t1;2024;legi;1;69270;Chaponnay;BROWNING;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69270;Chaponnay;FERRO;LR;Les Republicains;Droite;246;6.93;9.04
+2024_legi_t1;2024;legi;1;69270;Chaponnay;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;921;25.94;33.86
+2024_legi_t1;2024;legi;1;69270;Chaponnay;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;1116;31.44;41.03
+2024_legi_t1;2024;legi;1;69270;Chaponnay;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;54;1.52;1.99
+2024_legi_t1;2024;legi;1;69270;Chaponnay;YOUSFI;UG;Union de la gauche;Gauche;383;10.79;14.08
+2024_legi_t1;2024;legi;1;69271;Chassieu;BARTHÈS;DVG;Divers gauche;Gauche;83;1.0;1.39
+2024_legi_t1;2024;legi;1;69271;Chassieu;BIAUT;DVD;Divers droite;Droite;6;0.07;0.1
+2024_legi_t1;2024;legi;1;69271;Chassieu;GIGAREL;REC;Reconquete;Extreme droite;86;1.04;1.44
+2024_legi_t1;2024;legi;1;69271;Chassieu;JONCOUR;RN;Rassemblement National;Extreme droite;2081;25.1;34.89
+2024_legi_t1;2024;legi;1;69271;Chassieu;MEUNIER;LR;Les Republicains;Droite;604;7.29;10.13
+2024_legi_t1;2024;legi;1;69271;Chassieu;PIOT;EXG;Extreme gauche;Extreme gauche;44;0.53;0.74
+2024_legi_t1;2024;legi;1;69271;Chassieu;PRANDT;UG;Union de la gauche;Gauche;1259;15.19;21.11
+2024_legi_t1;2024;legi;1;69271;Chassieu;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;1801;21.72;30.2
+2024_legi_t1;2024;legi;1;69272;Communay;BROWNING;EXG;Extreme gauche;Extreme gauche;2;0.06;0.08
+2024_legi_t1;2024;legi;1;69272;Communay;FERRO;LR;Les Republicains;Droite;130;3.77;5.04
+2024_legi_t1;2024;legi;1;69272;Communay;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;913;26.48;35.4
+2024_legi_t1;2024;legi;1;69272;Communay;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;935;27.12;36.25
+2024_legi_t1;2024;legi;1;69272;Communay;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;81;2.35;3.14
+2024_legi_t1;2024;legi;1;69272;Communay;YOUSFI;UG;Union de la gauche;Gauche;518;15.02;20.09
+2024_legi_t1;2024;legi;1;69273;Corbas;ALMERAS;ENS;Ensemble (Renaissance / LREM);Centre;1199;15.94;23.42
+2024_legi_t1;2024;legi;1;69273;Corbas;BOUMERTIT;UG;Union de la gauche;Gauche;1365;18.15;26.66
+2024_legi_t1;2024;legi;1;69273;Corbas;MAZZONE;LR;Les Republicains;Droite;292;3.88;5.7
+2024_legi_t1;2024;legi;1;69273;Corbas;MERMET;RN;Rassemblement National;Extreme droite;2136;28.4;41.72
+2024_legi_t1;2024;legi;1;69273;Corbas;MINOUX;EXG;Extreme gauche;Extreme gauche;76;1.01;1.48
+2024_legi_t1;2024;legi;1;69273;Corbas;RIHA;REC;Reconquete;Extreme droite;52;0.69;1.02
+2024_legi_t1;2024;legi;1;69275;Décines-Charpieu;BARTHÈS;DVG;Divers gauche;Gauche;142;0.77;1.2
+2024_legi_t1;2024;legi;1;69275;Décines-Charpieu;BIAUT;DVD;Divers droite;Droite;26;0.14;0.22
+2024_legi_t1;2024;legi;1;69275;Décines-Charpieu;GIGAREL;REC;Reconquete;Extreme droite;111;0.61;0.94
+2024_legi_t1;2024;legi;1;69275;Décines-Charpieu;JONCOUR;RN;Rassemblement National;Extreme droite;3975;21.68;33.51
+2024_legi_t1;2024;legi;1;69275;Décines-Charpieu;MEUNIER;LR;Les Republicains;Droite;1276;6.96;10.76
+2024_legi_t1;2024;legi;1;69275;Décines-Charpieu;PIOT;EXG;Extreme gauche;Extreme gauche;147;0.8;1.24
+2024_legi_t1;2024;legi;1;69275;Décines-Charpieu;PRANDT;UG;Union de la gauche;Gauche;4191;22.86;35.33
+2024_legi_t1;2024;legi;1;69275;Décines-Charpieu;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;1993;10.87;16.8
+2024_legi_t1;2024;legi;1;69276;Feyzin;ALMERAS;ENS;Ensemble (Renaissance / LREM);Centre;721;10.93;18.02
+2024_legi_t1;2024;legi;1;69276;Feyzin;BOUMERTIT;UG;Union de la gauche;Gauche;1576;23.9;39.38
+2024_legi_t1;2024;legi;1;69276;Feyzin;MAZZONE;LR;Les Republicains;Droite;149;2.26;3.72
+2024_legi_t1;2024;legi;1;69276;Feyzin;MERMET;RN;Rassemblement National;Extreme droite;1461;22.16;36.51
+2024_legi_t1;2024;legi;1;69276;Feyzin;MINOUX;EXG;Extreme gauche;Extreme gauche;49;0.74;1.22
+2024_legi_t1;2024;legi;1;69276;Feyzin;RIHA;REC;Reconquete;Extreme droite;46;0.7;1.15
+2024_legi_t1;2024;legi;1;69277;Genas;BARTHÈS;DVG;Divers gauche;Gauche;108;1.02;1.37
+2024_legi_t1;2024;legi;1;69277;Genas;BIAUT;DVD;Divers droite;Droite;15;0.14;0.19
+2024_legi_t1;2024;legi;1;69277;Genas;GIGAREL;REC;Reconquete;Extreme droite;73;0.69;0.93
+2024_legi_t1;2024;legi;1;69277;Genas;JONCOUR;RN;Rassemblement National;Extreme droite;2839;26.73;36.14
+2024_legi_t1;2024;legi;1;69277;Genas;MEUNIER;LR;Les Republicains;Droite;782;7.36;9.95
+2024_legi_t1;2024;legi;1;69277;Genas;PIOT;EXG;Extreme gauche;Extreme gauche;38;0.36;0.48
+2024_legi_t1;2024;legi;1;69277;Genas;PRANDT;UG;Union de la gauche;Gauche;1268;11.94;16.14
+2024_legi_t1;2024;legi;1;69277;Genas;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;2733;25.73;34.79
+2024_legi_t1;2024;legi;1;69278;Genay;BAZIN;REC;Reconquete;Extreme droite;35;0.86;1.21
+2024_legi_t1;2024;legi;1;69278;Genay;BITOUM;RN;Rassemblement National;Extreme droite;983;24.09;33.85
+2024_legi_t1;2024;legi;1;69278;Genay;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;834;20.44;28.72
+2024_legi_t1;2024;legi;1;69278;Genay;JOINT;LR;Les Republicains;Droite;292;7.16;10.06
+2024_legi_t1;2024;legi;1;69278;Genay;MATTEUCCI;UG;Union de la gauche;Gauche;744;18.24;25.62
+2024_legi_t1;2024;legi;1;69278;Genay;RIVIERE;EXG;Extreme gauche;Extreme gauche;16;0.39;0.55
+2024_legi_t1;2024;legi;1;69279;Jonage;BARTHÈS;DVG;Divers gauche;Gauche;42;0.87;1.16
+2024_legi_t1;2024;legi;1;69279;Jonage;BIAUT;DVD;Divers droite;Droite;5;0.1;0.14
+2024_legi_t1;2024;legi;1;69279;Jonage;GIGAREL;REC;Reconquete;Extreme droite;34;0.71;0.94
+2024_legi_t1;2024;legi;1;69279;Jonage;JONCOUR;RN;Rassemblement National;Extreme droite;1466;30.54;40.4
+2024_legi_t1;2024;legi;1;69279;Jonage;MEUNIER;LR;Les Republicains;Droite;447;9.31;12.32
+2024_legi_t1;2024;legi;1;69279;Jonage;PIOT;EXG;Extreme gauche;Extreme gauche;30;0.62;0.83
+2024_legi_t1;2024;legi;1;69279;Jonage;PRANDT;UG;Union de la gauche;Gauche;731;15.23;20.14
+2024_legi_t1;2024;legi;1;69279;Jonage;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;874;18.2;24.08
+2024_legi_t1;2024;legi;1;69280;Jons;BARTHÈS;DVG;Divers gauche;Gauche;4;0.37;0.54
+2024_legi_t1;2024;legi;1;69280;Jons;BIAUT;DVD;Divers droite;Droite;1;0.09;0.13
+2024_legi_t1;2024;legi;1;69280;Jons;GIGAREL;REC;Reconquete;Extreme droite;4;0.37;0.54
+2024_legi_t1;2024;legi;1;69280;Jons;JONCOUR;RN;Rassemblement National;Extreme droite;375;34.56;50.27
+2024_legi_t1;2024;legi;1;69280;Jons;MEUNIER;LR;Les Republicains;Droite;103;9.49;13.81
+2024_legi_t1;2024;legi;1;69280;Jons;PIOT;EXG;Extreme gauche;Extreme gauche;10;0.92;1.34
+2024_legi_t1;2024;legi;1;69280;Jons;PRANDT;UG;Union de la gauche;Gauche;110;10.14;14.75
+2024_legi_t1;2024;legi;1;69280;Jons;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;139;12.81;18.63
+2024_legi_t1;2024;legi;1;69281;Marennes;BROWNING;EXG;Extreme gauche;Extreme gauche;1;0.07;0.09
+2024_legi_t1;2024;legi;1;69281;Marennes;FERRO;LR;Les Republicains;Droite;116;7.96;10.42
+2024_legi_t1;2024;legi;1;69281;Marennes;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;297;20.37;26.68
+2024_legi_t1;2024;legi;1;69281;Marennes;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;505;34.64;45.37
+2024_legi_t1;2024;legi;1;69281;Marennes;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;22;1.51;1.98
+2024_legi_t1;2024;legi;1;69281;Marennes;YOUSFI;UG;Union de la gauche;Gauche;172;11.8;15.45
+2024_legi_t1;2024;legi;1;69282;Meyzieu;BARTHÈS;DVG;Divers gauche;Gauche;224;0.96;1.47
+2024_legi_t1;2024;legi;1;69282;Meyzieu;BIAUT;DVD;Divers droite;Droite;24;0.1;0.16
+2024_legi_t1;2024;legi;1;69282;Meyzieu;GIGAREL;REC;Reconquete;Extreme droite;127;0.54;0.83
+2024_legi_t1;2024;legi;1;69282;Meyzieu;JONCOUR;RN;Rassemblement National;Extreme droite;4729;20.21;31.0
+2024_legi_t1;2024;legi;1;69282;Meyzieu;MEUNIER;LR;Les Republicains;Droite;1347;5.76;8.83
+2024_legi_t1;2024;legi;1;69282;Meyzieu;PIOT;EXG;Extreme gauche;Extreme gauche;143;0.61;0.94
+2024_legi_t1;2024;legi;1;69282;Meyzieu;PRANDT;UG;Union de la gauche;Gauche;5208;22.26;34.14
+2024_legi_t1;2024;legi;1;69282;Meyzieu;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;3454;14.76;22.64
+2024_legi_t1;2024;legi;1;69283;Mions;BROWNING;EXG;Extreme gauche;Extreme gauche;81;0.84;1.2
+2024_legi_t1;2024;legi;1;69283;Mions;FERRO;LR;Les Republicains;Droite;643;6.66;9.56
+2024_legi_t1;2024;legi;1;69283;Mions;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;1594;16.5;23.69
+2024_legi_t1;2024;legi;1;69283;Mions;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;2577;26.67;38.3
+2024_legi_t1;2024;legi;1;69283;Mions;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;189;1.96;2.81
+2024_legi_t1;2024;legi;1;69283;Mions;YOUSFI;UG;Union de la gauche;Gauche;1645;17.03;24.45
+2024_legi_t1;2024;legi;1;69284;Montanay;BAZIN;REC;Reconquete;Extreme droite;17;0.67;0.83
+2024_legi_t1;2024;legi;1;69284;Montanay;BITOUM;RN;Rassemblement National;Extreme droite;508;20.09;24.88
+2024_legi_t1;2024;legi;1;69284;Montanay;BROCARD;ENS;Ensemble (Renaissance / LREM);Centre;749;29.62;36.68
+2024_legi_t1;2024;legi;1;69284;Montanay;JOINT;LR;Les Republicains;Droite;333;13.17;16.31
+2024_legi_t1;2024;legi;1;69284;Montanay;MATTEUCCI;UG;Union de la gauche;Gauche;423;16.73;20.71
+2024_legi_t1;2024;legi;1;69284;Montanay;RIVIERE;EXG;Extreme gauche;Extreme gauche;12;0.47;0.59
+2024_legi_t1;2024;legi;1;69285;Pusignan;BARTHÈS;DVG;Divers gauche;Gauche;20;0.68;1.0
+2024_legi_t1;2024;legi;1;69285;Pusignan;BIAUT;DVD;Divers droite;Droite;9;0.3;0.45
+2024_legi_t1;2024;legi;1;69285;Pusignan;GIGAREL;REC;Reconquete;Extreme droite;18;0.61;0.9
+2024_legi_t1;2024;legi;1;69285;Pusignan;JONCOUR;RN;Rassemblement National;Extreme droite;991;33.55;49.6
+2024_legi_t1;2024;legi;1;69285;Pusignan;MEUNIER;LR;Les Republicains;Droite;175;5.92;8.76
+2024_legi_t1;2024;legi;1;69285;Pusignan;PIOT;EXG;Extreme gauche;Extreme gauche;15;0.51;0.75
+2024_legi_t1;2024;legi;1;69285;Pusignan;PRANDT;UG;Union de la gauche;Gauche;382;12.93;19.12
+2024_legi_t1;2024;legi;1;69285;Pusignan;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;388;13.13;19.42
+2024_legi_t1;2024;legi;1;69286;Rillieux-La-Pape;BENON;REC;Reconquete;Extreme droite;69;0.4;0.62
+2024_legi_t1;2024;legi;1;69286;Rillieux-La-Pape;FONTAINE;LR;Les Republicains;Droite;229;1.34;2.07
+2024_legi_t1;2024;legi;1;69286;Rillieux-La-Pape;LAHMAR;UG;Union de la gauche;Gauche;4122;24.18;37.3
+2024_legi_t1;2024;legi;1;69286;Rillieux-La-Pape;PIGNAL;RN;Rassemblement National;Extreme droite;2258;13.25;20.43
+2024_legi_t1;2024;legi;1;69286;Rillieux-La-Pape;SPREUX;EXG;Extreme gauche;Extreme gauche;94;0.55;0.85
+2024_legi_t1;2024;legi;1;69286;Rillieux-La-Pape;VINCENDET;ENS;Ensemble (Renaissance / LREM);Centre;4279;25.1;38.72
+2024_legi_t1;2024;legi;1;69287;Saint-Bonnet-De-Mure;BARTHÈS;DVG;Divers gauche;Gauche;39;0.76;1.03
+2024_legi_t1;2024;legi;1;69287;Saint-Bonnet-De-Mure;BIAUT;DVD;Divers droite;Droite;5;0.1;0.13
+2024_legi_t1;2024;legi;1;69287;Saint-Bonnet-De-Mure;GIGAREL;REC;Reconquete;Extreme droite;46;0.9;1.21
+2024_legi_t1;2024;legi;1;69287;Saint-Bonnet-De-Mure;JONCOUR;RN;Rassemblement National;Extreme droite;1642;32.12;43.28
+2024_legi_t1;2024;legi;1;69287;Saint-Bonnet-De-Mure;MEUNIER;LR;Les Republicains;Droite;413;8.08;10.89
+2024_legi_t1;2024;legi;1;69287;Saint-Bonnet-De-Mure;PIOT;EXG;Extreme gauche;Extreme gauche;15;0.29;0.4
+2024_legi_t1;2024;legi;1;69287;Saint-Bonnet-De-Mure;PRANDT;UG;Union de la gauche;Gauche;613;11.99;16.16
+2024_legi_t1;2024;legi;1;69287;Saint-Bonnet-De-Mure;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;1021;19.97;26.91
+2024_legi_t1;2024;legi;1;69288;Saint-Laurent-De-Mure;BARTHÈS;DVG;Divers gauche;Gauche;37;0.82;1.17
+2024_legi_t1;2024;legi;1;69288;Saint-Laurent-De-Mure;BIAUT;DVD;Divers droite;Droite;3;0.07;0.09
+2024_legi_t1;2024;legi;1;69288;Saint-Laurent-De-Mure;GIGAREL;REC;Reconquete;Extreme droite;39;0.87;1.23
+2024_legi_t1;2024;legi;1;69288;Saint-Laurent-De-Mure;JONCOUR;RN;Rassemblement National;Extreme droite;1508;33.49;47.6
+2024_legi_t1;2024;legi;1;69288;Saint-Laurent-De-Mure;MEUNIER;LR;Les Republicains;Droite;295;6.55;9.31
+2024_legi_t1;2024;legi;1;69288;Saint-Laurent-De-Mure;PIOT;EXG;Extreme gauche;Extreme gauche;20;0.44;0.63
+2024_legi_t1;2024;legi;1;69288;Saint-Laurent-De-Mure;PRANDT;UG;Union de la gauche;Gauche;529;11.75;16.7
+2024_legi_t1;2024;legi;1;69288;Saint-Laurent-De-Mure;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;737;16.37;23.26
+2024_legi_t1;2024;legi;1;69289;Saint-Pierre-De-Chandieu;BROWNING;EXG;Extreme gauche;Extreme gauche;25;0.64;0.9
+2024_legi_t1;2024;legi;1;69289;Saint-Pierre-De-Chandieu;FERRO;LR;Les Republicains;Droite;175;4.46;6.3
+2024_legi_t1;2024;legi;1;69289;Saint-Pierre-De-Chandieu;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;768;19.56;27.66
+2024_legi_t1;2024;legi;1;69289;Saint-Pierre-De-Chandieu;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;1340;34.12;48.25
+2024_legi_t1;2024;legi;1;69289;Saint-Pierre-De-Chandieu;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;42;1.07;1.51
+2024_legi_t1;2024;legi;1;69289;Saint-Pierre-De-Chandieu;YOUSFI;UG;Union de la gauche;Gauche;427;10.87;15.38
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;ALMERAS;ENS;Ensemble (Renaissance / LREM);Centre;1954;6.4;10.63
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;BARTHÈS;DVG;Divers gauche;Gauche;86;0.28;0.47
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;BIAUT;DVD;Divers droite;Droite;10;0.03;0.05
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;BOUMERTIT;UG;Union de la gauche;Gauche;5555;18.2;30.22
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;GIGAREL;REC;Reconquete;Extreme droite;46;0.15;0.25
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;JONCOUR;RN;Rassemblement National;Extreme droite;1969;6.45;10.71
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;MAZZONE;LR;Les Republicains;Droite;847;2.78;4.61
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;MERMET;RN;Rassemblement National;Extreme droite;3837;12.57;20.87
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;MEUNIER;LR;Les Republicains;Droite;548;1.8;2.98
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;MINOUX;EXG;Extreme gauche;Extreme gauche;211;0.69;1.15
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;PIOT;EXG;Extreme gauche;Extreme gauche;47;0.15;0.26
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;PRANDT;UG;Union de la gauche;Gauche;1673;5.48;9.1
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;RIHA;REC;Reconquete;Extreme droite;126;0.41;0.69
+2024_legi_t1;2024;legi;1;69290;Saint-Priest;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;1472;4.82;8.01
+2024_legi_t1;2024;legi;1;69291;Saint-Symphorien-D'Ozon;BROWNING;EXG;Extreme gauche;Extreme gauche;34;0.83;1.21
+2024_legi_t1;2024;legi;1;69291;Saint-Symphorien-D'Ozon;FERRO;LR;Les Republicains;Droite;255;6.25;9.07
+2024_legi_t1;2024;legi;1;69291;Saint-Symphorien-D'Ozon;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;733;17.96;26.09
+2024_legi_t1;2024;legi;1;69291;Saint-Symphorien-D'Ozon;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;1120;27.44;39.86
+2024_legi_t1;2024;legi;1;69291;Saint-Symphorien-D'Ozon;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;95;2.33;3.38
+2024_legi_t1;2024;legi;1;69291;Saint-Symphorien-D'Ozon;YOUSFI;UG;Union de la gauche;Gauche;573;14.04;20.39
+2024_legi_t1;2024;legi;1;69292;Sathonay-Camp;BENON;REC;Reconquete;Extreme droite;31;0.7;1.06
+2024_legi_t1;2024;legi;1;69292;Sathonay-Camp;FONTAINE;LR;Les Republicains;Droite;239;5.43;8.15
+2024_legi_t1;2024;legi;1;69292;Sathonay-Camp;LAHMAR;UG;Union de la gauche;Gauche;801;18.2;27.31
+2024_legi_t1;2024;legi;1;69292;Sathonay-Camp;PIGNAL;RN;Rassemblement National;Extreme droite;1002;22.77;34.16
+2024_legi_t1;2024;legi;1;69292;Sathonay-Camp;SPREUX;EXG;Extreme gauche;Extreme gauche;23;0.52;0.78
+2024_legi_t1;2024;legi;1;69292;Sathonay-Camp;VINCENDET;ENS;Ensemble (Renaissance / LREM);Centre;837;19.02;28.54
+2024_legi_t1;2024;legi;1;69293;Sathonay-Village;BENON;REC;Reconquete;Extreme droite;16;0.8;1.05
+2024_legi_t1;2024;legi;1;69293;Sathonay-Village;FONTAINE;LR;Les Republicains;Droite;82;4.09;5.37
+2024_legi_t1;2024;legi;1;69293;Sathonay-Village;LAHMAR;UG;Union de la gauche;Gauche;278;13.85;18.19
+2024_legi_t1;2024;legi;1;69293;Sathonay-Village;PIGNAL;RN;Rassemblement National;Extreme droite;428;21.33;28.01
+2024_legi_t1;2024;legi;1;69293;Sathonay-Village;SPREUX;EXG;Extreme gauche;Extreme gauche;9;0.45;0.59
+2024_legi_t1;2024;legi;1;69293;Sathonay-Village;VINCENDET;ENS;Ensemble (Renaissance / LREM);Centre;715;35.63;46.79
+2024_legi_t1;2024;legi;1;69294;Sérézin-Du-Rhône;BROWNING;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69294;Sérézin-Du-Rhône;FERRO;LR;Les Republicains;Droite;116;5.57;7.62
+2024_legi_t1;2024;legi;1;69294;Sérézin-Du-Rhône;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;469;22.53;30.81
+2024_legi_t1;2024;legi;1;69294;Sérézin-Du-Rhône;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;567;27.23;37.25
+2024_legi_t1;2024;legi;1;69294;Sérézin-Du-Rhône;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;64;3.07;4.2
+2024_legi_t1;2024;legi;1;69294;Sérézin-Du-Rhône;YOUSFI;UG;Union de la gauche;Gauche;306;14.7;20.11
+2024_legi_t1;2024;legi;1;69295;Simandres;BROWNING;EXG;Extreme gauche;Extreme gauche;1;0.07;0.09
+2024_legi_t1;2024;legi;1;69295;Simandres;FERRO;LR;Les Republicains;Droite;85;5.81;7.94
+2024_legi_t1;2024;legi;1;69295;Simandres;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;315;21.52;29.44
+2024_legi_t1;2024;legi;1;69295;Simandres;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;497;33.95;46.45
+2024_legi_t1;2024;legi;1;69295;Simandres;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;35;2.39;3.27
+2024_legi_t1;2024;legi;1;69295;Simandres;YOUSFI;UG;Union de la gauche;Gauche;137;9.36;12.8
+2024_legi_t1;2024;legi;1;69296;Solaize;ALMERAS;ENS;Ensemble (Renaissance / LREM);Centre;501;21.71;29.66
+2024_legi_t1;2024;legi;1;69296;Solaize;BOUMERTIT;UG;Union de la gauche;Gauche;309;13.39;18.29
+2024_legi_t1;2024;legi;1;69296;Solaize;MAZZONE;LR;Les Republicains;Droite;134;5.81;7.93
+2024_legi_t1;2024;legi;1;69296;Solaize;MERMET;RN;Rassemblement National;Extreme droite;711;30.81;42.1
+2024_legi_t1;2024;legi;1;69296;Solaize;MINOUX;EXG;Extreme gauche;Extreme gauche;18;0.78;1.07
+2024_legi_t1;2024;legi;1;69296;Solaize;RIHA;REC;Reconquete;Extreme droite;16;0.69;0.95
+2024_legi_t1;2024;legi;1;69297;Ternay;BROWNING;EXG;Extreme gauche;Extreme gauche;0;0.0;0.0
+2024_legi_t1;2024;legi;1;69297;Ternay;FERRO;LR;Les Republicains;Droite;192;4.95;6.86
+2024_legi_t1;2024;legi;1;69297;Ternay;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;882;22.73;31.52
+2024_legi_t1;2024;legi;1;69297;Ternay;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;1107;28.52;39.56
+2024_legi_t1;2024;legi;1;69297;Ternay;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;83;2.14;2.97
+2024_legi_t1;2024;legi;1;69297;Ternay;YOUSFI;UG;Union de la gauche;Gauche;534;13.76;19.09
+2024_legi_t1;2024;legi;1;69298;Toussieu;BROWNING;EXG;Extreme gauche;Extreme gauche;12;0.52;0.7
+2024_legi_t1;2024;legi;1;69298;Toussieu;FERRO;LR;Les Republicains;Droite;229;9.85;13.31
+2024_legi_t1;2024;legi;1;69298;Toussieu;FUGIT;ENS;Ensemble (Renaissance / LREM);Centre;454;19.54;26.38
+2024_legi_t1;2024;legi;1;69298;Toussieu;HUMBERT DUPALAIS;UXD;Union de l extreme droite;Extreme droite;745;32.06;43.29
+2024_legi_t1;2024;legi;1;69298;Toussieu;SPENNATO;ECO;Europe Ecologie Les Verts;Ecologie;47;2.02;2.73
+2024_legi_t1;2024;legi;1;69298;Toussieu;YOUSFI;UG;Union de la gauche;Gauche;234;10.07;13.6
+2024_legi_t1;2024;legi;1;69299;Colombier-Saugnieu;BARTHÈS;DVG;Divers gauche;Gauche;14;0.67;0.9
+2024_legi_t1;2024;legi;1;69299;Colombier-Saugnieu;BIAUT;DVD;Divers droite;Droite;1;0.05;0.06
+2024_legi_t1;2024;legi;1;69299;Colombier-Saugnieu;GIGAREL;REC;Reconquete;Extreme droite;26;1.25;1.68
+2024_legi_t1;2024;legi;1;69299;Colombier-Saugnieu;JONCOUR;RN;Rassemblement National;Extreme droite;842;40.56;54.39
+2024_legi_t1;2024;legi;1;69299;Colombier-Saugnieu;MEUNIER;LR;Les Republicains;Droite;116;5.59;7.49
+2024_legi_t1;2024;legi;1;69299;Colombier-Saugnieu;PIOT;EXG;Extreme gauche;Extreme gauche;14;0.67;0.9
+2024_legi_t1;2024;legi;1;69299;Colombier-Saugnieu;PRANDT;UG;Union de la gauche;Gauche;214;10.31;13.82
+2024_legi_t1;2024;legi;1;69299;Colombier-Saugnieu;TANZILLI;ENS;Ensemble (Renaissance / LREM);Centre;321;15.46;20.74

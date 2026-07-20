@@ -1,0 +1,91 @@
+@startuml Flux_ETL
+
+skinparam rectangle {
+  BackgroundColor #F8F9FA
+  BorderColor #4488CC
+  FontSize 11
+  RoundCorner 8
+}
+skinparam database {
+  BackgroundColor #E8F4FD
+  BorderColor #2980B9
+}
+skinparam file {
+  BackgroundColor #EAF7EA
+  BorderColor #27AE60
+}
+skinparam arrow {
+  Color #555555
+  FontSize 10
+}
+
+title Diagramme de flux ETL — Electio-Analytics Rhône
+
+' ── SOURCES ──────────────────────────────────────────
+file "general_results.csv\n3.1M lignes" as src_gen
+file "candidats_results.csv\n27.5M lignes" as src_cand
+file "population.CSV" as src_pop
+file "emploi.xlsx" as src_emp
+file "filosofi_2017.CSV" as src_f17
+file "FILO2021_DISP_COM.xlsx" as src_f21
+file "immigration_2017.CSV" as src_i17
+file "immigration_2022.xlsx" as src_i22
+file "ssmsi_*.csv (×14)" as src_sec
+
+' ── TRANSFORMATIONS ───────────────────────────────────
+rectangle "Filtrage\ndépt 69\n+ élections cibles" as t_filtre
+rectangle "Mapping\nnuances →\nfamille politique" as t_map
+rectangle "Agrégation\nbureaux →\ncommunes" as t_agg
+rectangle "Calcul\nratios &\nparticipation" as t_ratio
+rectangle "Détection\nfamille\ngagnante" as t_gagnant
+
+rectangle "Filtrage\ndépt 69" as t_filtre_socio
+rectangle "Imputation\nmédiane\nNaN" as t_impute
+rectangle "Calcul\ndeltas\n2017→2022" as t_delta
+
+rectangle "Alignement\ntemporel\nélection→millésime" as t_align
+rectangle "Jointure\nélection ←\nsocioéco" as t_join
+rectangle "Calcul\nscores\neuros" as t_euro
+rectangle "Concat\n5 élections\n→ master" as t_concat
+
+' ── STAGING ───────────────────────────────────────────
+database "02_staging/electoral\ngeneral_communes\ncandidats_communes\nexport_final" as stg_elec
+database "02_staging/socioeco\npopulation, emploi\nrevenus, immigration\nsecurite" as stg_socio
+
+' ── DESTINATION ───────────────────────────────────────
+database "03_database/mspr2.db\nToutes les tables" as db
+file "03_processed\nmaster_ml.csv\n1360 × 40" as master
+
+' ── FLUX ELECTORAL ────────────────────────────────────
+src_gen  --> t_filtre
+src_cand --> t_filtre
+t_filtre --> t_map
+t_map    --> t_agg
+t_agg    --> t_ratio
+t_ratio  --> t_gagnant
+t_gagnant --> stg_elec
+
+' ── FLUX SOCIOECO ─────────────────────────────────────
+src_pop --> t_filtre_socio
+src_emp --> t_filtre_socio
+src_f17 --> t_filtre_socio
+src_f21 --> t_filtre_socio
+src_i17 --> t_filtre_socio
+src_i22 --> t_filtre_socio
+src_sec --> t_filtre_socio
+t_filtre_socio --> t_impute
+t_impute --> t_delta
+t_delta  --> stg_socio
+
+' ── FLUX MASTER ───────────────────────────────────────
+stg_elec  --> t_align
+stg_socio --> t_align
+t_align --> t_join
+t_join  --> t_euro
+t_euro  --> t_concat
+t_concat --> master
+t_concat --> db
+stg_elec --> db
+stg_socio --> db
+
+@enduml

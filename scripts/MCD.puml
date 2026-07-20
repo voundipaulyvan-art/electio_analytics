@@ -1,0 +1,166 @@
+@startuml MCD_Electio_Analytics
+
+skinparam linetype ortho
+skinparam class {
+  BackgroundColor #F8F9FA
+  BorderColor #4488CC
+  FontSize 11
+  HeaderBackgroundColor #D6E8FA
+}
+skinparam arrow {
+  Color #555555
+  FontSize 10
+}
+
+hide circle
+hide methods
+
+title MCD — Electio-Analytics Rhône
+
+class COMMUNE {
+  __identifiant__
+  + code_commune
+  __attributs__
+  libelle_commune
+  code_departement
+}
+
+class ELECTION {
+  __identifiant__
+  + id_election
+  __attributs__
+  annee
+  type_election
+  tour
+}
+
+class RESULTAT_GENERAL {
+  __mesures__
+  inscrits
+  votants
+  abstentions
+  nuls
+  exprimes
+  taux_participation
+  taux_abstention
+  taux_exprimes_inscrits
+}
+
+class RESULTAT_CANDIDAT {
+  __identifiant__
+  + no_panneau
+  __attributs__
+  nuance
+  parti_politique
+  famille_politique
+  nom
+  prenom
+  liste
+  __mesures__
+  voix
+  ratio_voix_inscrits
+  ratio_voix_exprimes
+}
+
+class POPULATION {
+  __attributs__
+  population_2016
+  population_2022
+  nb_logements_2016
+  nb_logements_2022
+  superficie_km2
+  densite_2022
+  delta_population
+  pct_delta_population
+}
+
+class EMPLOI {
+  __attributs__
+  actifs_2022
+  chomeurs_2022
+  actifs_occupes_2022
+  inactifs_2022
+  taux_chomage_2022
+}
+
+class REVENUS {
+  __attributs__
+  revenu_median_2017
+  revenu_median_2021
+  taux_pauvrete_2017
+  d1_revenu_2017
+  d9_revenu_2017
+  ratio_interdecile_2017
+  part_chomeurs_2017
+  part_foyers_imposes_2017
+  nb_menages_2021
+  delta_revenu_median
+  pct_delta_revenu_median
+}
+
+class IMMIGRATION {
+  __attributs__
+  nb_immigres_2017
+  nb_non_immigres_2017
+  nb_immigres_2022
+  nb_non_immigres_2022
+  delta_nb_immigres
+  pct_delta_nb_immigres
+}
+
+class SECURITE {
+  __attributs__
+  total_delits_2017
+  total_delits_2022
+  delta_total_delits
+  pct_delta_total_delits
+}
+
+class MASTER_ML {
+  __identifiant__
+  + id_election
+  + code_commune
+  __attributs__
+  annee
+  type_election
+  famille_gagnante
+  euro_extreme_droite_ratio
+  euro_gauche_radicale_ratio
+  euro_centre_ratio
+  euro_ecologie_ratio
+  euro_droite_ratio
+  euro_taux_participation
+  __socioeco (millésimé)__
+  population
+  densite
+  revenu_median
+  taux_chomage_2022
+  nb_immigres
+  total_delits
+}
+
+' ── ASSOCIATIONS ──────────────────────────────────────
+
+COMMUNE     "1" *-- "0..*" RESULTAT_GENERAL   : participe >
+ELECTION    "1" *-- "0..*" RESULTAT_GENERAL   : concerne >
+
+COMMUNE     "1" *-- "0..*" RESULTAT_CANDIDAT  : accueille >
+ELECTION    "1" *-- "0..*" RESULTAT_CANDIDAT  : lors de >
+
+COMMUNE     "1" *-- "1"    POPULATION         : décrit >
+COMMUNE     "1" *-- "1"    EMPLOI             : décrit >
+COMMUNE     "1" *-- "1"    REVENUS            : décrit >
+COMMUNE     "1" *-- "1"    IMMIGRATION        : décrit >
+COMMUNE     "1" *-- "1"    SECURITE           : enregistre >
+
+COMMUNE     "1" *-- "0..*" MASTER_ML          : agrégé dans >
+ELECTION    "1" *-- "0..*" MASTER_ML          : agrégé dans >
+
+RESULTAT_GENERAL  ..> MASTER_ML : alimente
+POPULATION        ..> MASTER_ML : alimente
+EMPLOI            ..> MASTER_ML : alimente
+REVENUS           ..> MASTER_ML : alimente
+IMMIGRATION       ..> MASTER_ML : alimente
+SECURITE          ..> MASTER_ML : alimente
+
+@enduml
