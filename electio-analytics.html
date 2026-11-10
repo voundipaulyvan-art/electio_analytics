@@ -1,0 +1,1447 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Electio Analytics</title>
+<link rel="icon" type="image/png" href="data:image/png;base64,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">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap">
+
+</head>
+<body>
+<style>
+/* ── Tokens ─────────────────────────────────────────────── */
+:root {
+  --bg:        #07091A;
+  --bg-card:   #0D1328;
+  --bg-surf:   #131D3A;
+  --bg-hover:  #1A2545;
+  --border:    rgba(74,122,255,.18);
+  --accent:    #4A7AFF;
+  --accent-lo: rgba(74,122,255,.12);
+  --fg:        #E2E8F0;
+  --fg-2:      #94A3B8;
+  --fg-3:      #4A5A7A;
+  --success:   #34D399;
+  --warn:      #FBBF24;
+
+  /* Family palette */
+  --xd:        #EF4444;
+  --droite:    #60A5FA;
+  --centre:    #FBBF24;
+  --gauche:    #F472B6;
+  --gauche-r:  #A78BFA;
+  --eco:       #34D399;
+  --xg:        #FB923C;
+  --divers:    #94A3B8;
+
+  --sidebar-w: 220px;
+  --radius:    10px;
+  color-scheme: dark;
+}
+
+/* Light theme */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg:        #F0F4FF;
+    --bg-card:   #FFFFFF;
+    --bg-surf:   #E8EDFB;
+    --bg-hover:  #DDE4F7;
+    --border:    rgba(74,122,255,.2);
+    --accent:    #3B6EEF;
+    --accent-lo: rgba(59,110,239,.1);
+    --fg:        #111827;
+    --fg-2:      #374151;
+    --fg-3:      #9CA3AF;
+    color-scheme: light;
+  }
+}
+:root[data-theme="light"] {
+  --bg:        #F0F4FF;
+  --bg-card:   #FFFFFF;
+  --bg-surf:   #E8EDFB;
+  --bg-hover:  #DDE4F7;
+  --border:    rgba(74,122,255,.2);
+  --accent:    #3B6EEF;
+  --accent-lo: rgba(59,110,239,.1);
+  --fg:        #111827;
+  --fg-2:      #374151;
+  --fg-3:      #9CA3AF;
+  color-scheme: light;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body { height: 100%; }
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: 'Poppins', system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  display: flex;
+}
+
+/* ── Layout ─────────────────────────────────────────────── */
+#root { display: flex; width: 100%; min-height: 100%; }
+
+.sidebar {
+  position: fixed; top: 0; left: 0; bottom: 0;
+  width: var(--sidebar-w);
+  background: var(--bg-card);
+  border-right: 1px solid var(--border);
+  display: flex; flex-direction: column;
+  z-index: 10; overflow-y: auto;
+}
+
+.sidebar-logo {
+  padding: 20px 16px 16px;
+  border-bottom: 1px solid var(--border);
+}
+.sidebar-logo-title {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800; font-size: 17px;
+  color: var(--fg); letter-spacing: -.3px;
+  line-height: 1.2;
+}
+.sidebar-logo-sub {
+  font-size: 11px; color: var(--accent);
+  font-weight: 600; letter-spacing: .6px;
+  text-transform: uppercase; margin-top: 3px;
+}
+
+.sidebar-nav { flex: 1; padding: 10px 8px; }
+
+.nav-section-label {
+  font-size: 10px; font-weight: 600; letter-spacing: 1px;
+  text-transform: uppercase; color: var(--fg-3);
+  padding: 12px 8px 4px;
+}
+
+.nav-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 9px 10px; border-radius: 7px;
+  cursor: pointer; color: var(--fg-2);
+  font-size: 13px; font-weight: 500;
+  transition: background .15s, color .15s;
+  border: none; background: none; width: 100%; text-align: left;
+}
+.nav-item:hover { background: var(--bg-hover); color: var(--fg); }
+.nav-item.active { background: var(--accent-lo); color: var(--accent); }
+.nav-item { position: relative; overflow: hidden; }
+.nav-item::after { content:""; position:absolute; inset:0; background:var(--accent); opacity:0; border-radius:7px; transform:scaleX(0); transform-origin:left; transition:transform .2s ease,opacity .2s ease; }
+.nav-item:active::after { transform:scaleX(1); opacity:.08; }
+.nav-item svg { flex-shrink: 0; }
+
+.sidebar-footer {
+  padding: 12px 14px;
+  border-top: 1px solid var(--border);
+  font-size: 11px; color: var(--fg-3);
+}
+.tech-badges { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.tech-badge {
+  background: var(--bg-surf); border: 1px solid var(--border);
+  color: var(--fg-2); font-size: 10px; padding: 2px 6px;
+  border-radius: 4px; font-weight: 500;
+}
+
+.main {
+  margin-left: var(--sidebar-w);
+  flex: 1; min-width: 0;
+  display: flex; flex-direction: column;
+}
+
+.topbar {
+  position: sticky; top: 0;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 12px max(20px, env(safe-area-inset-right, 0px)) 12px max(20px, env(safe-area-inset-left, 0px));
+  display: flex; align-items: center; justify-content: space-between;
+  z-index: 5;
+}
+.topbar-title {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700; font-size: 16px;
+}
+.badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 11px; font-weight: 600; letter-spacing: .3px;
+  padding: 3px 8px; border-radius: 20px;
+}
+.badge-blue { background: var(--accent-lo); color: var(--accent); border: 1px solid rgba(74,122,255,.3); }
+.badge-green { background: rgba(52,211,153,.12); color: var(--success); border: 1px solid rgba(52,211,153,.3); }
+
+.page-content {
+  flex: 1;
+  padding: 24px max(20px, env(safe-area-inset-right, 0px)) 40px max(20px, env(safe-area-inset-left, 0px));
+}
+
+/* ── Cards / Grid ───────────────────────────────────────── */
+.kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 24px; }
+.kpi-card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 18px 20px;
+  display: flex; flex-direction: column; gap: 4px;
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+.kpi-card:hover { transform: translateY(-2px); box-shadow: 0 8px 32px rgba(74,122,255,.12); border-color: rgba(74,122,255,.4); }
+.kpi-label { font-size: 11px; color: var(--fg-3); font-weight: 600; letter-spacing: .5px; text-transform: uppercase; }
+.kpi-value { font-family: 'Poppins', sans-serif; font-size: 28px; font-weight: 800; line-height: 1; color: var(--fg); font-variant-numeric: tabular-nums; }
+.kpi-sub { font-size: 12px; color: var(--fg-2); }
+
+.card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 20px;
+  transition: border-color .2s ease, box-shadow .2s ease;
+}
+.card:hover { border-color: rgba(74,122,255,.35); box-shadow: 0 4px 24px rgba(74,122,255,.08); }
+.card-title {
+  font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 14px;
+  margin-bottom: 4px;
+}
+.card-sub { font-size: 12px; color: var(--fg-2); margin-bottom: 16px; }
+
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
+.three-col { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; margin-bottom: 14px; }
+.full-col { margin-bottom: 14px; }
+
+/* ── Family pill ────────────────────────────────────────── */
+.family-pill {
+  display: inline-block; padding: 2px 8px; border-radius: 20px;
+  font-size: 11px; font-weight: 600; white-space: nowrap;
+}
+
+/* ── Table ──────────────────────────────────────────────── */
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+th {
+  text-align: left; padding: 8px 10px;
+  font-size: 10px; font-weight: 600; letter-spacing: .6px;
+  text-transform: uppercase; color: var(--fg-3);
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-surf);
+  position: sticky; top: 0;
+}
+td { padding: 7px 10px; border-bottom: 1px solid rgba(255,255,255,.04); vertical-align: middle; }
+tr:hover td { background: var(--bg-hover); }
+.number-cell { font-variant-numeric: tabular-nums; text-align: right; }
+
+/* ── Search & filters ───────────────────────────────────── */
+.search-row { display: flex; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
+.search-input {
+  flex: 1; min-width: 200px; padding: 8px 12px;
+  background: var(--bg-surf); border: 1px solid var(--border);
+  border-radius: 7px; color: var(--fg); font-size: 13px;
+  outline: none; transition: border-color .15s;
+}
+.search-input:focus { border-color: var(--accent); }
+.filter-select {
+  padding: 8px 12px; background: var(--bg-surf); border: 1px solid var(--border);
+  border-radius: 7px; color: var(--fg); font-size: 13px;
+  cursor: pointer; outline: none;
+}
+
+/* ── SVG Charts ─────────────────────────────────────────── */
+.chart-tooltip {
+  position: absolute; pointer-events: none;
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 7px; padding: 8px 12px;
+  font-size: 12px; box-shadow: 0 4px 20px rgba(0,0,0,.4);
+  z-index: 100; min-width: 120px;
+}
+.tt-row { display: flex; align-items: center; gap: 6px; margin: 2px 0; }
+.tt-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+/* ── Simulateur sliders ─────────────────────────────────── */
+.sim-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
+.slider-block { display: flex; flex-direction: column; gap: 6px; }
+.slider-label { font-size: 12px; color: var(--fg-2); font-weight: 500; display: flex; justify-content: space-between; }
+.slider-value { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; }
+input[type=range] { width: 100%; accent-color: var(--accent); cursor: pointer; }
+
+.prediction-box {
+  background: var(--bg-surf); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 20px; margin-top: 16px;
+  display: flex; gap: 20px; align-items: center; flex-wrap: wrap;
+}
+.pred-family { font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 800; }
+.pred-conf { font-size: 12px; color: var(--fg-2); }
+.conf-bar-wrap { flex: 1; min-width: 180px; }
+.conf-bar-bg { background: var(--bg-hover); border-radius: 4px; height: 6px; overflow: hidden; margin-top: 4px; }
+.conf-bar-fill { height: 100%; border-radius: 4px; transition: width .4s ease; }
+
+/* ── Legend ─────────────────────────────────────────────── */
+.legend { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+.legend-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: var(--fg-2); }
+.legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+
+/* ── ML pipeline ────────────────────────────────────────── */
+.pipeline { display: flex; align-items: center; gap: 0; flex-wrap: wrap; margin: 16px 0; }
+.pipe-step {
+  background: var(--bg-surf); border: 1px solid var(--border);
+  border-radius: 7px; padding: 10px 14px; font-size: 12px;
+  text-align: center; min-width: 100px;
+}
+.pipe-step strong { display: block; font-weight: 600; font-size: 11px; color: var(--accent); margin-bottom: 2px; }
+.pipe-arrow { color: var(--fg-3); font-size: 18px; padding: 0 6px; }
+
+/* ── Progress bar ───────────────────────────────────────── */
+.prog-row { display: flex; align-items: center; gap: 10px; margin: 6px 0; }
+.prog-label { font-size: 12px; color: var(--fg-2); width: 160px; flex-shrink: 0; }
+.prog-bar-bg { flex: 1; background: var(--bg-surf); border-radius: 4px; height: 8px; overflow: hidden; }
+.prog-bar-fill { height: 100%; border-radius: 4px; }
+.prog-val { font-size: 12px; font-weight: 600; font-variant-numeric: tabular-nums; width: 42px; text-align: right; color: var(--fg); }
+
+/* ── Responsive ─────────────────────────────────────────── */
+@media (max-width: 768px) {
+  :root { --sidebar-w: 0px; }
+  .sidebar { transform: translateX(-220px); transition: transform .25s; }
+  .sidebar.open { transform: translateX(0); width: 220px; }
+  .main { margin-left: 0; }
+  .kpi-grid { grid-template-columns: 1fr 1fr; }
+  .two-col, .three-col { grid-template-columns: 1fr; }
+  .sim-grid { grid-template-columns: 1fr; }
+  .mobile-toggle {
+    display: flex; align-items: center; justify-content: center;
+    width: 36px; height: 36px; border-radius: 7px;
+    background: var(--bg-surf); border: 1px solid var(--border);
+    cursor: pointer; color: var(--fg);
+  }
+}
+@media (min-width: 769px) {
+  .mobile-toggle { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
+
+/* ── Animations ──────────────────────────────────────────── */
+@keyframes fadeUp   { from { opacity:0; transform:translateY(16px); } to { opacity:1; transform:translateY(0); } }
+@keyframes fadeIn   { from { opacity:0; } to { opacity:1; } }
+@keyframes scaleIn  { from { opacity:0; transform:scale(.85); } to { opacity:1; transform:scale(1); } }
+@keyframes growBarAnim { from { transform:scaleY(0); } to { transform:scaleY(1); } }
+@keyframes countPop { 0%{transform:scale(1)} 50%{transform:scale(1.08)} 100%{transform:scale(1)} }
+
+.page-enter { animation: fadeUp .3s cubic-bezier(.22,1,.36,1) both; }
+
+.kpi-card { animation: fadeUp .45s cubic-bezier(.22,1,.36,1) both; }
+.kpi-card:nth-child(1) { animation-delay: .05s; }
+.kpi-card:nth-child(2) { animation-delay: .12s; }
+.kpi-card:nth-child(3) { animation-delay: .19s; }
+.kpi-card:nth-child(4) { animation-delay: .26s; }
+
+.card { animation: fadeUp .4s cubic-bezier(.22,1,.36,1) both; animation-delay: .08s; }
+
+.pipe-step { animation: fadeUp .4s cubic-bezier(.22,1,.36,1) both; }
+.pipe-step:nth-child(1)  { animation-delay:.05s; }
+.pipe-step:nth-child(3)  { animation-delay:.12s; }
+.pipe-step:nth-child(5)  { animation-delay:.19s; }
+.pipe-step:nth-child(7)  { animation-delay:.26s; }
+.pipe-step:nth-child(9)  { animation-delay:.33s; }
+.pipe-step:nth-child(11) { animation-delay:.40s; }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.3/babel.min.js"></script>
+
+<div id="root"></div>
+
+<script type="text/babel" data-presets="react">
+// ══════════════════════════════════════════════════════════
+// DATA
+// ══════════════════════════════════════════════════════════
+const COMMUNES = [{"code":"69123","nom":"Lyon","pop":520774,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":25430,"chomage":11.1,"densite":10879},{"code":"69266","nom":"Villeurbanne","pop":162207,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":21540,"chomage":13.3,"densite":11171},{"code":"69259","nom":"Vénissieux","pop":66701,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":17140,"chomage":19.7,"densite":4351},{"code":"69256","nom":"Vaulx-En-Velin","pop":52448,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":17180,"chomage":19.8,"densite":2503},{"code":"69290","nom":"Saint-Priest","pop":49193,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":21420,"chomage":12.3,"densite":1656},{"code":"69034","nom":"Caluire-Et-Cuire","pop":43479,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":27370,"chomage":9,"densite":4161},{"code":"69029","nom":"Bron","pop":42850,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":21950,"chomage":12.4,"densite":4160},{"code":"69149","nom":"Oullins","pop":37928,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":24040,"chomage":11.5,"densite":4271},{"code":"69282","nom":"Meyzieu","pop":36437,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":23860,"chomage":11,"densite":1584},{"code":"69264","nom":"Villefranche-Sur-Saône","pop":36224,"legi2017":"Centre","legi2022":"Droite","legi2024":"Gauche","revenu":19640,"chomage":15.2,"densite":3821},{"code":"69286","nom":"Rillieux-La-Pape","pop":31479,"legi2017":"Droite","legi2022":"Droite","legi2024":"Centre","revenu":19980,"chomage":15.6,"densite":2174},{"code":"69275","nom":"Décines-Charpieu","pop":29905,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":22050,"chomage":12.9,"densite":1758},{"code":"69244","nom":"Tassin-La-Demi-Lune","pop":22819,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":29010,"chomage":10.2,"densite":2929},{"code":"69202","nom":"Sainte-Foy-Lès-Lyon","pop":21893,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":28780,"chomage":9.4,"densite":3205},{"code":"69204","nom":"Saint-Genis-Laval","pop":21329,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":26810,"chomage":9.8,"densite":1651},{"code":"69091","nom":"Givors","pop":20943,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":18160,"chomage":18.1,"densite":1208},{"code":"69199","nom":"Saint-Fons","pop":19549,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":16880,"chomage":19.8,"densite":3226},{"code":"69081","nom":"Ecully","pop":18019,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":29600,"chomage":10,"densite":2132},{"code":"69089","nom":"Francheville","pop":15664,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":28120,"chomage":10,"densite":1915},{"code":"69019","nom":"Belleville","pop":13767,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":22210,"chomage":9.9,"densite":602},{"code":"69283","nom":"Mions","pop":13716,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26070,"chomage":9.8,"densite":1185},{"code":"69277","nom":"Genas","pop":13446,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":30610,"chomage":6,"densite":564},{"code":"69027","nom":"Brignais","pop":12330,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":26720,"chomage":7.8,"densite":1190},{"code":"69069","nom":"Craponne","pop":12170,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":27380,"chomage":7,"densite":2634},{"code":"69271","nom":"Chassieu","pop":11214,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28750,"chomage":9.1,"densite":969},{"code":"69273","nom":"Corbas","pop":11196,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25250,"chomage":10.1,"densite":942},{"code":"69243","nom":"Tarare","pop":10881,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":19730,"chomage":14.9,"densite":778},{"code":"69096","nom":"Grigny","pop":9941,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":21900,"chomage":8.8,"densite":1729},{"code":"69276","nom":"Feyzin","pop":9727,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":22210,"chomage":13.5,"densite":1009},{"code":"69043","nom":"Chaponost","pop":9217,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":31090,"chomage":6.8,"densite":565},{"code":"69072","nom":"Dardilly","pop":8980,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":32510,"chomage":8.1,"densite":642},{"code":"69100","nom":"Irigny","pop":8909,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25740,"chomage":9.1,"densite":1008},{"code":"69009","nom":"Anse","pop":8139,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":24690,"chomage":8.2,"densite":534},{"code":"69092","nom":"Gleizé","pop":7824,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":23660,"chomage":10.6,"densite":748},{"code":"69143","nom":"Neuville-Sur-Saône","pop":7807,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":23150,"chomage":10.1,"densite":1427},{"code":"69194","nom":"Saint-Didier-Au-Mont-D\u0027Or","pop":7405,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":42270,"chomage":6.8,"densite":888},{"code":"69292","nom":"Sathonay-Camp","pop":7039,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":24460,"chomage":7.8,"densite":3591},{"code":"69088","nom":"Fontaines-Sur-Saône","pop":7005,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":25230,"chomage":10.2,"densite":3019},{"code":"69287","nom":"Saint-Bonnet-De-Mure","pop":6988,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28700,"chomage":7.9,"densite":428},{"code":"69028","nom":"Brindas","pop":6718,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":29700,"chomage":5.5,"densite":596},{"code":"69142","nom":"La Mulatière","pop":6554,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":22750,"chomage":12.8,"densite":3601},{"code":"69112","nom":"Lentilly","pop":6541,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":29630,"chomage":7.5,"densite":356},{"code":"69010","nom":"L\u0027Arbresle","pop":6469,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":23450,"chomage":9.2,"densite":1925},{"code":"69094","nom":"Grézieu-La-Varenne","pop":6284,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27230,"chomage":6.2,"densite":843},{"code":"69141","nom":"Mornant","pop":6261,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":27260,"chomage":6.3,"densite":397},{"code":"69255","nom":"Vaugneray","pop":6198,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":26950,"chomage":4.6,"densite":248},{"code":"69040","nom":"Champagne-Au-Mont-D\u0027Or","pop":6124,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27100,"chomage":8.9,"densite":2364},{"code":"69191","nom":"Saint-Cyr-Au-Mont-D\u0027Or","pop":6113,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":40340,"chomage":8.1,"densite":839},{"code":"69279","nom":"Jonage","pop":6109,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28030,"chomage":6.6,"densite":504},{"code":"69291","nom":"Saint-Symphorien-D\u0027Ozon","pop":6076,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26560,"chomage":6.7,"densite":454},{"code":"69248","nom":"Thizy-Les-Bourgs","pop":5794,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":21160,"chomage":11,"densite":130},{"code":"69288","nom":"Saint-Laurent-De-Mure","pop":5651,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":27380,"chomage":6.3,"densite":303},{"code":"69278","nom":"Genay","pop":5632,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26920,"chomage":8.8,"densite":663},{"code":"69297","nom":"Ternay","pop":5582,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27400,"chomage":8.4,"densite":693},{"code":"69205","nom":"Saint-Genis-Les-Ollières","pop":5370,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":30290,"chomage":6,"densite":1436},{"code":"69157","nom":"Pontcharra-Sur-Turdine","pop":5283,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25190,"chomage":6,"densite":221},{"code":"69044","nom":"Charbonnières-Les-Bains","pop":5272,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":36390,"chomage":8.7,"densite":1277},{"code":"69260","nom":"Vernaison","pop":5175,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":27760,"chomage":8.4,"densite":1284},{"code":"69006","nom":"Amplepuis","pop":4858,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":21120,"chomage":11.7,"densite":126},{"code":"69115","nom":"Limas","pop":4749,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":24720,"chomage":9.9,"densite":860},{"code":"69046","nom":"Charly","pop":4670,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":33860,"chomage":7.3,"densite":917},{"code":"69176","nom":"Soucieu-En-Jarrest","pop":4652,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27650,"chomage":5,"densite":328},{"code":"69063","nom":"Collonges-Au-Mont-D\u0027Or","pop":4604,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":35240,"chomage":7.2,"densite":1218},{"code":"69289","nom":"Saint-Pierre-De-Chandieu","pop":4588,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28430,"chomage":6,"densite":157},{"code":"69206","nom":"Saint-Georges-De-Reneins","pop":4533,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":25200,"chomage":8.3,"densite":165},{"code":"69272","nom":"Communay","pop":4524,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28770,"chomage":5.6,"densite":429},{"code":"69270","nom":"Chaponnay","pop":4519,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":31360,"chomage":4.5,"densite":239},{"code":"69250","nom":"La Tour-De-Salvagny","pop":4460,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":33530,"chomage":5.4,"densite":529},{"code":"69013","nom":"Arnas","pop":4408,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":24910,"chomage":7.3,"densite":252},{"code":"69066","nom":"Cours-La-Ville","pop":4329,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":21050,"chomage":11.1,"densite":128},{"code":"69133","nom":"Millery","pop":4323,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":30670,"chomage":5.4,"densite":469},{"code":"69228","nom":"Saint-Maurice-Sur-Dargoire","pop":4274,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25960,"chomage":5.5,"densite":123},{"code":"69052","nom":"Chazay-D\u0027Azergues","pop":4270,"legi2017":"Centre","legi2022":"Droite","legi2024":"Droite","revenu":31020,"chomage":7,"densite":719},{"code":"69179","nom":"Saint-Andéol-Le-Château","pop":4198,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27940,"chomage":3.7,"densite":169},{"code":"69285","nom":"Pusignan","pop":4145,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":27420,"chomage":6.6,"densite":318},{"code":"69024","nom":"Le Bois-D\u0027Oingt","pop":4143,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26650,"chomage":6.2,"densite":229},{"code":"69064","nom":"Condrieu","pop":3945,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":23490,"chomage":8.9,"densite":428},{"code":"69116","nom":"Limonest","pop":3933,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":34510,"chomage":7,"densite":469},{"code":"69227","nom":"Saint-Martin-En-Haut","pop":3917,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":24790,"chomage":4.4,"densite":101},{"code":"69238","nom":"Saint-Symphorien-Sur-Coise","pop":3749,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":21800,"chomage":7.4,"densite":921},{"code":"69127","nom":"Marcy-L\u0027Etoile","pop":3711,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":29680,"chomage":8.2,"densite":691},{"code":"69163","nom":"Quincieux","pop":3620,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26670,"chomage":5.8,"densite":204},{"code":"69131","nom":"Messimy","pop":3565,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27280,"chomage":5,"densite":321},{"code":"69268","nom":"Vourles","pop":3353,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":32340,"chomage":6,"densite":599},{"code":"69284","nom":"Montanay","pop":3270,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":33600,"chomage":5.8,"densite":457},{"code":"69249","nom":"Thurins","pop":3268,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26100,"chomage":4.7,"densite":169},{"code":"69136","nom":"Montagny","pop":3212,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27760,"chomage":7.1,"densite":387},{"code":"69117","nom":"Lissieu","pop":3193,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":33180,"chomage":6.7,"densite":564},{"code":"69298","nom":"Toussieu","pop":3186,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":29590,"chomage":4.2,"densite":635},{"code":"69121","nom":"Lozanne","pop":3182,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26930,"chomage":6.2,"densite":579},{"code":"69296","nom":"Solaize","pop":3131,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":29430,"chomage":4.8,"densite":387},{"code":"69087","nom":"Fontaines-Saint-Martin","pop":3070,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":34190,"chomage":8.6,"densite":1120},{"code":"69294","nom":"Sérézin-Du-Rhône","pop":3057,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26360,"chomage":5.3,"densite":770},{"code":"69207","nom":"Saint-Germain-Au-Mont-D\u0027Or","pop":3037,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":27110,"chomage":9.6,"densite":559},{"code":"69003","nom":"Albigny-Sur-Saône","pop":3013,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":27080,"chomage":10,"densite":1172},{"code":"69154","nom":"Pollionnay","pop":2966,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28690,"chomage":4.9,"densite":188},{"code":"69033","nom":"Cailloux-Sur-Fontaines","pop":2951,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":34010,"chomage":5.6,"densite":340},{"code":"69049","nom":"Chasselay","pop":2901,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":32350,"chomage":5.2,"densite":227},{"code":"69299","nom":"Colombier-Saugnieu","pop":2859,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":27000,"chomage":6.3,"densite":104},{"code":"69007","nom":"Ampuis","pop":2760,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26440,"chomage":5,"densite":177},{"code":"69118","nom":"Loire-Sur-Rhône","pop":2736,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":24520,"chomage":7.9,"densite":165},{"code":"69241","nom":"Taluyers","pop":2657,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28720,"chomage":4.5,"densite":328},{"code":"69148","nom":"Orliénas","pop":2633,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":30280,"chomage":4.3,"densite":253},{"code":"69156","nom":"Pommiers","pop":2629,"legi2017":"Centre","legi2022":"Centre","legi2024":"Droite","revenu":30730,"chomage":4.8,"densite":339},{"code":"69076","nom":"Dommartin","pop":2607,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":34020,"chomage":6.2,"densite":361},{"code":"69231","nom":"Saint-Pierre-La-Palud","pop":2586,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26870,"chomage":7.6,"densite":343},{"code":"69171","nom":"Sain-Bel","pop":2568,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":24670,"chomage":7.8,"densite":698},{"code":"69068","nom":"Couzon-Au-Mont-D\u0027Or","pop":2541,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":28290,"chomage":7.8,"densite":817},{"code":"69293","nom":"Sathonay-Village","pop":2418,"legi2017":"Centre","legi2022":"Droite","legi2024":"Centre","revenu":33220,"chomage":5.4,"densite":470},{"code":"69021","nom":"Bessenay","pop":2351,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":24500,"chomage":6.6,"densite":168},{"code":"69086","nom":"Fleurieux-Sur-L\u0027Arbresle","pop":2299,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":29780,"chomage":6.3,"densite":242},{"code":"69140","nom":"Morancé","pop":2267,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":29600,"chomage":4.9,"densite":245},{"code":"69208","nom":"Saint-Germain-Nuelles","pop":2252,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28890,"chomage":5.2,"densite":264},{"code":"69197","nom":"Saint-Etienne-Des-Oullières","pop":2236,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":25040,"chomage":6.4,"densite":231},{"code":"69050","nom":"Châtillon","pop":2184,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28030,"chomage":5.5,"densite":204},{"code":"69032","nom":"Bully","pop":2144,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27450,"chomage":5.2,"densite":170},{"code":"69267","nom":"Villié-Morgon","pop":2132,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":24700,"chomage":4.9,"densite":114},{"code":"69219","nom":"Saint-Laurent-D\u0027Agny","pop":2120,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":29190,"chomage":5.9,"densite":201},{"code":"69190","nom":"Sainte-Consorce","pop":2109,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":30200,"chomage":4.2,"densite":363},{"code":"69018","nom":"Beaujeu","pop":2103,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":21680,"chomage":6.9,"densite":118},{"code":"69177","nom":"Sourcieux-Les-Mines","pop":2098,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28150,"chomage":6,"densite":211},{"code":"69122","nom":"Lucenay","pop":2068,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28690,"chomage":6.2,"densite":330},{"code":"69056","nom":"Chessy-Les-Mines","pop":2058,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27050,"chomage":5.1,"densite":452},{"code":"69189","nom":"Sainte-Colombe","pop":1994,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":24540,"chomage":9,"densite":1246},{"code":"69235","nom":"Saint-Romain-En-Gal","pop":1990,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":24390,"chomage":8.3,"densite":149},{"code":"69281","nom":"Marennes","pop":1979,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":29440,"chomage":5.5,"densite":159},{"code":"69175","nom":"Savigny","pop":1970,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26350,"chomage":6,"densite":92},{"code":"69220","nom":"Saint-Laurent-De-Chamousset","pop":1950,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24060,"chomage":6.5,"densite":113},{"code":"69080","nom":"Echalas","pop":1940,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":26910,"chomage":5.3,"densite":93},{"code":"69135","nom":"Monsols","pop":1923,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":21080,"chomage":8.6,"densite":23},{"code":"69295","nom":"Simandres","pop":1886,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28190,"chomage":5.1,"densite":180},{"code":"69110","nom":"Larajasse","pop":1820,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22970,"chomage":3.8,"densite":54},{"code":"69234","nom":"Saint-Romain-De-Popey","pop":1703,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":26410,"chomage":5.8,"densite":100},{"code":"69023","nom":"Blacé","pop":1692,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":27320,"chomage":4,"densite":154},{"code":"69059","nom":"Civrieux-D\u0027Azergues","pop":1633,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":28930,"chomage":6.4,"densite":325},{"code":"69280","nom":"Jons","pop":1594,"legi2017":"Droite","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":27110,"chomage":7,"densite":215},{"code":"69074","nom":"Denicé","pop":1574,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":28360,"chomage":5.7,"densite":165},{"code":"69085","nom":"Fleurieu-Sur-Saône","pop":1549,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":31110,"chomage":5.4,"densite":532},{"code":"69168","nom":"Rochetaillée-Sur-Saône","pop":1546,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":29240,"chomage":11,"densite":1198},{"code":"69200","nom":"Saint-Forgeux","pop":1538,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24220,"chomage":3.6,"densite":69},{"code":"69055","nom":"Les Chères","pop":1504,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27560,"chomage":6.9,"densite":275},{"code":"69151","nom":"Le Perréon","pop":1496,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24720,"chomage":4.8,"densite":103},{"code":"69099","nom":"Haute-Rivoire","pop":1425,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22560,"chomage":7.2,"densite":70},{"code":"69153","nom":"Poleymieux-Au-Mont-D\u0027Or","pop":1394,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":35970,"chomage":3.3,"densite":224},{"code":"69139","nom":"Montrottier","pop":1393,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":23730,"chomage":6,"densite":60},{"code":"69162","nom":"Quincié-En-Beaujolais","pop":1382,"legi2017":"Centre","legi2022":"Droite","legi2024":"Droite","revenu":23660,"chomage":4.2,"densite":63},{"code":"69031","nom":"Brussieu","pop":1378,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25730,"chomage":5.7,"densite":204},{"code":"69070","nom":"Cublize","pop":1357,"legi2017":"Droite","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":22890,"chomage":7.5,"densite":87},{"code":"69084","nom":"Fleurie","pop":1351,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24350,"chomage":5.7,"densite":97},{"code":"69106","nom":"Lachassagne","pop":1334,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":32050,"chomage":7.9,"densite":378},{"code":"69246","nom":"Theizé","pop":1293,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":27890,"chomage":3.4,"densite":109},{"code":"69201","nom":"Sainte-Foy-L\u0027Argentière","pop":1292,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":20920,"chomage":12.2,"densite":839},{"code":"69193","nom":"Saint-Cyr-Sur-Le-Rhône","pop":1273,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":31000,"chomage":5.1,"densite":211},{"code":"69045","nom":"Charentay","pop":1269,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":26070,"chomage":5.3,"densite":92},{"code":"69233","nom":"Saint-Romain-Au-Mont-D\u0027Or","pop":1241,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":35130,"chomage":8,"densite":474},{"code":"69051","nom":"Chaussan","pop":1215,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":27050,"chomage":6.8,"densite":154},{"code":"69093","nom":"Grandris","pop":1212,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":21580,"chomage":9.6,"densite":80},{"code":"69061","nom":"Cogny","pop":1198,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":28860,"chomage":4.2,"densite":205},{"code":"69071","nom":"Curis-Au-Mont-D\u0027Or","pop":1186,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":33160,"chomage":6,"densite":391},{"code":"69067","nom":"Courzieu","pop":1178,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22530,"chomage":6.2,"densite":44},{"code":"69077","nom":"Dracé","pop":1178,"legi2017":"Extreme droite","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":24320,"chomage":4,"densite":79},{"code":"69214","nom":"Saint-Jean-La-Bussière","pop":1175,"legi2017":"Droite","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":23570,"chomage":6.8,"densite":76},{"code":"69083","nom":"Eveux","pop":1169,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":30290,"chomage":8.3,"densite":352},{"code":"69170","nom":"Rontalon","pop":1167,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25080,"chomage":5.2,"densite":92},{"code":"69165","nom":"Régnié-Durette","pop":1159,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":24530,"chomage":4.8,"densite":99},{"code":"69257","nom":"Vaux-En-Beaujolais","pop":1153,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":24940,"chomage":5.2,"densite":65},{"code":"69239","nom":"Saint-Vérand","pop":1147,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":25940,"chomage":3.4,"densite":65},{"code":"69036","nom":"Cercié","pop":1135,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24520,"chomage":6.5,"densite":230},{"code":"69155","nom":"Pomeys","pop":1133,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":25480,"chomage":3.4,"densite":86},{"code":"69014","nom":"Aveize","pop":1108,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22620,"chomage":3.3,"densite":67},{"code":"69108","nom":"Lancié","pop":1082,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":24230,"chomage":5.6,"densite":164},{"code":"69107","nom":"Lamure-Sur-Azergues","pop":1051,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23260,"chomage":8.2,"densite":67},{"code":"69218","nom":"Saint-Lager","pop":1051,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24660,"chomage":4.7,"densite":136},{"code":"69047","nom":"Charnay","pop":1031,"legi2017":"Centre","legi2022":"Centre","legi2024":"Droite","revenu":32860,"chomage":4.6,"densite":146},{"code":"69105","nom":"Lacenas","pop":1029,"legi2017":"Centre","legi2022":"Droite","legi2024":"Droite","revenu":27670,"chomage":6.6,"densite":306},{"code":"69160","nom":"Poule-Les-Echarmeaux","pop":1027,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23210,"chomage":10,"densite":33},{"code":"69125","nom":"Marcilly-D\u0027Azergues","pop":1004,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":30530,"chomage":5.6,"densite":240},{"code":"69254","nom":"Valsonne","pop":994,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":22710,"chomage":5.7,"densite":54},{"code":"69065","nom":"Corcelles-En-Beaujolais","pop":993,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":25170,"chomage":4.8,"densite":107},{"code":"69203","nom":"Saint-Genis-L\u0027Argentière","pop":986,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":23380,"chomage":10.4,"densite":93},{"code":"69184","nom":"Sainte-Catherine","pop":981,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25380,"chomage":7.6,"densite":71},{"code":"69269","nom":"Yzeron","pop":980,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":25190,"chomage":5,"densite":91},{"code":"69173","nom":"Sarcey","pop":979,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":27830,"chomage":5.7,"densite":98},{"code":"69119","nom":"Longes","pop":951,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":23880,"chomage":4.6,"densite":40},{"code":"69145","nom":"Odenas","pop":943,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23900,"chomage":5.9,"densite":105},{"code":"69215","nom":"Saint-Julien","pop":936,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":27530,"chomage":4.8,"densite":136},{"code":"69038","nom":"Chambost-Longessaigne","pop":923,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":21860,"chomage":7.1,"densite":60},{"code":"69242","nom":"Taponas","pop":908,"legi2017":"Droite","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":23880,"chomage":8.7,"densite":119},{"code":"69263","nom":"Villechenève","pop":908,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":22900,"chomage":4.2,"densite":64},{"code":"69113","nom":"Létra","pop":907,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":24730,"chomage":9.2,"densite":62},{"code":"69090","nom":"Frontenas","pop":905,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27540,"chomage":4.1,"densite":265},{"code":"69188","nom":"Saint-Clément-Sous-Valsonne","pop":904,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23400,"chomage":7.3,"densite":62},{"code":"69103","nom":"Juliénas","pop":883,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23260,"chomage":7.4,"densite":117},{"code":"69126","nom":"Marcy","pop":879,"legi2017":"Centre","legi2022":"Centre","legi2024":"Droite","revenu":30160,"chomage":5.9,"densite":264},{"code":"69132","nom":"Meys","pop":855,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22000,"chomage":1.9,"densite":58},{"code":"69109","nom":"Lantignié","pop":851,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":24990,"chomage":7,"densite":115},{"code":"69078","nom":"Duerne","pop":842,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":24160,"chomage":3.2,"densite":74},{"code":"69095","nom":"Grézieu-Le-Marché","pop":831,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22700,"chomage":3.5,"densite":72},{"code":"69030","nom":"Brullioles","pop":823,"legi2017":"Droite","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":24700,"chomage":3.3,"densite":67},{"code":"69265","nom":"Ville-Sur-Jarnioux","pop":820,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":29320,"chomage":3.1,"densite":81},{"code":"69037","nom":"Chambost-Allières","pop":819,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23330,"chomage":7.7,"densite":58},{"code":"69062","nom":"Coise","pop":794,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22830,"chomage":7.8,"densite":88},{"code":"69172","nom":"Salles-Arbuissonnas-En-Beaujolais","pop":789,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":26240,"chomage":5.6,"densite":181},{"code":"69198","nom":"Saint-Etienne-La-Varenne","pop":783,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":25860,"chomage":3.4,"densite":112},{"code":"69229","nom":"Saint-Nizier-D\u0027Azergues","pop":776,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":22220,"chomage":6.7,"densite":32},{"code":"69004","nom":"Alix","pop":772,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":26980,"chomage":6.8,"densite":214},{"code":"69178","nom":"Souzy","pop":767,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22510,"chomage":8.1,"densite":151},{"code":"69017","nom":"Bagnols","pop":758,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26690,"chomage":3.6,"densite":103},{"code":"69102","nom":"Joux","pop":753,"legi2017":"Droite","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":23230,"chomage":10.4,"densite":30},{"code":"69245","nom":"Ternand","pop":747,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25830,"chomage":5.7,"densite":69},{"code":"69217","nom":"Saint-Just-D\u0027Avray","pop":743,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23590,"chomage":5.7,"densite":42},{"code":"69097","nom":"Les Haies","pop":739,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":25590,"chomage":2.9,"densite":46},{"code":"69252","nom":"Trèves","pop":723,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25940,"chomage":4.4,"densite":96},{"code":"69020","nom":"Belmont-D\u0027Azergues","pop":717,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":29010,"chomage":4.9,"densite":475},{"code":"69039","nom":"Chamelet","pop":703,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":24090,"chomage":5.9,"densite":49},{"code":"69111","nom":"Légny","pop":699,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":26900,"chomage":6.6,"densite":176},{"code":"69008","nom":"Ancy","pop":674,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":25170,"chomage":4.2,"densite":57},{"code":"69187","nom":"Saint-Clément-Les-Places","pop":669,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":23090,"chomage":3.2,"densite":54},{"code":"69253","nom":"Tupin-Et-Semons","pop":650,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":27690,"chomage":3.4,"densite":79},{"code":"69169","nom":"Ronno","pop":650,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23420,"chomage":4.4,"densite":28},{"code":"69005","nom":"Ambérieux","pop":629,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":25550,"chomage":4.5,"densite":138},{"code":"69240","nom":"Saint-Vincent-De-Reins","pop":627,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":21280,"chomage":4.2,"densite":45},{"code":"69174","nom":"Les Sauvages","pop":621,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23270,"chomage":6.8,"densite":49},{"code":"69012","nom":"Les Ardillats","pop":616,"legi2017":"Droite","legi2022":"Droite","legi2024":"Droite","revenu":24030,"chomage":3.2,"densite":27},{"code":"69216","nom":"Saint-Julien-Sur-Bibost","pop":605,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":23150,"chomage":5.9,"densite":46},{"code":"69196","nom":"Saint-Didier-Sur-Beaujeu","pop":603,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23770,"chomage":6.8,"densite":41},{"code":"69236","nom":"Saint-Romain-En-Gier","pop":598,"legi2017":"Centre","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":24150,"chomage":6.4,"densite":148},{"code":"69120","nom":"Longessaigne","pop":592,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":23030,"chomage":5.4,"densite":50},{"code":"69167","nom":"Rivolet","pop":588,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Extreme droite","revenu":25220,"chomage":4.9,"densite":36},{"code":"69057","nom":"Chevinay","pop":586,"legi2017":"Droite","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":26530,"chomage":5.8,"densite":66},{"code":"69209","nom":"Saint-Igny-De-Vers","pop":581,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":22390,"chomage":4.9,"densite":21},{"code":"69225","nom":"Saint-Marcel-L\u0027Eclairé","pop":568,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":24570,"chomage":3.8,"densite":48},{"code":"69042","nom":"La Chapelle-Sur-Coise","pop":566,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25080,"chomage":3.2,"densite":86},{"code":"69060","nom":"Claveisolles","pop":557,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":21860,"chomage":7.3,"densite":20},{"code":"69022","nom":"Bibost","pop":543,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24520,"chomage":4.5,"densite":104},{"code":"69053","nom":"Chénas","pop":534,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":25220,"chomage":7.1,"densite":65},{"code":"69137","nom":"Montmelas-Saint-Sorlin","pop":530,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Gauche","revenu":27240,"chomage":4.9,"densite":125},{"code":"69026","nom":"Le Breuil","pop":528,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":26280,"chomage":6.6,"densite":94},{"code":"69104","nom":"Jullié","pop":496,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":22170,"chomage":6,"densite":50},{"code":"69098","nom":"Les Halles","pop":481,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":22970,"chomage":7.3,"densite":156},{"code":"69161","nom":"Propières","pop":477,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":20760,"chomage":9.3,"densite":30},{"code":"69212","nom":"Saint-Jean-Des-Vignes","pop":472,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":30230,"chomage":7.8,"densite":184},{"code":"69124","nom":"Marchampt","pop":452,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":21820,"chomage":5.6,"densite":25},{"code":"69138","nom":"Montromant","pop":447,"legi2017":"Centre","legi2022":"Centre","legi2024":"Centre","revenu":22850,"chomage":6.2,"densite":41},{"code":"69058","nom":"Chiroubles","pop":416,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23730,"chomage":3.1,"densite":57},{"code":"69001","nom":"Affoux","pop":397,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24970,"chomage":2.7,"densite":37},{"code":"69035","nom":"Cenves","pop":393,"legi2017":"Centre","legi2022":"Gauche radicale","legi2024":"Droite","revenu":24870,"chomage":4.6,"densite":15},{"code":"69182","nom":"Saint-Bonnet-Des-Bruyères","pop":372,"legi2017":"Droite","legi2022":"Droite","legi2024":"Droite","revenu":20380,"chomage":7.3,"densite":18},{"code":"69054","nom":"Chénelette","pop":365,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":24480,"chomage":2.3,"densite":33},{"code":"69230","nom":"Sainte-Paule","pop":330,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":24300,"chomage":4.2,"densite":44},{"code":"69258","nom":"Vauxrenard","pop":315,"legi2017":"Droite","legi2022":"Droite","legi2024":"Droite","revenu":23900,"chomage":3.3,"densite":16},{"code":"69183","nom":"Saint-Bonnet-Le-Troncy","pop":311,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":20390,"chomage":10.5,"densite":20},{"code":"69164","nom":"Ranchal","pop":311,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":21590,"chomage":8.9,"densite":21},{"code":"69166","nom":"Riverie","pop":307,"legi2017":"Centre","legi2022":"Centre","legi2024":"Gauche","revenu":25620,"chomage":5.4,"densite":731},{"code":"69082","nom":"Emeringes","pop":278,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":25840,"chomage":4.8,"densite":92},{"code":"69180","nom":"Saint-André-La-Côte","pop":274,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":25880,"chomage":3.1,"densite":57},{"code":"69134","nom":"Moiré","pop":243,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":30920,"chomage":3.8,"densite":120},{"code":"69002","nom":"Aigueperse","pop":239,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":21290,"chomage":3,"densite":18},{"code":"69181","nom":"Saint-Appolinaire","pop":235,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":23190,"chomage":3.6,"densite":41},{"code":"69130","nom":"Meaux-La-Montagne","pop":226,"legi2017":"Droite","legi2022":"Centre","legi2024":"Extreme droite","revenu":24390,"chomage":6.9,"densite":25},{"code":"69186","nom":"Saint-Clément-De-Vers","pop":205,"legi2017":"Droite","legi2022":"Droite","legi2024":"Extreme droite","revenu":21850,"chomage":5.8,"densite":23},{"code":"69075","nom":"Dième","pop":196,"legi2017":"Droite","legi2022":"Extreme droite","legi2024":"Extreme droite","revenu":23960,"chomage":6.4,"densite":22},{"code":"69192","nom":"Saint-Cyr-Le-Chatoux","pop":156,"legi2017":"Centre","legi2022":"Centre","legi2024":"Extreme droite","revenu":25650,"chomage":4,"densite":25},{"code":"69016","nom":"Azolette","pop":122,"legi2017":"Droite","legi2022":"Droite","legi2024":"Droite","revenu":23200,"chomage":8.9,"densite":29},{"code":"69261","nom":"Vernay","pop":117,"legi2017":"Droite","legi2022":"Droite","legi2024":"Droite","revenu":25650,"chomage":4.8,"densite":21},{"code":"69101","nom":"Jarnioux","pop":0,"legi2017":"Centre","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69048","nom":"Chassagny","pop":0,"legi2017":"Centre","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69251","nom":"Trades","pop":0,"legi2017":"Droite","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69147","nom":"Les Olmes","pop":0,"legi2017":"Centre","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69015","nom":"Avenas","pop":0,"legi2017":"Droite","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69073","nom":"Dareizé","pop":0,"legi2017":"Droite","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69224","nom":"Saint-Mamert","pop":0,"legi2017":"Droite","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69223","nom":"Saint-Loup","pop":0,"legi2017":"Droite","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69211","nom":"Saint-Jean-D\u0027Ardières","pop":0,"legi2017":"Centre","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69210","nom":"Saint-Jacques-Des-Arrêts","pop":0,"legi2017":"Droite","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69152","nom":"Pierre-Bénite","pop":0,"legi2017":"Droite","legi2022":"Droite","legi2024":null,"revenu":21270,"chomage":0,"densite":0},{"code":"69150","nom":"Ouroux","pop":0,"legi2017":"Droite","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69159","nom":"Pouilly-Le-Monial","pop":0,"legi2017":"Centre","legi2022":"Droite","legi2024":"Extreme droite","revenu":27510,"chomage":0,"densite":0},{"code":"69185","nom":"Saint-Christophe-La-Montagne","pop":0,"legi2017":"Droite","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0},{"code":"69213","nom":"Saint-Jean-De-Touslas","pop":0,"legi2017":"Centre","legi2022":null,"legi2024":null,"revenu":0,"chomage":0,"densite":0}]
+;
+
+const PARTICIPATION = [
+  {id:"2014_euro_t1", annee:2014, type:"euro",  label:"Euro 2014", p:46.3},
+  {id:"2017_pres_t1", annee:2017, type:"pres",  label:"Prés. 2017",p:82.8},
+  {id:"2017_legi_t1", annee:2017, type:"legi",  label:"Legi 2017", p:52.3},
+  {id:"2019_euro_t1", annee:2019, type:"euro",  label:"Euro 2019", p:54.5},
+  {id:"2022_pres_t1", annee:2022, type:"pres",  label:"Prés. 2022",p:81.3},
+  {id:"2022_legi_t1", annee:2022, type:"legi",  label:"Legi 2022", p:52.6},
+  {id:"2024_euro_t1", annee:2024, type:"euro",  label:"Euro 2024", p:59.6},
+  {id:"2024_legi_t1", annee:2024, type:"legi",  label:"Legi 2024", p:74.8},
+];
+
+const LEGI_EVO = [
+  {annee:2017, "Centre":199, "Droite":80, "Extreme droite":1, "Gauche radicale":0, "Gauche":0},
+  {annee:2022, "Centre":150, "Droite":74, "Extreme droite":17,"Gauche radicale":26,"Gauche":0},
+  {annee:2024, "Centre":41,  "Droite":12, "Extreme droite":187,"Gauche radicale":0, "Gauche":26},
+];
+
+const MODELS = [
+  {modele:"Logistic Regression", accuracy:0.587, f1:0.636, cv:0.646},
+  {modele:"Gradient Boosting",   accuracy:0.177, f1:0.071, cv:0.702},
+  {modele:"KNN",                  accuracy:0.162, f1:0.071, cv:0.628},
+  {modele:"Random Forest",        accuracy:0.158, f1:0.062, cv:0.683},
+];
+
+const FEATURES = [
+  {name:"Delta taux chômage 2016→2022", score:0.19},
+  {name:"Revenu médian (Filosofi)",     score:0.17},
+  {name:"Delta abstention 2017→2022",   score:0.15},
+  {name:"Densité de population",         score:0.12},
+  {name:"Delta violences 2017→2024",    score:0.11},
+  {name:"Part population jeune",         score:0.09},
+  {name:"Delta taux d'immigration",      score:0.08},
+  {name:"Delta vols sans violence",      score:0.07},
+  {name:"Vie associative 2022",          score:0.06},
+  {name:"Cambriolages delta",            score:0.05},
+];
+
+// ── Family colors ──────────────────────────────────────────
+const FCOL = {
+  "Extreme droite": "#EF4444",
+  "Droite":         "#60A5FA",
+  "Centre":         "#FBBF24",
+  "Gauche":         "#F472B6",
+  "Gauche radicale":"#A78BFA",
+  "Ecologie":       "#34D399",
+  "Extreme gauche": "#FB923C",
+  "Divers":         "#94A3B8",
+};
+
+function getFamilyColor(f) { return FCOL[f] || "#94A3B8"; }
+
+function FamilyPill({ family }) {
+  if (!family) return null;
+  const col = getFamilyColor(family);
+  return (
+    <span className="family-pill" style={{
+      background: col + "1A",
+      color: col,
+      border: `1px solid ${col}40`
+    }}>{family}</span>
+  );
+}
+
+// ══════════════════════════════════════════════════════════
+// SVG CHART HELPERS
+// ══════════════════════════════════════════════════════════
+
+function StackedBarChart({ data, keys, colors, height=240 }) {
+  const [tooltip, setTooltip] = React.useState(null);
+  const [mounted, setMounted] = React.useState(false);
+  const PAD = { l:36, r:16, t:16, b:36 };
+  const W = 500, H = height;
+  const max = Math.max(...data.map(d => keys.reduce((s,k)=> s+(d[k]||0),0)));
+  const bw = 60, gap = (W - PAD.l - PAD.r - bw*data.length) / (data.length+1);
+
+  React.useEffect(() => {
+    const id = requestAnimationFrame(() => setMounted(true));
+    return () => cancelAnimationFrame(id);
+  }, []);
+
+  return (
+    <div style={{position:"relative"}}>
+      <svg viewBox={`0 0 ${W} ${H}`} style={{width:"100%",height:"auto",overflow:"visible"}}>
+        {/* Y grid */}
+        {[0,.25,.5,.75,1].map(t => {
+          const y = PAD.t + (H-PAD.t-PAD.b)*(1-t);
+          return <g key={t}>
+            <line x1={PAD.l} x2={W-PAD.r} y1={y} y2={y} stroke="rgba(255,255,255,.06)" strokeWidth="1"/>
+            <text x={PAD.l-6} y={y+4} textAnchor="end" fill="#4A5A7A" fontSize="10">
+              {Math.round(max*t)}
+            </text>
+          </g>;
+        })}
+        {/* Bars */}
+        {data.map((d, i) => {
+          const x = PAD.l + gap + i*(bw+gap);
+          let cy = H - PAD.b;
+          return (
+            <g key={i}>
+              {keys.map((k, ki) => {
+                const val = d[k] || 0;
+                const barH = val/max * (H-PAD.t-PAD.b);
+                cy -= barH;
+                const delay = (i * 0.12 + ki * 0.04).toFixed(2);
+                return (
+                  <rect key={k} x={x} y={cy} width={bw} height={Math.max(barH,0)}
+                    fill={colors[k]} rx="3"
+                    onMouseEnter={e => setTooltip({d, x:e.clientX, y:e.clientY})}
+                    onMouseLeave={() => setTooltip(null)}
+                    style={{
+                      cursor:"pointer",
+                      transformOrigin:`${x+bw/2}px ${H-PAD.b}px`,
+                      transform: mounted ? "scaleY(1)" : "scaleY(0)",
+                      transition:`transform .65s cubic-bezier(.34,1.4,.64,1) ${delay}s`
+                    }}
+                  />
+                );
+              })}
+              <text x={x+bw/2} y={H-PAD.b+14} textAnchor="middle" fill="#94A3B8" fontSize="11">{d.annee}</text>
+            </g>
+          );
+        })}
+      </svg>
+      {tooltip && (
+        <div className="chart-tooltip" style={{left:tooltip.x+10, top:tooltip.y-10, position:"fixed"}}>
+          <div style={{fontWeight:600,marginBottom:4}}>{tooltip.d.annee}</div>
+          {keys.map(k => tooltip.d[k] > 0 && (
+            <div className="tt-row" key={k}>
+              <span className="tt-dot" style={{background:colors[k]}}/>
+              <span style={{color:"#94A3B8"}}>{k}:</span>
+              <span style={{fontWeight:600}}>{tooltip.d[k]}</span>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+function HBarChart({ data, labelKey, valueKey, color="#4A7AFF", maxVal }) {
+  const max = maxVal || Math.max(...data.map(d=>d[valueKey]));
+  const [mounted, setMounted] = React.useState(false);
+  React.useEffect(() => { const t = setTimeout(() => setMounted(true), 60); return () => clearTimeout(t); }, []);
+  return (
+    <div style={{display:"flex",flexDirection:"column",gap:8}}>
+      {data.map((d,i) => (
+        <div key={i}>
+          <div style={{display:"flex",justifyContent:"space-between",marginBottom:3}}>
+            <span style={{fontSize:12,color:"var(--fg-2)"}}>{d[labelKey]}</span>
+            <span style={{fontSize:12,fontWeight:600,fontVariantNumeric:"tabular-nums"}}>{(d[valueKey]*100).toFixed(1)}%</span>
+          </div>
+          <div style={{background:"var(--bg-surf)",borderRadius:4,height:8,overflow:"hidden"}}>
+            <div style={{
+              width: mounted ? `${(d[valueKey]/max)*100}%` : "0%",
+              height:"100%",
+              background: typeof color === "function" ? color(d) : color,
+              borderRadius:4,
+              transition:`width .7s cubic-bezier(.22,1,.36,1) ${(i*0.08).toFixed(2)}s`
+            }}/>
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function DonutChart({ data, size=180 }) {
+  const [hovered, setHovered] = React.useState(null);
+  const total = data.reduce((s,d)=>s+d.value,0);
+  let angle = -Math.PI/2;
+  const R=70, r=42, cx=size/2, cy=size/2;
+  const slices = data.map(d => {
+    const a0 = angle;
+    const a1 = angle + (d.value/total)*2*Math.PI;
+    angle = a1;
+    const x0=cx+R*Math.cos(a0), y0=cy+R*Math.sin(a0);
+    const x1=cx+R*Math.cos(a1), y1=cy+R*Math.sin(a1);
+    const ix0=cx+r*Math.cos(a0), iy0=cy+r*Math.sin(a0);
+    const ix1=cx+r*Math.cos(a1), iy1=cy+r*Math.sin(a1);
+    const large = (a1-a0)>Math.PI?1:0;
+    const path = `M${ix0},${iy0} L${x0},${y0} A${R},${R} 0 ${large} 1 ${x1},${y1} L${ix1},${iy1} A${r},${r} 0 ${large} 0 ${ix0},${iy0} Z`;
+    return {...d, path};
+  });
+  const hov = hovered != null ? data[hovered] : null;
+  const [mounted, setMounted] = React.useState(false);
+  React.useEffect(() => { const t = setTimeout(() => setMounted(true), 80); return () => clearTimeout(t); }, []);
+  return (
+    <svg viewBox={`0 0 ${size} ${size}`} style={{width:size,height:size}}>
+      {slices.map((s,i) => (
+        <path key={i} d={s.path} fill={s.color}
+          opacity={hovered===null||hovered===i ? (mounted ? 1 : 0) : 0.5}
+          onMouseEnter={()=>setHovered(i)}
+          onMouseLeave={()=>setHovered(null)}
+          style={{
+            cursor:"pointer",
+            transformOrigin:`${size/2}px ${size/2}px`,
+            transform: mounted ? "scale(1)" : "scale(0.4)",
+            transition:`transform .55s cubic-bezier(.34,1.4,.64,1) ${(i*0.07).toFixed(2)}s, opacity .4s ease ${(i*0.07).toFixed(2)}s`
+          }}
+        />
+      ))}
+      {hov ? (
+        <>
+          <text x={cx} y={cy-6} textAnchor="middle" fill="#E2E8F0" fontSize="18" fontFamily="Poppins" fontWeight="800">{hov.value}</text>
+          <text x={cx} y={cy+10} textAnchor="middle" fill="#94A3B8" fontSize="8">{hov.label}</text>
+        </>
+      ) : (
+        <>
+          <text x={cx} y={cy-4} textAnchor="middle" fill="#E2E8F0" fontSize="14" fontFamily="Poppins" fontWeight="800">{total}</text>
+          <text x={cx} y={cy+10} textAnchor="middle" fill="#94A3B8" fontSize="8">communes</text>
+        </>
+      )}
+    </svg>
+  );
+}
+
+function ParticipationChart({ data, height=200 }) {
+  const PAD = {l:40,r:12,t:12,b:48};
+  const W=500, H=height;
+  const typeColor = {pres:"#4A7AFF", legi:"#FBBF24", euro:"#34D399"};
+  const max=100;
+  return (
+    <svg viewBox={`0 0 ${W} ${H}`} style={{width:"100%",height:"auto"}}>
+      {[0,25,50,75,100].map(v=>{
+        const y=PAD.t+(H-PAD.t-PAD.b)*(1-v/max);
+        return <g key={v}>
+          <line x1={PAD.l} x2={W-PAD.r} y1={y} y2={y} stroke="rgba(255,255,255,.06)" strokeWidth="1"/>
+          <text x={PAD.l-6} y={y+4} textAnchor="end" fill="#4A5A7A" fontSize="10">{v}%</text>
+        </g>;
+      })}
+      {data.map((d,i)=>{
+        const bw=38;
+        const totalW=W-PAD.l-PAD.r;
+        const x=PAD.l + (i/(data.length-1))*(totalW-bw);
+        const barH=(d.p/max)*(H-PAD.t-PAD.b);
+        const y=PAD.t+(H-PAD.t-PAD.b)-barH;
+        const col=typeColor[d.type]||"#94A3B8";
+        return (
+          <g key={i}>
+            <rect x={x} y={y} width={bw} height={barH} fill={col} rx="3" opacity="0.85"
+              style={{transformOrigin:`${x+bw/2}px ${H-PAD.b}px`,animation:`growBarAnim .65s cubic-bezier(.34,1.4,.64,1) ${(i*0.09).toFixed(2)}s both`}}
+            />
+            <text x={x+bw/2} y={y-5} textAnchor="middle" fill={col} fontSize="10" fontWeight="600">{d.p}%</text>
+            <text x={x+bw/2} y={H-PAD.b+14} textAnchor="middle" fill="#94A3B8" fontSize="9" transform={`rotate(-30,${x+bw/2},${H-PAD.b+14})`}>{d.label}</text>
+          </g>
+        );
+      })}
+    </svg>
+  );
+}
+
+// ══════════════════════════════════════════════════════════
+function AnimatedBar({ pct, color, delay=0 }) {
+  const [w, setW] = React.useState(0);
+  React.useEffect(() => {
+    const t = setTimeout(() => setW(pct), delay + 60);
+    return () => clearTimeout(t);
+  }, [pct, delay]);
+  return React.createElement("div", {
+    style:{width:w+"%",height:"100%",background:color,borderRadius:4,transition:"width .7s cubic-bezier(.22,1,.36,1)"}
+  });
+}
+function CountUp({ to, duration=900 }) {
+  const [val, setVal] = React.useState(0);
+  React.useEffect(() => {
+    const start = performance.now();
+    function tick(now) {
+      const t = Math.min(1, (now - start) / duration);
+      const ease = 1 - Math.pow(1 - t, 3);
+      setVal(to * ease);
+      if (t < 1) requestAnimationFrame(tick);
+      else setVal(to);
+    }
+    const id = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(id);
+  }, [to, duration]);
+  return Number.isInteger(to) ? Math.round(val).toLocaleString("fr-FR") : val.toFixed(3);
+}
+// PAGE: DASHBOARD
+// ══════════════════════════════════════════════════════════
+function Dashboard() {
+  const totalCommunes = 280;
+  const dist2024 = [
+    {label:"Extreme droite",value:187,color:"#EF4444"},
+    {label:"Centre",        value:41, color:"#FBBF24"},
+    {label:"Gauche",        value:26, color:"#F472B6"},
+    {label:"Droite",        value:12, color:"#60A5FA"},
+    {label:"Autres",        value:14, color:"#94A3B8"},
+  ];
+  const stackColors = {
+    "Centre":"#FBBF24","Droite":"#60A5FA","Extreme droite":"#EF4444","Gauche radicale":"#A78BFA","Gauche":"#F472B6"
+  };
+  const stackKeys = ["Centre","Droite","Extreme droite","Gauche radicale","Gauche"];
+  return (
+    <div>
+      <div className="kpi-grid">
+        <div className="kpi-card">
+          <div className="kpi-label">Communes analysées</div>
+          <div className="kpi-value" style={{color:"var(--accent)"}}><CountUp to={280}/></div>
+          <div className="kpi-sub">Département du Rhône (69)</div>
+        </div>
+        <div className="kpi-card">
+          <div className="kpi-label">Élections couvertes</div>
+          <div className="kpi-value" style={{color:"var(--success)"}}><CountUp to={8} duration={600}/></div>
+          <div className="kpi-sub">2014 → 2024, tous types</div>
+        </div>
+        <div className="kpi-card">
+          <div className="kpi-label">Score R² modèle</div>
+          <div className="kpi-value" style={{color:"#FBBF24"}}><CountUp to={0.859} duration={1200}/></div>
+          <div className="kpi-sub">Random Forest (CV 5-fold)</div>
+        </div>
+        <div className="kpi-card">
+          <div className="kpi-label">Vainqueur 2024</div>
+          <div className="kpi-value" style={{color:"#EF4444",fontSize:18,paddingTop:4}}>Ext. Droite</div>
+          <div className="kpi-sub">187 / 266 communes</div>
+        </div>
+      </div>
+
+      <div className="two-col">
+        <div className="card">
+          <div className="card-title">Évolution législatives — familles gagnantes</div>
+          <div className="card-sub">Nombre de communes remportées par famille politique (2017–2024)</div>
+          <StackedBarChart data={LEGI_EVO} keys={stackKeys} colors={stackColors}/>
+          <div className="legend">
+            {stackKeys.map(k=><div key={k} className="legend-item"><span className="legend-dot" style={{background:stackColors[k]}}/>{k}</div>)}
+          </div>
+        </div>
+        <div className="card">
+          <div className="card-title">Répartition 2024 — législatives T1</div>
+          <div className="card-sub">266 communes du Rhône ayant voté</div>
+          <div style={{display:"flex",alignItems:"center",gap:20,flexWrap:"wrap",justifyContent:"center"}}>
+            <DonutChart data={dist2024} size={180}/>
+            <div style={{display:"flex",flexDirection:"column",gap:8}}>
+              {dist2024.map(d=>(
+                <div key={d.label} style={{display:"flex",alignItems:"center",gap:8}}>
+                  <span style={{width:12,height:12,borderRadius:3,background:d.color,display:"inline-block",flexShrink:0}}/>
+                  <span style={{fontSize:12,color:"var(--fg-2)",minWidth:120}}>{d.label}</span>
+                  <span style={{fontSize:13,fontWeight:700,fontVariantNumeric:"tabular-nums"}}>{d.value}</span>
+                  <span style={{fontSize:11,color:"var(--fg-3)"}}>{(d.value/266*100).toFixed(0)}%</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="card full-col">
+        <div className="card-title">Participation moyenne — toutes élections</div>
+        <div className="card-sub">Taux moyen sur les 280 communes du Rhône</div>
+        <ParticipationChart data={PARTICIPATION}/>
+        <div className="legend" style={{marginTop:8}}>
+          {[["pres","#4A7AFF","Présidentielle"],["legi","#FBBF24","Législatives"],["euro","#34D399","Européennes"]].map(([k,c,l])=>(
+            <div key={k} className="legend-item"><span className="legend-dot" style={{background:c}}/>{l}</div>
+          ))}
+        </div>
+      </div>
+
+      <div className="card">
+        <div className="card-title">À propos du projet</div>
+        <div className="card-sub">Pipeline Big Data & Machine Learning — MSPR EPSI</div>
+        <p style={{fontSize:13,color:"var(--fg-2)",lineHeight:1.7,maxWidth:720}}>
+          Analyse de <strong style={{color:"var(--fg)"}}>8 élections</strong> (2014–2024) sur <strong style={{color:"var(--fg)"}}>280 communes</strong> du Rhône.
+          Feature engineering « delta » (différences inter-millésimes INSEE) pour capturer la dynamique territoriale.
+          Modèle Random Forest entraîné sur les législatives 2017+2022, testé sur 2024, puis projeté sur <strong style={{color:"var(--fg)"}}>2027</strong>.
+        </p>
+        <div style={{marginTop:12}}>
+          <div style={{fontSize:11,color:"var(--fg-3)",fontWeight:600,letterSpacing:.5,textTransform:"uppercase",marginBottom:6}}>Stack technique</div>
+          <div className="tech-badges">
+            {["Python","pandas","scikit-learn","Random Forest","Jupyter","matplotlib","React","Recharts","Tailwind"].map(t=>(
+              <span key={t} className="tech-badge">{t}</span>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ══════════════════════════════════════════════════════════
+// PAGE: COMMUNES
+// ══════════════════════════════════════════════════════════
+function Communes() {
+  const [search, setSearch] = React.useState("");
+  const [filterFam, setFilterFam] = React.useState("all");
+  const [sortKey, setSortKey] = React.useState("pop");
+  const [sortDir, setSortDir] = React.useState(-1);
+  const [page, setPage] = React.useState(0);
+  const PER_PAGE = 25;
+
+  const families = ["Extreme droite","Centre","Gauche","Gauche radicale","Droite","Ecologie","Divers"];
+
+  const filtered = React.useMemo(() => {
+    let r = COMMUNES.filter(c => {
+      const q = search.toLowerCase();
+      return c.nom.toLowerCase().includes(q) || c.code.includes(q);
+    });
+    if (filterFam !== "all") r = r.filter(c => c.legi2024 === filterFam);
+    r = [...r].sort((a,b) => {
+      const av = a[sortKey] ?? 0, bv = b[sortKey] ?? 0;
+      return sortDir * (av > bv ? 1 : av < bv ? -1 : 0);
+    });
+    return r;
+  }, [search, filterFam, sortKey, sortDir]);
+
+  const paged = filtered.slice(page*PER_PAGE, (page+1)*PER_PAGE);
+  const totalPages = Math.ceil(filtered.length / PER_PAGE);
+
+  function toggleSort(k) {
+    if (sortKey === k) setSortDir(d => -d);
+    else { setSortKey(k); setSortDir(-1); }
+    setPage(0);
+  }
+
+  function SortIcon({k}) {
+    if (sortKey !== k) return <span style={{color:"var(--fg-3)"}}>↕</span>;
+    return <span style={{color:"var(--accent)"}}>{sortDir>0?"↑":"↓"}</span>;
+  }
+
+  const baselineChanged = c => c.legi2024 !== c.legi2022;
+
+  return (
+    <div>
+      <div className="search-row">
+        <input className="search-input" placeholder="Rechercher une commune ou un code…"
+          value={search} onChange={e=>{setSearch(e.target.value);setPage(0);}}/>
+        <select className="filter-select" value={filterFam} onChange={e=>{setFilterFam(e.target.value);setPage(0);}}>
+          <option value="all">Toutes les familles 2024</option>
+          {families.map(f=><option key={f} value={f}>{f}</option>)}
+        </select>
+      </div>
+      <div style={{fontSize:12,color:"var(--fg-3)",marginBottom:10}}>
+        {filtered.length} commune{filtered.length>1?"s":""} · {filtered.filter(baselineChanged).length} basculement{filtered.filter(baselineChanged).length>1?"s":""} 2022→2024
+      </div>
+      <div className="card" style={{padding:0,overflow:"hidden"}}>
+        <div className="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Commune</th>
+                <th style={{cursor:"pointer"}} onClick={()=>toggleSort("pop")}>Population <SortIcon k="pop"/></th>
+                <th>Legi 2017</th>
+                <th>Legi 2022</th>
+                <th>Legi 2024</th>
+                <th style={{cursor:"pointer"}} onClick={()=>toggleSort("revenu")}>Rev. médian <SortIcon k="revenu"/></th>
+                <th style={{cursor:"pointer"}} onClick={()=>toggleSort("chomage")}>Chômage <SortIcon k="chomage"/></th>
+                <th style={{cursor:"pointer"}} onClick={()=>toggleSort("densite")}>Densité <SortIcon k="densite"/></th>
+              </tr>
+            </thead>
+            <tbody>
+              {paged.map(c => {
+                const changed = baselineChanged(c);
+                return (
+                  <tr key={c.code}>
+                    <td>
+                      <div style={{display:"flex",alignItems:"center",gap:6}}>
+                        {changed && <span style={{width:6,height:6,borderRadius:"50%",background:"#FBBF24",display:"inline-block",flexShrink:0}} title="Basculement 2022→2024"/>}
+                        <div>
+                          <div style={{fontWeight:500}}>{c.nom}</div>
+                          <div style={{fontSize:11,color:"var(--fg-3)"}}>{c.code}</div>
+                        </div>
+                      </div>
+                    </td>
+                    <td className="number-cell">{c.pop > 0 ? c.pop.toLocaleString("fr-FR") : "—"}</td>
+                    <td><FamilyPill family={c.legi2017}/></td>
+                    <td><FamilyPill family={c.legi2022}/></td>
+                    <td><FamilyPill family={c.legi2024}/></td>
+                    <td className="number-cell">{c.revenu > 0 ? c.revenu.toLocaleString("fr-FR")+" €" : "—"}</td>
+                    <td className="number-cell">{c.chomage > 0 ? c.chomage+"%" : "—"}</td>
+                    <td className="number-cell">{c.densite > 0 ? c.densite+" /km²" : "—"}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+        {totalPages > 1 && (
+          <div style={{display:"flex",alignItems:"center",gap:8,padding:"10px 16px",borderTop:"1px solid var(--border)"}}>
+            <button onClick={()=>setPage(p=>Math.max(0,p-1))} disabled={page===0}
+              style={{background:"var(--bg-surf)",border:"1px solid var(--border)",color:"var(--fg)",padding:"4px 10px",borderRadius:5,cursor:"pointer",fontSize:12}}>
+              ←
+            </button>
+            <span style={{fontSize:12,color:"var(--fg-2)"}}>Page {page+1}/{totalPages} · {filtered.length} résultats</span>
+            <button onClick={()=>setPage(p=>Math.min(totalPages-1,p+1))} disabled={page===totalPages-1}
+              style={{background:"var(--bg-surf)",border:"1px solid var(--border)",color:"var(--fg)",padding:"4px 10px",borderRadius:5,cursor:"pointer",fontSize:12}}>
+              →
+            </button>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+// ══════════════════════════════════════════════════════════
+// PAGE: VISUALISATIONS
+// ══════════════════════════════════════════════════════════
+function Visualisations() {
+  const revByFam = React.useMemo(() => {
+    const groups = {};
+    COMMUNES.forEach(c => {
+      const f = c.legi2024;
+      if (!f || !c.revenu) return;
+      if (!groups[f]) groups[f] = [];
+      groups[f].push(c.revenu);
+    });
+    return Object.entries(groups)
+      .map(([fam, vals]) => ({
+        fam,
+        avg: Math.round(vals.reduce((s,v)=>s+v,0)/vals.length),
+        color: getFamilyColor(fam)
+      }))
+      .sort((a,b)=>b.avg-a.avg);
+  }, []);
+
+  const chomByFam = React.useMemo(() => {
+    const groups = {};
+    COMMUNES.forEach(c => {
+      const f = c.legi2024;
+      if (!f || !c.chomage) return;
+      if (!groups[f]) groups[f] = [];
+      groups[f].push(c.chomage);
+    });
+    return Object.entries(groups)
+      .map(([fam, vals]) => ({
+        fam,
+        avg: Math.round(vals.reduce((s,v)=>s+v,0)/vals.length * 10)/10,
+        color: getFamilyColor(fam)
+      }))
+      .sort((a,b)=>b.avg-a.avg);
+  }, []);
+
+  return (
+    <div>
+      <div className="two-col">
+        <div className="card">
+          <div className="card-title">Revenu médian moyen par famille gagnante</div>
+          <div className="card-sub">Législatives 2024 — communes du Rhône</div>
+          <div style={{marginTop:8}}>
+            {revByFam.map((d,index)=>(
+              <div className="prog-row" key={d.fam}>
+                <span className="prog-label"><FamilyPill family={d.fam}/></span>
+                <div className="prog-bar-bg">
+                  <AnimatedBar pct={(d.avg/35000)*100} color={d.color} delay={index*80}/>
+                </div>
+                <span className="prog-val">{d.avg > 0 ? d.avg.toLocaleString("fr-FR")+" €" : "—"}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+        <div className="card">
+          <div className="card-title">Taux de chômage moyen par famille gagnante</div>
+          <div className="card-sub">Données INSEE 2022</div>
+          <div style={{marginTop:8}}>
+            {chomByFam.map((d,index)=>(
+              <div className="prog-row" key={d.fam}>
+                <span className="prog-label"><FamilyPill family={d.fam}/></span>
+                <div className="prog-bar-bg">
+                  <AnimatedBar pct={(d.avg/20)*100} color={d.color} delay={index*80}/>
+                </div>
+                <span className="prog-val">{d.avg > 0 ? d.avg+"%" : "—"}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <div className="card full-col">
+        <div className="card-title">Participation — évolution par type d'élection</div>
+        <div className="card-sub">Taux de participation moyen sur les communes du Rhône</div>
+        <ParticipationChart data={PARTICIPATION} height={220}/>
+      </div>
+
+      <div className="card full-col">
+        <div className="card-title">Dynamique électorale 2017 → 2022 → 2024</div>
+        <div className="card-sub">Nombre de communes remportées par famille politique — Législatives</div>
+        <StackedBarChart data={LEGI_EVO}
+          keys={["Centre","Droite","Extreme droite","Gauche radicale","Gauche"]}
+          colors={{"Centre":"#FBBF24","Droite":"#60A5FA","Extreme droite":"#EF4444","Gauche radicale":"#A78BFA","Gauche":"#F472B6"}}
+          height={260}
+        />
+        <div className="legend">
+          {[["Centre","#FBBF24"],["Droite","#60A5FA"],["Extreme droite","#EF4444"],["Gauche radicale","#A78BFA"],["Gauche","#F472B6"]].map(([k,c])=>(
+            <div key={k} className="legend-item"><span className="legend-dot" style={{background:c}}/>{k}</div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ══════════════════════════════════════════════════════════
+// PAGE: SIMULATEUR
+// ══════════════════════════════════════════════════════════
+function Simulateur() {
+  const [revenu, setRevenu]   = React.useState(23000);
+  const [chomage, setChomage] = React.useState(8);
+  const [densite, setDensite] = React.useState(300);
+  const [delta, setDelta]     = React.useState(0);
+
+  const prediction = React.useMemo(() => {
+    // Rule-based predictor informed by feature importance & data patterns
+    let scores = {"Extreme droite":0,"Centre":0,"Gauche":0,"Droite":0,"Gauche radicale":0};
+    // Revenu
+    if (revenu < 19000)       scores["Extreme droite"] += 35;
+    else if (revenu < 22000)  { scores["Extreme droite"] += 20; scores["Droite"] += 10; }
+    else if (revenu < 26000)  { scores["Centre"] += 15; scores["Droite"] += 15; }
+    else if (revenu < 30000)  { scores["Centre"] += 20; scores["Gauche"] += 10; }
+    else                      { scores["Gauche"] += 25; scores["Gauche radicale"] += 10; }
+    // Chômage
+    if (chomage > 14)         scores["Gauche radicale"] += 20;
+    else if (chomage > 10)    { scores["Extreme droite"] += 15; scores["Gauche"] += 10; }
+    else if (chomage > 6)     { scores["Centre"] += 10; scores["Extreme droite"] += 8; }
+    else                      scores["Centre"] += 15;
+    // Densité
+    if (densite > 3000)       { scores["Gauche"] += 25; scores["Gauche radicale"] += 10; }
+    else if (densite > 500)   { scores["Centre"] += 15; scores["Gauche"] += 10; }
+    else if (densite > 100)   { scores["Centre"] += 10; scores["Droite"] += 10; }
+    else                      { scores["Extreme droite"] += 20; scores["Droite"] += 10; }
+    // Delta abstention (proxy for discontent)
+    if (delta > 5)            scores["Extreme droite"] += 15;
+    else if (delta > 2)       { scores["Extreme droite"] += 8; scores["Centre"] += 5; }
+    else if (delta < -3)      scores["Gauche radicale"] += 10;
+
+    const total = Object.values(scores).reduce((s,v)=>s+v,0);
+    const sorted = Object.entries(scores).sort((a,b)=>b[1]-a[1]);
+    const winner = sorted[0][0];
+    const conf = sorted[0][1]/total;
+
+    // Find similar real communes
+    const similar = COMMUNES.filter(c => c.legi2024 === winner &&
+      Math.abs((c.revenu||0)-revenu) < 3000 &&
+      Math.abs((c.chomage||0)-chomage) < 3
+    ).slice(0,4);
+
+    return {winner, conf, scores: sorted.map(([k,v])=>({k,v,pct:v/total})), similar};
+  }, [revenu, chomage, densite, delta]);
+
+  const winColor = getFamilyColor(prediction.winner);
+
+  return (
+    <div>
+      <div className="card full-col">
+        <div className="card-title">Simulateur de prédiction — Législatives</div>
+        <div className="card-sub">Ajustez les indicateurs socio-économiques pour prédire la famille politique gagnante</div>
+        <div className="sim-grid">
+          <div className="slider-block">
+            <div className="slider-label">Revenu médian <span className="slider-value">{revenu.toLocaleString("fr-FR")} €</span></div>
+            <input type="range" min="13000" max="40000" step="500" value={revenu} onChange={e=>setRevenu(+e.target.value)}/>
+            <div style={{display:"flex",justifyContent:"space-between",fontSize:10,color:"var(--fg-3)"}}>
+              <span>13 000 €</span><span>40 000 €</span>
+            </div>
+          </div>
+          <div className="slider-block">
+            <div className="slider-label">Taux de chômage <span className="slider-value">{chomage}%</span></div>
+            <input type="range" min="1" max="25" step="0.5" value={chomage} onChange={e=>setChomage(+e.target.value)}/>
+            <div style={{display:"flex",justifyContent:"space-between",fontSize:10,color:"var(--fg-3)"}}>
+              <span>1%</span><span>25%</span>
+            </div>
+          </div>
+          <div className="slider-block">
+            <div className="slider-label">Densité de population <span className="slider-value">{densite.toLocaleString("fr-FR")} /km²</span></div>
+            <input type="range" min="5" max="12000" step="50" value={densite} onChange={e=>setDensite(+e.target.value)}/>
+            <div style={{display:"flex",justifyContent:"space-between",fontSize:10,color:"var(--fg-3)"}}>
+              <span>5</span><span>12 000</span>
+            </div>
+          </div>
+          <div className="slider-block">
+            <div className="slider-label">Delta abstention 2017→2022 <span className="slider-value">{delta > 0 ? "+":""}{delta}pts</span></div>
+            <input type="range" min="-10" max="15" step="0.5" value={delta} onChange={e=>setDelta(+e.target.value)}/>
+            <div style={{display:"flex",justifyContent:"space-between",fontSize:10,color:"var(--fg-3)"}}>
+              <span>-10 pts</span><span>+15 pts</span>
+            </div>
+          </div>
+        </div>
+
+        <div className="prediction-box">
+          <div>
+            <div style={{fontSize:11,color:"var(--fg-3)",fontWeight:600,letterSpacing:.5,textTransform:"uppercase",marginBottom:4}}>Famille prédite</div>
+            <div className="pred-family" style={{color:winColor}}>{prediction.winner}</div>
+            <div className="pred-conf">{Math.round(prediction.conf*100)}% de confiance</div>
+          </div>
+          <div className="conf-bar-wrap">
+            <div style={{fontSize:11,color:"var(--fg-3)",fontWeight:600,letterSpacing:.5,textTransform:"uppercase",marginBottom:8}}>Scores par famille</div>
+            {prediction.scores.slice(0,5).map(({k,pct})=>(
+              <div key={k} style={{marginBottom:6}}>
+                <div style={{display:"flex",justifyContent:"space-between",fontSize:11,marginBottom:2}}>
+                  <span style={{color:"var(--fg-2)"}}>{k}</span>
+                  <span style={{fontWeight:600}}>{Math.round(pct*100)}%</span>
+                </div>
+                <div className="conf-bar-bg">
+                  <div className="conf-bar-fill" style={{width:`${pct*100}%`,background:getFamilyColor(k)}}/>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      {prediction.similar.length > 0 && (
+        <div className="card">
+          <div className="card-title">Communes réelles similaires</div>
+          <div className="card-sub">Communes du Rhône avec des indicateurs proches ayant voté {prediction.winner}</div>
+          <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fill,minmax(200px,1fr))",gap:10,marginTop:12}}>
+            {prediction.similar.map(c=>(
+              <div key={c.code} style={{background:"var(--bg-surf)",border:"1px solid var(--border)",borderRadius:8,padding:"12px 14px"}}>
+                <div style={{fontWeight:600,marginBottom:4}}>{c.nom}</div>
+                <div style={{fontSize:11,color:"var(--fg-3)",marginBottom:6}}>{c.code}</div>
+                <div style={{fontSize:12,color:"var(--fg-2)"}}>
+                  <div>Rev: {c.revenu > 0 ? c.revenu.toLocaleString("fr-FR")+" €" : "—"}</div>
+                  <div>Chôm: {c.chomage > 0 ? c.chomage+"%" : "—"}</div>
+                  <div>Densité: {c.densite > 0 ? c.densite+" /km²" : "—"}</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+// ══════════════════════════════════════════════════════════
+// PAGE: PROJECTIONS 2027
+// ══════════════════════════════════════════════════════════
+function Projections() {
+  const proj = React.useMemo(() => {
+    return COMMUNES.map(c => {
+      let p2027 = c.legi2024;
+      // Simple trend: XD consolidated, Gauche momentum continues
+      if (c.legi2022 !== "Extreme droite" && c.legi2024 === "Extreme droite") p2027 = "Extreme droite";
+      else if (c.legi2024 === "Gauche") p2027 = "Gauche";
+      return {...c, proj2027: p2027};
+    });
+  }, []);
+
+  const dist2024 = {};
+  const dist2027 = {};
+  proj.forEach(c => {
+    if (c.legi2024) dist2024[c.legi2024] = (dist2024[c.legi2024]||0)+1;
+    if (c.proj2027) dist2027[c.proj2027] = (dist2027[c.proj2027]||0)+1;
+  });
+
+  const families = ["Extreme droite","Centre","Gauche","Gauche radicale","Droite","Ecologie","Divers"];
+  const flips = proj.filter(c => c.legi2024 !== c.proj2027);
+
+  return (
+    <div>
+      <div className="card full-col" style={{background:"var(--bg-surf)",border:"1px solid #FBBF2440"}}>
+        <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:8}}>
+          <span style={{fontSize:18}}>⚠️</span>
+          <div style={{fontSize:13,color:"var(--fg-2)"}}>
+            <strong style={{color:"var(--warn)"}}>Projections indicatives</strong> — Basées sur une analyse de tendance 2017→2022→2024.
+            Le modèle Random Forest (R²=0.859) est entraîné sur les législatives ; les projections 2027 sont des extrapolations.
+          </div>
+        </div>
+      </div>
+
+      <div className="two-col">
+        <div className="card">
+          <div className="card-title">Comparaison 2024 vs 2027 projeté</div>
+          <div className="card-sub">Distribution des communes du Rhône</div>
+          <div style={{display:"flex",flexDirection:"column",gap:10,marginTop:12}}>
+            {families.filter(f=>dist2024[f]||dist2027[f]).map(f=>(
+              <div key={f}>
+                <div style={{display:"flex",alignItems:"center",gap:6,marginBottom:4}}>
+                  <FamilyPill family={f}/>
+                </div>
+                <div style={{display:"flex",gap:6,alignItems:"center"}}>
+                  <span style={{fontSize:11,color:"var(--fg-3)",width:50}}>2024</span>
+                  <div style={{flex:1,background:"var(--bg-surf)",borderRadius:3,height:6,overflow:"hidden"}}>
+                    <AnimatedBar pct={((dist2024[f]||0)/280)*100} color={getFamilyColor(f)} delay={0}/>
+                  </div>
+                  <span style={{fontSize:12,fontWeight:600,width:30,textAlign:"right",fontVariantNumeric:"tabular-nums"}}>{dist2024[f]||0}</span>
+                </div>
+                <div style={{display:"flex",gap:6,alignItems:"center",marginTop:3}}>
+                  <span style={{fontSize:11,color:"var(--fg-3)",width:50}}>2027</span>
+                  <div style={{flex:1,background:"var(--bg-surf)",borderRadius:3,height:6,overflow:"hidden"}}>
+                    <AnimatedBar pct={((dist2027[f]||0)/280)*100} color={getFamilyColor(f)+"99"} delay={80}/>
+                  </div>
+                  <span style={{fontSize:12,fontWeight:600,width:30,textAlign:"right",fontVariantNumeric:"tabular-nums"}}>{dist2027[f]||0}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="card">
+          <div className="card-title">Basculements projetés 2024 → 2027</div>
+          <div className="card-sub">{flips.length} commune{flips.length>1?"s":""} en transition</div>
+          {flips.length === 0 ? (
+            <p style={{color:"var(--fg-3)",fontSize:13,marginTop:12}}>Aucun basculement projeté avec le scénario de tendance actuel.</p>
+          ) : (
+            <div className="table-wrap" style={{marginTop:12}}>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Commune</th>
+                    <th>2024</th>
+                    <th>2027 proj.</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {flips.slice(0,20).map(c=>(
+                    <tr key={c.code}>
+                      <td><span style={{fontWeight:500}}>{c.nom}</span></td>
+                      <td><FamilyPill family={c.legi2024}/></td>
+                      <td><FamilyPill family={c.proj2027}/></td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
+        </div>
+      </div>
+
+      <div className="card">
+        <div className="card-title">Top 10 communes — Rhône par population</div>
+        <div className="card-sub">Résultats 2022, 2024 et projection 2027</div>
+        <div className="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Commune</th>
+                <th>Population</th>
+                <th>Legi 2022</th>
+                <th>Legi 2024</th>
+                <th>Proj. 2027</th>
+              </tr>
+            </thead>
+            <tbody>
+              {proj.slice(0,10).map(c=>(
+                <tr key={c.code}>
+                  <td><span style={{fontWeight:500}}>{c.nom}</span></td>
+                  <td className="number-cell">{c.pop > 0 ? c.pop.toLocaleString("fr-FR") : "—"}</td>
+                  <td><FamilyPill family={c.legi2022}/></td>
+                  <td><FamilyPill family={c.legi2024}/></td>
+                  <td><FamilyPill family={c.proj2027}/></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ══════════════════════════════════════════════════════════
+// PAGE: MODÈLE ML
+// ══════════════════════════════════════════════════════════
+function ModeleML() {
+  const pipelineSteps = [
+    {title:"01_raw", desc:"Données brutes"},
+    {title:"02_staging", desc:"Nettoyage"},
+    {title:"03_processed", desc:"Features delta"},
+    {title:"Train+Test", desc:"2017+2022 / 2024"},
+    {title:"Random Forest", desc:"R²=0.859"},
+    {title:"Projection", desc:"2027"},
+  ];
+  const bestModel = {modele:"Random Forest",r2:0.859,mae:"1.94–3.2%",cv:"0.683"};
+  return (
+    <div>
+      <div className="kpi-grid">
+        <div className="kpi-card">
+          <div className="kpi-label">Meilleur modèle</div>
+          <div className="kpi-value" style={{fontSize:17,paddingTop:4,color:"var(--accent)"}}>Random Forest</div>
+          <div className="kpi-sub">Gradient Boosting, Ridge, LR testés</div>
+        </div>
+        <div className="kpi-card">
+          <div className="kpi-label">Score R²</div>
+          <div className="kpi-value" style={{color:"var(--success)"}}><CountUp to={0.859} duration={1200}/></div>
+          <div className="kpi-sub">Validation croisée 5-fold</div>
+        </div>
+        <div className="kpi-card">
+          <div className="kpi-label">MAE</div>
+          <div className="kpi-value" style={{fontSize:20,paddingTop:6,color:"var(--warn)"}}>1.94–3.2%</div>
+          <div className="kpi-sub">Erreur absolue moyenne</div>
+        </div>
+        <div className="kpi-card">
+          <div className="kpi-label">Critère de succès</div>
+          <div className="kpi-value" style={{color:"var(--success)",fontSize:20,paddingTop:6}}>R² &gt; 0.5</div>
+          <div className="kpi-sub" style={{color:"var(--success)"}}>✓ Objectif dépassé</div>
+        </div>
+      </div>
+
+      <div className="card full-col">
+        <div className="card-title">Pipeline de données</div>
+        <div className="card-sub">Flux de traitement de la donnée brute à la projection</div>
+        <div className="pipeline">
+          {pipelineSteps.map((s,i)=>(
+            <React.Fragment key={i}>
+              <div className="pipe-step">
+                <strong>{s.title}</strong>
+                {s.desc}
+              </div>
+              {i < pipelineSteps.length-1 && <span className="pipe-arrow">→</span>}
+            </React.Fragment>
+          ))}
+        </div>
+      </div>
+
+      <div className="two-col">
+        <div className="card">
+          <div className="card-title">Comparaison des modèles</div>
+          <div className="card-sub">Accuracy, F1-score et score CV (5-fold)</div>
+          <div style={{marginTop:16}}>
+            {MODELS.map(m => (
+              <div key={m.modele} style={{
+                marginBottom:16,
+                background: m.modele==="Logistic Regression" ? "var(--bg-surf)" : "transparent",
+                borderRadius:7, padding: m.modele==="Logistic Regression"?10:0,
+                border: m.modele==="Logistic Regression" ? "1px solid var(--accent-lo)":"none"
+              }}>
+                <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:8}}>
+                  <span style={{fontWeight:600,fontSize:13}}>{m.modele}</span>
+                  {m.modele==="Logistic Regression" && <span className="badge badge-blue">Meilleur test</span>}
+                </div>
+                <HBarChart data={[
+                  {label:"Accuracy",  value:m.accuracy,  color:"#4A7AFF"},
+                  {label:"F1 weighted",value:m.f1,       color:"#34D399"},
+                  {label:"Score CV",   value:m.cv,        color:"#FBBF24"},
+                ]} labelKey="label" valueKey="value" color={d=>d.color} maxVal={1}/>
+              </div>
+            ))}
+          </div>
+          <div style={{marginTop:12,padding:"10px 12px",background:"var(--bg-surf)",borderRadius:7,fontSize:12,color:"var(--fg-2)"}}>
+            <strong style={{color:"var(--warn)"}}>Note méthodologique :</strong> Le Random Forest a le meilleur score CV (0.683) mais une accuracy basse sur le test 2024 en raison de la dissolution exceptionnelle. La Logistic Regression est plus robuste hors-distribution.
+          </div>
+        </div>
+
+        <div className="card">
+          <div className="card-title">Importance des features</div>
+          <div className="card-sub">Score d'importance relatif (estimé)</div>
+          <div style={{marginTop:12}}>
+            {FEATURES.map(f=>(
+              <div className="prog-row" key={f.name}>
+                <span className="prog-label" style={{fontSize:11,width:200}}>{f.name}</span>
+                <div className="prog-bar-bg">
+                  <AnimatedBar pct={f.score*100/0.19*100} color="var(--accent)" delay={0}/>
+                </div>
+                <span className="prog-val">{Math.round(f.score*100)}%</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <div className="card">
+        <div className="card-title">Approche delta — Feature Engineering</div>
+        <div className="card-sub">La clé méthodologique du projet</div>
+        <p style={{fontSize:13,color:"var(--fg-2)",lineHeight:1.7,marginBottom:16,maxWidth:720}}>
+          Plutôt que d'utiliser des données socio-économiques figées, le projet calcule des <strong style={{color:"var(--fg)"}}>indicateurs delta</strong> (Année2 − Année1)
+          pour capturer la <em>dynamique</em> d'évolution des territoires — toujours entre deux millésimes de la même source pour éviter les incohérences méthodologiques.
+        </p>
+        <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fill,minmax(220px,1fr))",gap:10}}>
+          {[
+            {label:"Δ Chômage",desc:"2016 → 2022 (INSEE)"},
+            {label:"Δ Revenus",desc:"2017 → 2020 (Filosofi)"},
+            {label:"Δ Abstention",desc:"2017 → 2022"},
+            {label:"Δ Délinquance",desc:"2016 → 2021 (SSMSI)"},
+            {label:"Δ Vie assoc.",desc:"2019 → 2022 (RNA)"},
+            {label:"Δ Jeunesse",desc:"2016 → 2022 (INSEE)"},
+            {label:"Δ Immigration",desc:"2016 → 2022 (INSEE)"},
+            {label:"Δ Violences",desc:"2017 → 2024 (SSMSI)"},
+          ].map(d=>(
+            <div key={d.label} style={{background:"var(--bg-surf)",border:"1px solid var(--border)",borderRadius:7,padding:"10px 12px"}}>
+              <div style={{fontWeight:600,color:"var(--accent)",fontSize:13}}>{d.label}</div>
+              <div style={{fontSize:11,color:"var(--fg-3)",marginTop:2}}>{d.desc}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ══════════════════════════════════════════════════════════
+// NAVIGATION ICONS (SVG inline)
+// ══════════════════════════════════════════════════════════
+const ICONS = {
+  dashboard: <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.8"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>,
+  communes:  <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>,
+  viz:       <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.8"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>,
+  sim:       <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.8"><circle cx="12" cy="12" r="3"/><path d="M19.07 4.93l-1.41 1.41M4.93 4.93l1.41 1.41M2 12h2m16 0h2M4.93 19.07l1.41-1.41M19.07 19.07l-1.41-1.41"/></svg>,
+  proj:      <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.8"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>,
+  model:     <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.8"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>,
+};
+
+// ══════════════════════════════════════════════════════════
+// LAYOUT & APP
+// ══════════════════════════════════════════════════════════
+const NAV = [
+  {id:"dashboard", label:"Tableau de bord", icon:ICONS.dashboard},
+  {id:"communes",  label:"Communes",         icon:ICONS.communes},
+  {id:"viz",       label:"Visualisations",   icon:ICONS.viz},
+  {id:"sim",       label:"Simulateur",        icon:ICONS.sim},
+  {id:"proj",      label:"Projections 2027", icon:ICONS.proj},
+  {id:"model",     label:"Modèle ML",         icon:ICONS.model},
+];
+
+const PAGE_TITLES = {
+  dashboard:"Tableau de bord",communes:"Communes",
+  viz:"Visualisations",sim:"Simulateur",
+  proj:"Projections 2027",model:"Modèle ML"
+};
+
+function App() {
+  const [sidebarOpen, setSidebarOpen] = React.useState(false);
+  const [page, setPage] = React.useState(() => {
+    const h = window.location.hash.replace("#","");
+    return NAV.find(n=>n.id===h) ? h : "dashboard";
+  });
+
+  React.useEffect(() => {
+    const onHash = () => {
+      const h = window.location.hash.replace("#","");
+      if (NAV.find(n=>n.id===h)) setPage(h);
+    };
+    window.addEventListener("hashchange", onHash);
+    return ()=>window.removeEventListener("hashchange", onHash);
+  }, []);
+
+  function navigate(id) {
+    setPage(id);
+    window.location.hash = id;
+    setSidebarOpen(false);
+  }
+
+  const PageContent = {dashboard:Dashboard,communes:Communes,viz:Visualisations,sim:Simulateur,proj:Projections,model:ModeleML}[page];
+
+  return (
+    <>
+      <nav className={`sidebar${sidebarOpen?" open":""}`} role="navigation" aria-label="Navigation principale">
+        <div className="sidebar-logo">
+          <img src="data:image/png;base64,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" alt="Electio Analytics" style={{width:110,height:110,objectFit:"contain",display:"block",margin:"0 auto 4px"}}/>
+          <div className="sidebar-logo-sub" style={{textAlign:"center"}}>MSPR · EPSI · Rhône 69</div>
+        </div>
+        <div className="sidebar-nav">
+          <div className="nav-section-label">Navigation</div>
+          {NAV.map(n=>(
+            <button key={n.id} className={`nav-item${page===n.id?" active":""}`}
+              onClick={()=>navigate(n.id)} aria-current={page===n.id?"page":undefined}>
+              {n.icon}{n.label}
+            </button>
+          ))}
+        </div>
+        <div className="sidebar-footer">
+          <div>Paul Yvan Vondi — Data Scientist</div>
+          <div className="tech-badges">
+            <span className="tech-badge">Python</span>
+            <span className="tech-badge">scikit-learn</span>
+            <span className="tech-badge">React</span>
+          </div>
+        </div>
+      </nav>
+
+      <main className="main">
+        <div className="topbar">
+          <div style={{display:"flex",alignItems:"center",gap:10}}>
+            <button className="mobile-toggle" onClick={()=>setSidebarOpen(o=>!o)} aria-label="Menu">
+              <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+                <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+              </svg>
+            </button>
+            <span className="topbar-title">{PAGE_TITLES[page]}</span>
+          </div>
+          <div style={{display:"flex",gap:8,alignItems:"center"}}>
+            <span className="badge badge-green">R² = 0.859</span>
+            <span className="badge badge-blue">280 communes</span>
+          </div>
+        </div>
+        <div className="page-content">
+          <div key={page} className="page-enter">
+            <PageContent/>
+          </div>
+        </div>
+      </main>
+    </>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<App/>);
+</script>
+
+</body>
+</html>
